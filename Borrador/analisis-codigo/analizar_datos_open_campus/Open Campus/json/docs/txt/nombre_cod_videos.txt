@@ -1,0 +1,45 @@
+Video Introductorio al Curso 
+video_intro: vKq2NotGPJQ
+
+Primera Lista de Reproducción Semana 1
+LR_1_Video1_Semana1: U3cK1QMIIEQ
+LR_1_Video2_Semana1: 9aNQZ9dKXRY
+LR_1_Video3_Semana1: lsNxh-lSpCY
+LR_1_Video4_Semana1: C3LnEvN0qZ0
+LR_1_Video5_Semana1: vbpbkQE5K_Q
+LR_1_Video6_Semana1: zCFa0xjGXGQ
+LR_1_Video7_Semana1: qlS7ShZfb-c
+LR_1_Video8_Semana1: 8cKRb9CKtxk
+LR_1_Video9_Semana1: WyrfIZ6VBcM
+LR_1_Video10_Semana1: NgUhK3rw1IE
+LR_1_Video11_Semana1: ttP0EyzSbbo
+LR_1_Video12_Semana1: Vy4FWDyjZo4
+
+Segunda Lista de Reproducción Semana 1
+LR_2_Video1_Semana1: leg7NPlfNf0
+LR_2_Video2_Semana1: avTMbQWrFgM
+LR_2_Video3_Semana1: cNoUwGM1DQs
+LR_2_Video4_Semana1: 6Mst559v-Uc
+LR_2_Video5_Semana1: CNQpefXv5DY
+LR_2_Video_Semana1: 6W1_fBZFqns
+
+Primera Lista de Reproducción Semana 2
+LR_1_Video1_Semana2: o5VwDVJ7N3Q
+LR_1_Video2_Semana2: LluqYlh2xg4
+LR_1_Video3_Semana2: eE658thjDj8
+LR_1_Video4_Semana2: QbEpClHzTeM
+LR_1_Video5_Semana2: MCG0or2ULB4
+LR_1_Video6_Semana2: ol-vGTdHBNU
+LR_1_Video7_Semana2: WTXS0IMQ3Ss
+LR_1_Video8_Semana2: 9kqXmM3b3wc
+
+Primer Video Suelto Semana 2
+VS1_Video1_Semana2: _zQHV3vCGpA
+Segundo Video Suelto Semana 2
+VS2_Video2_Semana2: RropOrUc2AE
+
+Semana 3
+Video1_Semana3: VGHSSIUyFhI
+
+Semana 4
+Video1_Semana4: kyGRuJXaboU

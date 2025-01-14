@@ -1,0 +1,12 @@
+Frecuencia de valores en la columna 'EvalSemanal 02':
+EvalSemanal 02
+0.0    234
+0.2      1
+0.5      2
+0.6      2
+0.7      5
+0.8     13
+0.9     16
+1.0     48
+
+Número total de datos: 321

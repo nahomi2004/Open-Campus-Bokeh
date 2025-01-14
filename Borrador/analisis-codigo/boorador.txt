@@ -1,0 +1,53 @@
+def contar_stop_y_graficar(ruta_lectura):
+    """
+    Analiza las pausas totales (pause) en los videos y muestra un gráfico de barras junto con una tabla.
+    :param ruta_lectura: Ruta del archivo JSONL de entrada.
+    """
+    conteo_pausas = {}
+
+    try:
+        # Leer el archivo JSONL
+        with open(ruta_lectura, 'r', encoding='utf-8') as archivo:
+            for linea in archivo:
+                if linea.strip():  # Ignorar líneas vacías
+                    try:
+                        objeto = json.loads(linea.strip())  # Cargar cada línea como JSON
+                        evento = json.loads(objeto.get('event', '{}'))  # Convertir el campo 'event' a JSON
+                        codigo_video = evento.get('code', '')
+
+                        # Incrementar el conteo de pausas para el código de video
+                        if codigo_video:
+                            conteo_pausas[codigo_video] = conteo_pausas.get(codigo_video, 0) + 1
+                    except json.JSONDecodeError as e:
+                        print(f"Error al decodificar línea: {e}")
+                        
+        sorted_by_codigo = reemplazar_codigos_por_nombres(conteo_pausas, mapeo_codigos)
+        
+        # Ordenar los datos en orden alfabético por el código del video
+        # sorted_by_codigo = dict(sorted(conteo_pausas.items(), key=lambda item: item[0]))
+        
+        # Crear la tabla de datos
+        tabla_datos = [[codigo, reproducciones] for codigo, reproducciones in sorted_by_codigo.items()]
+        print("\nDatos Analizados:")
+        print(tabulate(tabla_datos, headers=["Código de Video", "Pausas Totales"], tablefmt="grid"))
+
+        # Crear el gráfico de barras
+        codigos = list(sorted_by_codigo.keys())
+        reproducciones = list(sorted_by_codigo.values())
+
+        plt.figure(figsize=(12, 6))
+        plt.bar(codigos, reproducciones, color='skyblue')
+        plt.xlabel('Código de Video', fontsize=12)
+        plt.ylabel('Pausas Totales', fontsize=12)
+        plt.title('Pausas Totales por Código de Video', fontsize=14)
+        plt.xticks(rotation=45, ha='right')  # Rotar etiquetas en el eje X
+        plt.tight_layout()  # Ajustar el diseño para evitar que se superpongan
+
+        # Mostrar la gráfica
+        plt.show()
+
+    except Exception as e:
+        print(f"Error general: {e}")
+        
+ruta_lectura = r"C:\Users\nahom\OneDrive - Universidad Técnica Particular de Loja - UTPL\Curso Documentos Accesibles\CSV\analisis-codigo\analizar_datos_open_campus\Open Campus\json\docs\jsonl\stop_video.jsonl"
+contar_stop_y_graficar(ruta_lectura)

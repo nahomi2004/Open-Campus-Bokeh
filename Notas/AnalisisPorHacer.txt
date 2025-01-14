@@ -1,0 +1,62 @@
+Saber qué video es el más reproducido:
+
+Interacciones por video: https://docs.bokeh.org/en/latest/docs/examples/basic/bars/dodged.html
+
+Gráfica recomendada: Gráfica de barras verticales.
+Muestra los videos en el eje X y el número de reproducciones en el eje Y. Esto facilita identificar visualmente cuál tiene más reproducciones.
+Cuál es el video que más "stop" tiene:
+
+Gráfica recomendada: Gráfica de barras verticales.
+Link: https://docs.bokeh.org/en/latest/docs/examples/basic/bars/colormapped.html
+
+Similar al caso anterior, utiliza barras para mostrar el número de "stops" por video. Esto permite identificar rápidamente el video con más paradas.
+Del video más reproducido, cuál es el minuto al que más saltan:
+
+Gráfica recomendada: Gráfica de líneas.
+Link: https://docs.bokeh.org/en/latest/docs/examples/interaction/tools/range_tool.html
+Link 2: https://docs.bokeh.org/en/latest/docs/examples/interaction/legends/legend_mute.html
+Representa en el eje X los minutos del video y en el eje Y el número de saltos realizados. Esto ayuda a visualizar los puntos con mayor interacción.
+Cuáles son los 40 estudiantes con mayor nota en el promedio de la evaluación semanal:
+
+Gráfica recomendada: Gráfica de barras horizontales.
+Utiliza barras horizontales donde el eje X represente la nota promedio y el eje Y los nombres o identificadores de los estudiantes. Ordena las barras de mayor a menor para destacar a los mejores.
+Ver si hay alguna relación entre el promedio de la evaluación semanal y cuántos videos han visto:
+
+Gráfica recomendada: Gráfica de dispersión (scatter plot).
+Link: https://docs.bokeh.org/en/latest/docs/examples/basic/annotations/slope.html
+En el eje X coloca el número de videos vistos y en el eje Y el promedio de la evaluación semanal. Agrega una línea de tendencia para evaluar si hay correlación entre ambas variables.
+
+Grafica recomendada: strip plot.
+Link: https://docs.bokeh.org/en/latest/docs/examples/topics/categorical/scatter_jitter.html
+Seria perfecta para ver por ejemplo cuales son las calificaciones, en un rango de 0.0 a 1.0 (eje x), por evaluacion semanal, porque en vez de ser los dias de la semana (eje y) serian eval1, eval2, eval3, eval4, y hasta el promedio, para comparar y ver en que calificacion se agrupan mas los estudiantes
+
+Esta grafica se puede aplicar en: https://docs.bokeh.org/en/latest/docs/examples/basic/bars/pandas_groupby_nested.html#pandas-groupby-nested
+Notas por Categoría de Evaluación (o Tema)
+Análisis: Agrupar las notas de los estudiantes según categorías como "Evaluaciones Semanales," "Exámenes Finales," y "Proyectos," mostrando cómo varían dentro de cada grupo.
+Ejemplo Visual: Cada barra representa un rango de calificación (0-5, 5-7, 7-10) y están agrupadas por la categoría del examen.
+Uso: Identificar en qué tipo de evaluación los estudiantes tienen más dificultades o destacan.
+
+Saltos por Sección del Video
+Análisis: Mostrar cuántos saltos realizan los usuarios hacia diferentes secciones de un video.
+Eje X: Secciones del video ("Introducción," "Ejemplo 1," "Conclusión").
+Eje Y: Cantidad de saltos.
+Grupos: Cada grupo de barras representa un video diferente.
+Uso: Descubrir qué partes del video son menos atractivas (altos saltos) o las más útiles.
+
+Notas Promedio vs Tiempo de Visualización
+Análisis: Comparar las notas promedio de los estudiantes según el porcentaje del video que vieron (0-25%, 26-50%, 51-75%, 76-100%).
+Grupos: Cada grupo de barras representa una semana de evaluación o un video específico.
+Uso: Relacionar la interacción con los videos y el rendimiento en las evaluaciones.
+
+Popularidad de Videos por Tema
+Análisis: Comparar cuántas visualizaciones tienen los videos según el tema que tratan.
+Eje X: Temas (por ejemplo, "Introducción a XYZ," "Problemas Avanzados").
+Grupos: Cada barra agrupada representa un curso o grupo de estudiantes.
+Uso: Entender qué temas necesitan más contenido o cambios para mejorar la interacción.
+
+Evaluaciones por Rango de Notas y Tiempo de Entrega
+Análisis: Comparar la distribución de notas dentro de grupos por tiempo de entrega (a tiempo, tarde, última hora).
+Eje X: Rango de notas (0-5, 6-7, 8-10).
+Grupos: Tiempo de entrega.
+Uso: Detectar cómo el tiempo de entrega afecta el rendimiento.
+

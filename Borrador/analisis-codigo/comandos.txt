@@ -1,0 +1,1 @@
+C:\Users\nahom\AppData\Local\Programs\Python\Python312\python.exe -m pip install tabulate

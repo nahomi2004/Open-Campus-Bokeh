@@ -1,0 +1,19 @@
+seek_video:
+Se encontraron 575 coincidencias exactas.
+Se encontraron 0 coincidencias ampliadas.
+
+play_video:
+Se encontraron 2374 coincidencias exactas.
+Se encontraron 0 coincidencias ampliadas.
+
+pause_video:
+Se encontraron 590 coincidencias exactas.
+Se encontraron 0 coincidencias ampliadas.
+
+load_video:
+Se encontraron 3620 coincidencias exactas.
+Se encontraron 0 coincidencias ampliadas.
+
+stop_video:
+Se encontraron 293 coincidencias exactas.
+Se encontraron 0 coincidencias ampliadas.
