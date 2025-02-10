@@ -5,6 +5,8 @@ from bokeh.plotting import figure
 from bokeh.models import ColumnDataSource, Select
 from bokeh.layouts import column
 from bokeh.io import curdoc
+from bokeh.palettes import Category10
+from bokeh.transform import factor_cmap, dodge
 
 # Direccionar al html
 from os.path import dirname, join
@@ -95,7 +97,7 @@ source = ColumnDataSource(data=dict(videos=[], interacciones=[]))
 
 # Crear gráfico
 p = figure(
-    x_range=list(codigo_a_nombre.values()),
+    x_range=list(codigo_a_nombre.keys()),
     title="Interacciones por Video",
     x_axis_label="Videos",
     y_axis_label="Reproducciones",
@@ -123,8 +125,60 @@ def actualizar_grafica(attr, old, new):
 select = Select(title="Selecciona una interacción:", value=interacciones_video[0], options=interacciones_video)
 select.on_change("value", actualizar_grafica)
     
+'''
+GRAFICA 2
+'''
+# Obtener la lista de videos y tipos de interacciones
+videos = list(codigo_a_nombre.keys())
+interacciones = list(conteos_con_nombres.keys())
+
+# Construir datos en formato adecuado
+data2 = {"videos": videos}
+for interaccion in interacciones:
+    data2[interaccion] = [
+        conteos_con_nombres[interaccion].get(video, 0) for video in videos
+    ]
+
+# Crear una nueva fuente de datos
+source2 = ColumnDataSource(data=data2)
+
+# Crear la nueva figura para interacciones agrupadas
+p1 = figure(
+    x_range=videos, 
+    title="Interacciones totales por Video",
+    x_axis_label="Videos",
+    y_axis_label="Cantidad de Interacciones",
+    width=1700,
+    height=800,
+    tools="pan,box_zoom,wheel_zoom,save,reset",
+    toolbar_location="right",
+)
+
+p1.xaxis.major_label_orientation = 1.0
+
+# Usar colores para cada interacción
+colors = Category10[len(interacciones)]
+
+# Ancho y desplazamiento para que las barras no se sobrepongan
+width = 0.2  
+offsets = [dodge("videos", (i + 0.3) * width - (width * len(interacciones) / 2), range=p1.x_range) for i in range(len(interacciones))]
+
+# Agregar barras agrupadas
+for i, interaccion in enumerate(interacciones):
+    p1.vbar(
+        x=offsets[i], 
+        top=interaccion, 
+        source=source2, 
+        width=width, 
+        color=colors[i], 
+        legend_label=interaccion
+    )
+
+p1.legend.title = "Tipos de Interacción"
+p1.legend.location = "top_right"
+
 # Diseño y actualización inicial
-layout = column(desc, select, p)
+layout = column(desc, select, p, p1)
 curdoc().add_root(layout)
 curdoc().title = "Interacciones Video"
 
