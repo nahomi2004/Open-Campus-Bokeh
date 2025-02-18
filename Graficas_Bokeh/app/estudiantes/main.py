@@ -4,7 +4,7 @@ from bokeh.models import ColumnDataSource, Select
 from bokeh.layouts import column
 from bokeh.io import curdoc
 from bokeh.palettes import Category10
-from bokeh.transform import factor_cmap, dodge
+from bokeh.transform import factor_cmap, dodge, factor_mark
 from bokeh.models import CDSView, GroupFilter
 
 # Direccionar al html
@@ -31,8 +31,7 @@ data_avg = data.groupby("gender")[eval_columns].mean().reset_index()
 
 # Convertir DataFrame a formato compatible con Bokeh
 data_melted = data_avg.melt(id_vars=["gender"], var_name="Evaluación", value_name="Promedio")
-
-print(data_melted)
+# print(data_melted)
 
 # Crear la fuente de datos inicial con un solo género seleccionado
 initial_gender = data_melted["gender"].unique()[0]  # Primer género disponible
@@ -115,3 +114,59 @@ p1.legend.location = "top_right"
 # Agregar todo al layout
 
 curdoc().add_root(column(desc, select, p, p1))
+
+'''
+GRAFICA 3
+'''
+# Obtener los géneros únicos
+generos = data["gender"].unique()
+
+# Convertir DataFrame a formato compatible con Bokeh (manteniendo todos los puntajes individuales)
+data_melted_2 = data.melt(
+    id_vars=["username", "gender"], 
+    value_vars=eval_columns,  # 🔹 Solo derretir las evaluaciones
+    var_name="Evaluación", 
+    value_name="Puntaje"
+)
+
+# Asegurar que la columna 'gender' sea de tipo string
+data_melted_2["gender"] = data_melted_2["gender"].astype(str)
+print(data_melted_2)
+
+# Definir colores y marcadores para cada género
+marcadores = ["hex", "circle_x", "triangle", "square"]
+colores = Category10[len(gender_list)]
+
+# Crear fuente de datos
+source_2 = ColumnDataSource(data_melted_2)
+
+# Crear figura
+p3 = figure(
+    title="Distribución de Puntajes por Género",
+    x_range=eval_columns,  # Usar las evaluaciones como categorías en X
+    y_range=(0.0, 1.0),
+    x_axis_label="Evaluación",
+    y_axis_label="Puntaje",
+    width=900,
+    height=600,
+    tools="pan,box_zoom,wheel_zoom,save,reset",
+)
+
+# Agregar puntos de dispersión con colores y marcadores por género
+p3.scatter(
+    x="Evaluación",
+    y="Puntaje",
+    source=source_2,
+    legend_group="gender",  # Usar "gender" porque así está en el DataFrame
+    size=10,
+    fill_alpha=0.5,
+    marker=factor_mark("gender", markers=marcadores[:len(gender_list)], factors=gender_list),
+    color=factor_cmap("gender", palette=colores, factors=gender_list)
+)
+
+# Configurar leyenda
+p3.legend.title = "Género"
+p3.legend.location = "top_right"
+
+# Agregar la gráfica al documento sin afectar otras gráficas
+curdoc().add_root(column(desc, p3))
