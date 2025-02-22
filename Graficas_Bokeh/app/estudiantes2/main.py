@@ -15,7 +15,7 @@ desc2 = Div(text=open(join(dirname(__file__), "graficoPastel.html")).read(), siz
 desc3 = Div(text=open(join(dirname(__file__), "graficaGeneral.html")).read(), sizing_mode="stretch_width")
 desc4 = Div(text=open(join(dirname(__file__), "graficoPastelPorcentaje.html")).read(), sizing_mode="stretch_width")
 
-herramientas = "hover,pan,wheel_zoom,box_zoom,reset,save"
+# herramientas = "hover,pan,wheel_zoom,box_zoom,reset,save"
 
 # Cargar los archivos CSV
 csv_profile_path = r"../../../CSVs/UTPL_CREAA1_2024_2_student_profile_info_2025-02-12-2117.csv"
@@ -44,7 +44,7 @@ conteo_genero_0.columns = ["Género", "Cantidad"]
 
 # Filtrar los estudiantes que no alcanzaron el puntaje mínimo en "EvalSemanal Avg"
 data_filtrada = data[data["EvalSemanal Avg"] < puntaje_minimo]
-data_filtrada_apro = data[data["EvalSemanal Avg"] > puntaje_minimo]
+data_filtrada_apro = data[data["EvalSemanal Avg"] >= puntaje_minimo]
 
 # Contar cantidad de estudiantes por género
 conteo_genero = data_filtrada["gender"].value_counts().reset_index()
