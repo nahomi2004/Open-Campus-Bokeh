@@ -20,7 +20,13 @@ from bokeh.layouts import column
 from os.path import dirname, join
 from bokeh.models import Div
 
-desc = Div(text=open(join(dirname(__file__), "estudiantes.html")).read(), sizing_mode="stretch_width")
+desc0 = Div(text=open(join(dirname(__file__), "title.html")).read(), sizing_mode="stretch_width")
+desc = Div(text=open(join(dirname(__file__), "graficaBarrasFiltro.html")).read(), sizing_mode="stretch_width")
+desc2 = Div(text=open(join(dirname(__file__), "graficaBarrasFiltro1.html")).read(), sizing_mode="stretch_width")
+desc3 = Div(text=open(join(dirname(__file__), "graficaBarrasFiltro2.html")).read(), sizing_mode="stretch_width")
+desc4 = Div(text=open(join(dirname(__file__), "graficaBarrasSimple.html")).read(), sizing_mode="stretch_width")
+desc5 = Div(text=open(join(dirname(__file__), "graficaCircular.html")).read(), sizing_mode="stretch_width")
+
 
 # Cargar los archivos CSV
 csv_profile_path = r"../../../CSVs/UTPL_CREAA1_2024_2_student_profile_info_2025-02-12-2117.csv"
@@ -34,6 +40,8 @@ data = pd.merge(dataProfile, dataGrade, on="username")
 
 # Columnas de evaluación semanal
 eval_columns = ["EvalSemanal 01", "EvalSemanal 02", "EvalSemanal 03", "EvalSemanal 04"]
+
+curdoc().add_root(column(desc0))
 
 '''
 GRAFICA 1
@@ -228,7 +236,7 @@ p2_filtered.legend.title = "Género"
 p2_filtered.legend.location = "top_right"
 
 # Agregar todo al layout
-curdoc().add_root(column(desc, select_filtered, p_filtered, p2_filtered))
+curdoc().add_root(column(desc2, select_filtered, p_filtered, p2_filtered))
 
 def count_zeros(series):
     return (series == 0).sum()
@@ -337,7 +345,7 @@ p2_filtered.legend.title = "Género"
 p2_filtered.legend.location = "top_right"
 
 # Agregar todo al layout
-curdoc().add_root(column(select_filteredd, p_filteredd, p2_filtered))
+curdoc().add_root(column(desc3, select_filteredd, p_filteredd, p2_filtered))
 # curdoc().add_root(column(desc, select_filteredd, p_filteredd, p2_filteredd))
 
 ''' 
@@ -364,7 +372,7 @@ p_zeros.vbar(
     color="red"
 )
 
-curdoc().add_root(column(desc, p_zeros))
+curdoc().add_root(column(desc4, p_zeros))
 
 ''' 
 GRAFICA 4: Distribución de ceros por género 
@@ -422,7 +430,7 @@ for i, eval_name in enumerate(eval_columns):
     graphs.append(p_pie)
 
 # Agregar todo al layout
-curdoc().add_root(column(desc, *graphs))
+curdoc().add_root(column(desc5, *graphs))
 
 
 
