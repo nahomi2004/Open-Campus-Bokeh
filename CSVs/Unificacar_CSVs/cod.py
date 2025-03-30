@@ -2,9 +2,9 @@ import pandas as pd
 import os
 
 # Rutas de los archivos CSV
-file1 = r"D:/Users/LENOVO/Desktop/Codigo-OpenCampus/CSVs/Unificacar_CSVs/UTPL_CREAA1_2024_2_student_profile_info_2025-02-12-2117.csv"
-file2 = r"D:/Users/LENOVO/Desktop/Codigo-OpenCampus/CSVs/Unificacar_CSVs/UTPL_CREAA1_2024_2_grade_report_2025-02-12-2116.csv"
-output_file = r"D:/Users/LENOVO/Desktop/Codigo-OpenCampus/CSVs/Unificacar_CSVs/UTPL_CREAA1_2024_2_profile&grade_totalreport_2025.csv"
+file1 = r"Open-Campus-Bokeh\CSVs\Unificacar_CSVs\UTPL_CREAA1_2024_2_grade_report_2025-02-12-2116.csv"
+file2 = r"Open-Campus-Bokeh\CSVs\Unificacar_CSVs\UTPL_CREAA1_2024_2_grade_report_2025-02-12-2116.csv"
+output_file = r"Open-Campus-Bokeh\CSVs\Unificacar_CSVs\xd.csv"
 
 # Verificar si los archivos existen
 if not os.path.exists(file1) or not os.path.exists(file2):

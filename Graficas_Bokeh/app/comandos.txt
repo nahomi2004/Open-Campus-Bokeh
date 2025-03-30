@@ -1,3 +1,9 @@
 bokeh serve --show main.py
 
 python -m bokeh serve --show main.py (Este me sirve a mi)
+
+usuarios que no son estudiantes:
+ElizabethCadme
+opencampus
+NahomiCabrera
+VeronicaLuna
