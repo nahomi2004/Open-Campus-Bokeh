@@ -1,10 +1,11 @@
 import pandas as pd
 import os
 
+# Solamente cambiar las rutas relativas para poder acceder al documento alojado en cada carpeta.
 # Rutas de los archivos CSV
-csv_profile_path = r"D:/Users/LENOVO/Desktop/Codigo-OpenCampus/CSVs/Unificacar_CSVs/UTPL_CREAA1_2024_2_student_profile_info_2025-02-12-2117.csv"
-csv_grade_path = r"D:/Users/LENOVO/Desktop/Codigo-OpenCampus/CSVs/Unificacar_CSVs/UTPL_CREAA1_2024_2_grade_report_2025-02-12-2116.csv"
-csv_niu = r"D:/Users/LENOVO/Desktop/Codigo-OpenCampus/CSVs/Unificacar_CSVs/xd.csv"
+csv_profile_path = r"CSVs/Unificar Abr-Jun25/Curso accesibilidad/UTPL_CREAA2_2025_1_student_profile_info_2025-05-19-2249.csv"
+csv_grade_path = r"CSVs/Unificar Abr-Jun25/Curso accesibilidad/UTPL_CREAA2_2025_1_grade_report_2025-05-19-2109.csv"
+csv_niu = r"CSVs/Unificar Abr-Jun25/Curso accesibilidad/Reporte CursoAcces.csv"
 
 
 # Verificar si los archivos existen
@@ -27,7 +28,7 @@ try:
     df_combined.fillna("N/A", inplace=True)
 
     # Lista de usuarios a eliminar
-    usuarios_excluir = ["VeronicaLuna", "NahomiCabrera", "opencampus", "reroes3100"]
+    usuarios_excluir = ["VeronicaLuna", "NahomiCabrera", "opencampus", "reroes3100", "ElizabethCadme"]
 
     # Filtrar para eliminar esos usuarios
     df_combined = df_combined[~df_combined["username"].isin(usuarios_excluir)]

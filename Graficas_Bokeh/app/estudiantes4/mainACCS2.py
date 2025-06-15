@@ -21,20 +21,21 @@ from bokeh.palettes import Spectral4
 from os.path import dirname, join
 from bokeh.models import Div
 
-desc0 = Div(text=open(join(dirname(__file__), "title.html")).read(), sizing_mode="stretch_width")
+desc0 = Div(text=open(join(dirname(__file__), "TituloACCS2.html")).read(), sizing_mode="stretch_width")
 desc1 = Div(text=open(join(dirname(__file__), "grafica1.html")).read(), sizing_mode="stretch_width")
 desc2 = Div(text=open(join(dirname(__file__), "grafica2.html")).read(), sizing_mode="stretch_width")
-desc22 = Div(text=open(join(dirname(__file__), "grafica22.html")).read(), sizing_mode="stretch_width")
+desc22 = Div(text=open(join(dirname(__file__), "grafica2v2.html")).read(), sizing_mode="stretch_width")
 desc3 = Div(text=open(join(dirname(__file__), "grafica3.html")).read(), sizing_mode="stretch_width")
-desc32 = Div(text=open(join(dirname(__file__), "grafica32.html")).read(), sizing_mode="stretch_width")
+desc32 = Div(text=open(join(dirname(__file__), "grafica3v2.html")).read(), sizing_mode="stretch_width")
 desc4 = Div(text=open(join(dirname(__file__), "grafica4.html")).read(), sizing_mode="stretch_width")
-desc42 = Div(text=open(join(dirname(__file__), "grafica42.html")).read(), sizing_mode="stretch_width")
+desc42 = Div(text=open(join(dirname(__file__), "grafica4v2.html")).read(), sizing_mode="stretch_width")
 desc5 = Div(text=open(join(dirname(__file__), "grafica5.html")).read(), sizing_mode="stretch_width")
-desc52 = Div(text=open(join(dirname(__file__), "grafica52.html")).read(), sizing_mode="stretch_width")
+desc52 = Div(text=open(join(dirname(__file__), "grafica5v2.html")).read(), sizing_mode="stretch_width")
 
 # Cargar el archivo CSV
 # csv_path = r"D:/Users/LENOVO/Desktop/Codigo-OpenCampus/CSVs/Unificacar_CSVs/xd.csv"
-csv_path = r"../../../CSVs/Unificacar_CSVs/xd.csv"
+csv_path = r"../../../CSVs/Unificar Abr-Jun25/Curso accesibilidad/Reporte CursoAcces.csv"
+
 data = pd.read_csv(csv_path, delimiter=',')
 
 curdoc().add_root(column(desc0))
@@ -86,7 +87,7 @@ curdoc().add_root(column(desc1, p_estudiantes))
 GRAFICA 2: Promedios por Evaluacion Semanal
 '''
 # Columnas de evaluación semanal
-eval_columns = ["EvalSemanal 01", "EvalSemanal 02", "EvalSemanal 03", "EvalSemanal 04"]
+eval_columns = ["EvalSemanal 01", "EvalSemanal 02", "EvalSemanal 03", "EvalSemanal 04", "EvalLud 01", "EvalLud 02"]
 
 # Calcular promedio por semana
 promedios_semanales = data[eval_columns].mean()
