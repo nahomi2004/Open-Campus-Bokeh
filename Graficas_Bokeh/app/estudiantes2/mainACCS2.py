@@ -10,6 +10,7 @@ from math import pi
 # Para la dirección del HTML
 from os.path import dirname, join
 
+desc0 = Div(text=open(join(dirname(__file__), "TituloACCS2.html")).read(), sizing_mode="stretch_width")
 desc = Div(text=open(join(dirname(__file__), "graficoBarras.html")).read(), sizing_mode="stretch_width")
 desc2 = Div(text=open(join(dirname(__file__), "graficoPastel.html")).read(), sizing_mode="stretch_width")
 desc3 = Div(text=open(join(dirname(__file__), "graficaGeneral.html")).read(), sizing_mode="stretch_width")
@@ -18,11 +19,14 @@ desc4 = Div(text=open(join(dirname(__file__), "graficoPastelPorcentaje.html")).r
 # herramientas = "hover,pan,wheel_zoom,box_zoom,reset,save"
 
 # Cargar los archivos CSV
-csv_profile_path = r"../../../CSVs/UTPL_CREAA1_2024_2_student_profile_info_2025-02-12-2117.csv"
-csv_grade_path = r"../../../CSVs/UTPL_CREAA1_2024_2_grade_report_2025-02-12-2116.csv"
+csv_profile_path = r"../../../CSVs/Unificar Abr-Jun25/Curso accesibilidad/UTPL_CREAA2_2025_1_student_profile_info_2025-05-19-2249.csv"
+csv_grade_path = r"../../../CSVs/Unificar Abr-Jun25/Curso accesibilidad/UTPL_CREAA2_2025_1_grade_report_2025-05-19-2109.csv"
 
 dataProfile = pd.read_csv(csv_profile_path, delimiter=',')
 dataGrade = pd.read_csv(csv_grade_path, delimiter=',')
+
+curdoc().add_root(column(desc0))
+
 
 # Unir los CSVs por "username"
 data = pd.merge(dataProfile, dataGrade, on="username")
