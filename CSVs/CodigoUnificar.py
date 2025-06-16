@@ -3,9 +3,9 @@ import os
 
 # Solamente cambiar las rutas relativas para poder acceder al documento alojado en cada carpeta.
 # Rutas de los archivos CSV
-csv_profile_path = r"CSVs/Unificar Abr-Jun25/Curso accesibilidad/UTPL_CREAA2_2025_1_student_profile_info_2025-05-19-2249.csv"
-csv_grade_path = r"CSVs/Unificar Abr-Jun25/Curso accesibilidad/UTPL_CREAA2_2025_1_grade_report_2025-05-19-2109.csv"
-csv_niu = r"CSVs/Unificar Abr-Jun25/Curso accesibilidad/Reporte CursoAcces.csv"
+csv_profile_path = r"CSVs/Unificar Abr-Jun25 Nuevo/UTPL_CREAA2_2025_1_student_profile_info_2025-06-16-0027.csv"
+csv_grade_path = r"CSVs/Unificar Abr-Jun25 Nuevo/UTPL_CREAA2_2025_1_grade_report_2025-06-16-0027.csv"
+csv_niu = r"CSVs/Unificar Abr-Jun25 Nuevo/Reporte CursoAccesActual.csv"
 
 
 # Verificar si los archivos existen

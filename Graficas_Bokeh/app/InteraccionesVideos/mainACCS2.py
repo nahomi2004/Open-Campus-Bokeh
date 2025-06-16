@@ -11,7 +11,7 @@ from bokeh.transform import factor_cmap, dodge
 # Direccionar al html
 from os.path import dirname, join
 from bokeh.models import Div
-desc = Div(text=open(join(dirname(__file__), "interacciones.html")).read(), sizing_mode="stretch_width")
+desc = Div(text=open(join(dirname(__file__), "TituloIntACCS2.html")).read(), sizing_mode="stretch_width")
 
 # Ejemplo de uso:
 codigo_a_nombre = {

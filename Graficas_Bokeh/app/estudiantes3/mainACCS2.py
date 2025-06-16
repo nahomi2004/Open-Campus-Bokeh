@@ -7,15 +7,14 @@ from bokeh.palettes import Category10
 from bokeh.transform import factor_cmap, dodge, factor_mark
 from bokeh.models import CDSView, GroupFilter
 from bokeh.models import Div
-from math import pi
 from bokeh.transform import cumsum
 import numpy as np
 from os.path import dirname, join
-from bokeh.models import LabelSet, ColumnDataSource
+# from bokeh.models import LabelSet, ColumnDataSource
 from bokeh.plotting import figure, curdoc
 from bokeh.layouts import column
-from bokeh.palettes import Spectral4
-
+#from bokeh.palettes import Spectral4
+from math import pi
 
 # Direccionar al html
 from os.path import dirname, join
@@ -34,7 +33,9 @@ desc52 = Div(text=open(join(dirname(__file__), "grafica5v2.html")).read(), sizin
 
 # Cargar el archivo CSV
 # csv_path = r"D:/Users/LENOVO/Desktop/Codigo-OpenCampus/CSVs/Unificacar_CSVs/xd.csv"
-csv_path = r"../../../CSVs/Unificar Abr-Jun25/Curso accesibilidad/Reporte CursoAcces.csv"
+# csv_path = r"../../../CSVs/Unificar Abr-Jun25/Curso accesibilidad/Reporte CursoAcces.csv"
+csv_path = r"../../../CSVs/Unificar Abr-Jun25 Nuevo/Reporte CursoAccesActual.csv"
+
 
 data = pd.read_csv(csv_path, delimiter=',')
 
@@ -71,6 +72,11 @@ p_estudiantes = figure(
     height=400
 )
 
+p_estudiantes.add_tools(
+    HoverTool(tooltips=[("Cantidad", "@Cantidad")], 
+            show_arrow=False,
+            point_policy='follow_mouse'))
+
 # Agregar las barras correctamente
 p_estudiantes.vbar(
     x="Categoría", 
@@ -82,6 +88,56 @@ p_estudiantes.vbar(
 
 # Agregar al documento
 curdoc().add_root(column(desc1, p_estudiantes))
+
+
+''' 
+GRAFICA 5: Pastel con el porcentaje de particioantes aprobados y reprobados
+'''
+# Crear el DataFrame con Aprobados y Reprobados
+data_pie = pd.DataFrame({"Estado": ["Aprobado", "Reprobado"],
+                         "Cantidad": [total_aprobados, total_reprobados]})
+
+# Calcular Porcentaje y Ángulos para el Gráfico de Pastel
+data_pie["Porcentaje"] = data_pie["Cantidad"] / data_pie["Cantidad"].sum()
+data_pie["angle"] = data_pie["Porcentaje"] * 2 * pi
+data_pie["color"] = ["green", "crimson"]
+
+source_pie = ColumnDataSource(data_pie)
+
+# Crear la Figura
+p_pastel = figure(
+    title="Distribución Aprobados vs Reprobados",
+    width=400,
+    height=400
+)
+
+# Agregar herramienta de Hover mostrando cantidad y porcentaje
+p_pastel.add_tools(
+    HoverTool(tooltips=[("Estado", "@Estado"),
+                        ("Cantidad", "@Cantidad"),
+                        ("Porcentaje", "@Porcentaje{0.0%}")],
+              show_arrow=False,
+              point_policy='follow_mouse')
+)
+
+# Graficar el Pastel
+p_pastel.wedge(
+    x=0, y=0, radius=0.8,
+    start_angle=cumsum('angle', include_zero=True),
+    end_angle=cumsum('angle'),
+    line_color='white',
+    fill_color='color',
+    source=source_pie,
+    legend_field='Estado'
+)
+
+p_pastel.axis.axis_label = None
+p_pastel.axis.visible = False
+p_pastel.grid.grid_line_color = None
+
+# Finalmente, añadir a la aplicación
+curdoc().add_root(column(desc5, p_pastel))
+
 
 ''' 
 GRAFICA 2: Promedios por Evaluacion Semanal
@@ -110,6 +166,11 @@ p_hist = figure(
     width=800,
     height=400
 )
+
+p_hist.add_tools(
+    HoverTool(tooltips=[("Promedio:", "@Promedio")], 
+            show_arrow=False,
+            point_policy='follow_mouse'))
 
 # Agregar barras al histograma
 p_hist.vbar(
@@ -161,6 +222,11 @@ p_hist_filtered = figure(
     height=400
 )
 
+p_hist_filtered.add_tools(
+    HoverTool(tooltips=[("Promedio:", "@Promedio")], 
+            show_arrow=False,
+            point_policy='follow_mouse'))
+
 # Agregar barras al histograma
 p_hist_filtered.vbar(
     x="Semana", 
@@ -208,7 +274,7 @@ p_aprepo = figure(
 )
 
 # Apilar las barras correctamente
-p_aprepo.vbar(
+barraApro = p_aprepo.vbar(
     x=dodge("Semana", -0.15, range=p_aprepo.x_range), 
     top="Aprobados",  
     source=source_aprepo, 
@@ -217,7 +283,7 @@ p_aprepo.vbar(
     legend_label="Aprobados"
 )
 
-p_aprepo.vbar(
+barraRepro = p_aprepo.vbar(
     x=dodge("Semana", 0.15, range=p_aprepo.x_range), 
     top="Reprobados",  
     source=source_aprepo, 
@@ -226,8 +292,30 @@ p_aprepo.vbar(
     legend_label="Reprobados"
 )
 
+
+# Agregar `HoverTool` a cada barra individualmente
+hover_Apro = HoverTool(
+    renderers=[barraApro],
+    tooltips=[("Estado", "Aprobados"), ("Cantidad", "@Aprobados")]
+)
+
+# Agregar `HoverTool` a cada barra individualmente
+hover_Repro = HoverTool(
+    renderers=[barraRepro],
+    tooltips=[("Estado", "Reprobados"), ("Cantidad", "@Reprobados")]
+)
+
 # Configurar leyenda
 p_aprepo.legend.location = "top_right"
+
+# Agregar los `HoverTool` a la gráfica
+p_aprepo.add_tools(hover_Apro, hover_Repro)
+
+# Mejoras visuales
+p_aprepo.x_range.range_padding = 0.1
+p_aprepo.xgrid.grid_line_color = None
+p_aprepo.legend.location = "top_left"
+p_aprepo.legend.orientation = "horizontal"
 
 # Agregar al documento
 curdoc().add_root(column(desc3, p_aprepo))
@@ -263,7 +351,7 @@ p_aprepo_filtered = figure(
 )
 
 # Apilar las barras correctamente
-p_aprepo_filtered.vbar(
+barra_Apro_filtered = p_aprepo_filtered.vbar(
     x=dodge("Semana", -0.15, range=p_aprepo_filtered.x_range), 
     top="Aprobados",  
     source=source_aprepo_filtered, 
@@ -272,7 +360,7 @@ p_aprepo_filtered.vbar(
     legend_label="Aprobados"
 )
 
-p_aprepo_filtered.vbar(
+barra_Repro_filtered = p_aprepo_filtered.vbar(
     x=dodge("Semana", 0.15, range=p_aprepo_filtered.x_range), 
     top="Reprobados",  
     source=source_aprepo_filtered, 
@@ -281,8 +369,26 @@ p_aprepo_filtered.vbar(
     legend_label="Reprobados"
 )
 
-# Configurar leyenda
-p_aprepo_filtered.legend.location = "top_right"
+# Agregar `HoverTool` a cada barra individualmente
+hover_Apro_filtered = HoverTool(
+    renderers=[barra_Apro_filtered],
+    tooltips=[("Estado", "Aprobados"), ("Cantidad", "@Aprobados")]
+)
+
+# Agregar `HoverTool` a cada barra individualmente
+hover_Repro_filtered  = HoverTool(
+    renderers=[barra_Repro_filtered],
+    tooltips=[("Estado", "Reprobados"), ("Cantidad", "@Reprobados")]
+)
+
+# Agregar los `HoverTool` a la gráfica
+p_aprepo_filtered.add_tools(hover_Apro_filtered, hover_Repro_filtered)
+
+# Mejoras visuales
+p_aprepo_filtered.x_range.range_padding = 0.1
+p_aprepo_filtered.xgrid.grid_line_color = None
+p_aprepo_filtered.legend.location = "top_left"
+p_aprepo_filtered.legend.orientation = "horizontal"
 
 # Agregar la gráfica al documento
 curdoc().add_root(column(desc32, p_aprepo_filtered))
@@ -313,13 +419,18 @@ p = figure(
     height=400,
 )
 
+p.add_tools(
+    HoverTool(tooltips=[("Promedio", "@Promedio")], 
+            show_arrow=False,
+            point_policy='follow_mouse'))
+
 # Dibujar las barras (Inicialmente con un solo género)
 p.vbar(
     x="Evaluación", 
     top="Promedio",  
     source=source, 
     width=0.6, 
-    color="dodgerblue"
+    color="pink"
 )
 
 # Crear Select para cambiar el género
@@ -366,12 +477,17 @@ p_filteredd = figure(
     height=400,
 )
 
+p_filteredd.add_tools(
+    HoverTool(tooltips=[("Promedio", "@Promedio")], 
+            show_arrow=False,
+            point_policy='follow_mouse'))
+
 p_filteredd.vbar(
     x="Evaluación", 
     top="Promedio",  
     source=source_filtered, 
     width=0.6, 
-    color="orange"
+    color="purple"
 )
 
 # Crear Select para cambiar el género
@@ -387,20 +503,3 @@ select_filteredd.on_change("value", update_plot_filtered)
 
 curdoc().add_root(column(desc42, select_filteredd, p_filteredd))
 
-''' 
-GRAFICA 5: Aprobados y Reprobados por su genero
-'''
-
-
-''' 
-GRAFICA 5.2: Aprobados y Reprobados por su genero (Excluyendo estudiantes con solo 0s)
-'''
-
-''' 
-GRAFICA 6: Aprobados y Reprobados por su genero
-'''
-
-
-''' 
-GRAFICA 6.2: Aprobados y Reprobados por su genero (Excluyendo estudiantes con solo 0s)
-'''
