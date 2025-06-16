@@ -10,10 +10,8 @@ from bokeh.models import Div
 from bokeh.transform import cumsum
 import numpy as np
 from os.path import dirname, join
-# from bokeh.models import LabelSet, ColumnDataSource
 from bokeh.plotting import figure, curdoc
 from bokeh.layouts import column
-#from bokeh.palettes import Spectral4
 from math import pi
 
 # Direccionar al html
@@ -34,7 +32,7 @@ desc52 = Div(text=open(join(dirname(__file__), "grafica5v2.html")).read(), sizin
 # Cargar el archivo CSV
 # csv_path = r"D:/Users/LENOVO/Desktop/Codigo-OpenCampus/CSVs/Unificacar_CSVs/xd.csv"
 # csv_path = r"../../../CSVs/Unificar Abr-Jun25/Curso accesibilidad/Reporte CursoAcces.csv"
-csv_path = r"../../../CSVs/Unificar Abr-Jun25 Nuevo/Reporte CursoAccesActual.csv"
+csv_path = r"../../../CSVs/Unificar Abr-Jun25 Nuevo/Reporte CursoAccesActual.csv" # nuevo csv
 
 
 data = pd.read_csv(csv_path, delimiter=',')

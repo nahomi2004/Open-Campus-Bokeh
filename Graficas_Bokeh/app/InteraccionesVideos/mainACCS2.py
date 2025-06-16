@@ -12,6 +12,7 @@ from bokeh.transform import factor_cmap, dodge
 from os.path import dirname, join
 from bokeh.models import Div
 desc = Div(text=open(join(dirname(__file__), "TituloIntACCS2.html")).read(), sizing_mode="stretch_width")
+desc3 = Div(text=open(join(dirname(__file__), "grafica3.html")).read(), sizing_mode="stretch_width")
 
 # Ejemplo de uso:
 codigo_a_nombre = {
@@ -33,7 +34,7 @@ codigo_a_nombre = {
     "LR_2_Video3_Semana1": "cNoUwGM1DQs",
     "LR_2_Video4_Semana1": "6Mst559v-Uc",
     "LR_2_Video5_Semana1": "CNQpefXv5DY",
-    "LR_2_Video_Semana1": "6W1_fBZFqns",
+    "LR_2_Video_Semana1": "6W1_fBZFqns", #
     "LR_1_Video1_Semana2": "o5VwDVJ7N3Q",
     "LR_1_Video2_Semana2": "LluqYlh2xg4",
     "LR_1_Video3_Semana2": "eE658thjDj8",
@@ -52,7 +53,8 @@ codigo_a_nombre = {
 interacciones_video = ["play_video", "pause_video", "seek_video", "stop_video"]
 
 # Cargar datos JSON
-json_path = "../../../Jsonl/course-creaaa1/course-creaaa1-limpio.json"
+json_path = "../../../Jsonl/course-v1_/course-v1_UTPL_CREAA2limpio.json"
+
 with open(json_path, "r", encoding="utf-8") as f:
     data = json.load(f)
     
@@ -184,3 +186,56 @@ curdoc().title = "Interacciones Video"
 
 # Llamar la función de actualización para que la gráfica tenga datos al inicio
 actualizar_grafica(None, None, interacciones_video[0])
+
+'''
+GRAFICA 3
+'''
+# Filtramos solamente "play_video" como inicio pero con nombre nuevo
+tipo_inicial_grafica3 = "play_video"
+
+conteos_play = conteos_con_nombres[tipo_inicial_grafica3]
+orden_videos = list(codigo_a_nombre.keys())  # Esto tiene el orden deseado
+conteos_ordenados = {v: conteos_play.get(v, 0) for v in orden_videos}
+
+# Creamos fuente de datos para gráfica 3 con nombre nuevo
+source_grafica3 = ColumnDataSource(data=dict(videos=list(conteos_ordenados.keys()), reproducciones=list(conteos_ordenados.values())))
+
+# Graficamos línea en lugar de barra
+p_grafica3 = figure(
+    x_range=list(conteos_ordenados.keys()),
+    title=f'Evolución de {tipo_inicial_grafica3}', 
+    x_axis_label='Videos en orden de la malla', 
+    y_axis_label='Cantidad de interacciones',
+    width=800, 
+    height=400,
+    tools='pan,box_zoom,wheel_zoom,save,reset',
+    toolbar_location='right'
+)
+
+p_grafica3.xaxis.major_label_orientation = 1.0
+p_grafica3.line(x='videos', y='reproducciones', source=source_grafica3, color='dodgerblue', line_width=2)
+p_grafica3.circle(x='videos', y='reproducciones', source=source_grafica3, color='dodgerblue', size=8)
+
+# Creamos el nuevo Select con nombre nuevo
+select_grafica3 = Select(title='Selecciona una interacción:', 
+                         value=tipo_inicial_grafica3, 
+                         options=['play_video', 'pause_video', 'seek_video', 'stop_video'])
+
+# Función que actualiza cuando se cambia el select de Grafica 3
+def actualizar_grafica3(attr, old, new):
+    nuevo_tipo = select_grafica3.value
+    conteos = conteos_con_nombres[nuevo_tipo]
+    nuevos_vals = {v: conteos.get(v, 0) for v in orden_videos}
+
+    source_grafica3.data = dict(videos=list(nuevos_vals.keys()), reproducciones=list(nuevos_vals.values()) )
+    p_grafica3.title.text = f'Evolución de {nuevo_tipo}'
+
+select_grafica3.on_change('value', actualizar_grafica3)
+
+layout_grafica3 = column(select_grafica3, p_grafica3)
+
+# Finalmente, puedes añadir esta gráfica junto con tus otras en el layout principal:
+layout = column(desc3, layout_grafica3)
+
+curdoc().add_root(layout)
+

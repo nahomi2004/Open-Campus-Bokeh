@@ -5,16 +5,12 @@ from bokeh.layouts import column
 from bokeh.io import curdoc
 from bokeh.palettes import Category10
 from bokeh.transform import factor_cmap, dodge, factor_mark
-from bokeh.models import CDSView, GroupFilter
 from bokeh.models import Div
 from math import pi
 from bokeh.transform import cumsum
-import numpy as np
 from os.path import dirname, join
-from bokeh.models import LabelSet, ColumnDataSource
 from bokeh.plotting import figure, curdoc
 from bokeh.layouts import column
-from bokeh.palettes import Spectral4
 
 
 # Direccionar al html
