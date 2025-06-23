@@ -55,7 +55,7 @@ interacciones_video = ["play_video", "pause_video", "seek_video", "stop_video"]
 json_path = "../../../Jsonl/course-creaaa1/course-creaaa1-limpio.json"
 with open(json_path, "r", encoding="utf-8") as f:
     data = json.load(f)
-    
+
 # Convertir a DataFrame
 data = pd.DataFrame(data)
 

@@ -30,8 +30,7 @@ desc5 = Div(text=open(join(dirname(__file__), "grafica5.html")).read(), sizing_m
 desc52 = Div(text=open(join(dirname(__file__), "grafica5v2.html")).read(), sizing_mode="stretch_width")
 
 # Cargar el archivo CSV
-# csv_path = r"D:/Users/LENOVO/Desktop/Codigo-OpenCampus/CSVs/Unificacar_CSVs/xd.csv"
-# csv_path = r"../../../CSVs/Unificar Abr-Jun25/Curso accesibilidad/Reporte CursoAcces.csv"
+# csv_path = r"../../../CSVs/Unificar Abr-Jun25/Curso accesibilidad/Reporte CursoAcces.csv" # anterior mes
 csv_path = r"../../../CSVs/Unificar Abr-Jun25 Nuevo/Reporte CursoAccesActual.csv" # nuevo csv
 
 
@@ -45,21 +44,54 @@ total_estudiantes = len(data)
 # Contar aprobados y reprobados según la columna "grade"
 total_aprobados = len(data[data["grade"] >= 0.7])
 total_reprobados = len(data[data["grade"] < 0.7])
+total_inactivos = len(data[data["grade"] == 0])
+total_reprobados_sin_inactivos = len(data[data["grade"] < 0.7]) - total_inactivos
 
+''' 
+GRAFICA : Total de estudiantes e Inactivos en la plataforma
+'''
+# Datos para Inscritos e Inactivos
+df_inscritos = pd.DataFrame({
+    "Estado": ["Inscritos", "Inactivos"],
+    "Cantidad": [total_estudiantes, total_inactivos],
+    "Color": ["orange", "gray"]
+})
+
+source_inscritos = ColumnDataSource(df_inscritos)
+
+p_inscritos = figure(
+    x_range=df_inscritos["Estado"],
+    title="Cantidad de Participantes Inscritos e Inactivos",
+    x_axis_label="Estado",
+    y_axis_label="Cantidad",
+    width=500,
+    height=350
+)
+
+
+p_inscritos.add_tools(
+    HoverTool(tooltips=[("Cantidad", "@Cantidad")], 
+            show_arrow=False,
+            point_policy='follow_mouse'))
+
+p_inscritos.vbar(x="Estado", top="Cantidad", source=source_inscritos, width=0.6, color="Color")
+
+curdoc().add_root(column(p_inscritos))
+
+''' 
+GRAFICA 1: Total de estudiantes, aprobados y reprobados 
+'''
 # Crear un DataFrame con los valores
 df_estudiantes = pd.DataFrame({
     "Categoría": ["Total Estudiantes", "Aprobados", "Reprobados"],
     "Cantidad": [total_estudiantes, total_aprobados, total_reprobados]
 })
 
-df_estudiantes["Color"] = ["grey", "green", "crimson"]
+df_estudiantes["Color"] = ["orange", "green", "crimson"]
 
 # Actualizar la fuente de datos
 source_estudiantes = ColumnDataSource(df_estudiantes)
 
-''' 
-GRAFICA 1: Total de estudiantes, aprobados y reprobados 
-'''
 # Crear la figura
 p_estudiantes = figure(
     x_range=FactorRange(*df_estudiantes["Categoría"].astype(str)),  
@@ -500,4 +532,8 @@ def update_plot_filtered(attr, old, new):
 select_filteredd.on_change("value", update_plot_filtered)
 
 curdoc().add_root(column(desc42, select_filteredd, p_filteredd))
+
+''' 
+GRAFICA 1: Numero de incritos en letras grandes
+'''
 
