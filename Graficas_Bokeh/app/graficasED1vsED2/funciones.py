@@ -164,3 +164,42 @@ def generar_graficas(actividad_df, titulo_sufijo=""):
     p_stack.legend.click_policy="mute"
 
     return column(row(p_line, p_stack))
+
+
+
+
+
+def extraer_interacciones_top10(data_csv, data_json, codigo_a_nombre, top=10):
+    # Filtrar los estudiantes aprobados
+    aprobados = data_csv[data_csv["grade"] >= 0.7]
+    top10 = aprobados.sort_values(by="grade", ascending=False).head(top)
+    top10_usernames = top10["username"].tolist()
+
+    # Interacciones relevantes
+    interacciones = ["play_video", "pause_video", "seek_video", "stop_video"]
+    codigos_validos = set(codigo_a_nombre.keys())
+
+    # Inicializar estructura
+    registros = []
+
+    for _, fila in data_json.iterrows():
+        if fila["username"] in top10_usernames and fila.get("name") in interacciones:
+            try:
+                evento = json.loads(fila.get("event", "{}"))
+                codigo = evento.get("code")
+                if codigo in codigos_validos:
+                    registros.append({
+                        "username": fila["username"],
+                        "interaccion": fila["name"],
+                        "video": codigo_a_nombre.get(codigo, codigo)
+                    })
+            except:
+                continue
+
+    df_interacciones = pd.DataFrame(registros)
+    if df_interacciones.empty:
+        return pd.DataFrame()
+
+    # Contar interacciones por usuario, tipo y video
+    conteo = df_interacciones.groupby(["username", "interaccion", "video"]).size().reset_index(name="cantidad")
+    return conteo

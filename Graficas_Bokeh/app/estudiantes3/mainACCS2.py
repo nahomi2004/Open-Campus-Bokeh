@@ -33,7 +33,6 @@ desc52 = Div(text=open(join(dirname(__file__), "grafica5v2.html")).read(), sizin
 # csv_path = r"../../../CSVs/Unificar Abr-Jun25/Curso accesibilidad/Reporte CursoAcces.csv" # anterior mes
 csv_path = r"../../../CSVs/Unificar Abr-Jun25 Nuevo/Reporte CursoAccesActual.csv" # nuevo csv
 
-
 data = pd.read_csv(csv_path, delimiter=',')
 
 curdoc().add_root(column(desc0))
