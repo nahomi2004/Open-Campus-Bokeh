@@ -107,6 +107,35 @@ def preparar_dataframe_conjunto(df1, df2, excluir_ceros=False):
 
     return pd.DataFrame(data)
 
+# ---------------------- No conjunto --------------------------#
+def preparar_dataframe_conjunto1(df1, excluir_ceros=False):
+    if excluir_ceros:
+        df1 = df1[df1["grade"] > 0]
+
+    # Columnas por semana
+    eval_cols_ed1 = [f"Test 0{i}" for i in range(1, 7)]
+    auto_cols_ed1 = [f"Reto{i}" for i in range(0, 1)]
+
+
+    # Calcular promedios
+    evaluaciones_ed1 = calcular_promedios(df1, eval_cols_ed1)
+    autoeval_ed1 = calcular_promedios(df1, auto_cols_ed1)
+
+
+    semanas = ['Semana 1', 'Semana 2', 'Semana 3', 'Semana 4', 'Semana 5', 'Semana 6']
+    # ediciones = ['Edición 1', 'Edición 2']
+
+    data = {
+        'Semana': semanas * 2,
+        # 'Edición': ['Edición 1'] * 4,
+        'Evaluaciones': evaluaciones_ed1,
+        'Autoevaluaciones': autoeval_ed1,
+        # 'Lúdicas': [0, 0, 0, 0]  + [0, 0]  # solo hay dos semanales lúdicas
+    }
+
+    return pd.DataFrame(data)
+
+
 # ---------------------- GRAFICAR CON Y SIN  ----------------------
 
 def generar_graficas(actividad_df, titulo_sufijo=""):

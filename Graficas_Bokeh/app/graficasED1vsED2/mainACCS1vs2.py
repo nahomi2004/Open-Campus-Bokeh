@@ -138,6 +138,8 @@ p_pastel2.wedge(x=0, y=0, radius=0.8,
 p_pastel2.axis.visible = False
 p_pastel2.grid.grid_line_color = None
 
+
+
 '''
 #################################
     OTRAS GRAFICAS
@@ -163,7 +165,7 @@ layout = column(desc1,
 curdoc().add_root(layout)
 curdoc().title = "Comparación Ediciones"
 
-
+########################################################################################
 def generar_figuras_por_edicion(data, titulo_barras, titulo_pastel):
     total_estudiantes = len(data)
     total_aprobados = len(data[data["grade"] >= 0.7])

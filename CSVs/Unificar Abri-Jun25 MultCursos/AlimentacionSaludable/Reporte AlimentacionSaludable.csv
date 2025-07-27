@@ -1,0 +1,721 @@
+id,username,name,email,language,location,year_of_birth,gender,level_of_education,mailing_address,goals,grade,Test 01,Test 02,Test 03,Test 04,Test 05,Test 06,Test Avg,Reto,Reto1,Enrollment Track,Verification Status,Certificate Eligible,Certificate Delivered,Certificate Type
+99,MaryKrmen,MarÃ­a del Carmen Cabrera Loayza,mccabrerax@utpl.edu.ec,N/A,N/A,N/A,N/A,N/A,1103879720,N/A,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+2367,BladimirValdivieso,Bladimir Fernando Valdivieso Naranjo,fercho.blady22@hotmail.com,N/A,N/A,1993,m,hs,Pilalo Oe6-17 y Mulalillo,Este curso es muy interasante ,0.21,1,0.9,0,0,0,0,0.316666667,0,0,honor,N/A,N,N,N/A
+3138,bailon,saskia ,sebailon@utpl.edu.ec,N/A,N/A,1981,f,hs,N/A,N/A,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+4094,SamuelInca,Samuel Silvano Inca MÃ¡rquez,ssincam@hotmail.com,N/A,N/A,1986,m,a,"Av. Abraham CalazacÃ³n y Yanuncay-Santo Domingo,Ecuador",Por preparaciÃ³n profesional,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+6042,macuji1,Monica Adriana Cuji Idrovo,MonicaSAO_97@hotmail.com,N/A,N/A,1997,f,other,N/A,Por que estoy estudiando en la Universidad y quisiera aprender cosas relacionadas a mi carrera y poder hacer un buen trabajo,0.99,1,1,1,1,1,1,1,1,1,honor,N/A,Y,Y,honor
+6972,Mishu_Samaniego,Michelle Samaniego,emsamaniego3@utpl.edu.ec,N/A,N/A,1997,f,hs,1104902869,Necesito tener mas creditos.,0.7,1,1,1,0,1,1,0.833333333,0,0,honor,N/A,N,N,N/A
+7234,MIGUEL_FERNANDO,MIGUEL FERNANDO DELGADO UZCA,miguelfernandodelgado2007@hotmail.com,N/A,N/A,1976,m,a,0911168607,DESEO DE APRENDER MAS ADAPTADO A MI TIEMPO,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+8059,JOSEMIGUELFERNANDEZ,JosÃ© Miguel FernÃ¡ndez Arias,jmfernandez@utpl.edu.ec,N/A,N/A,1973,m,m,1103186779,ActualizaciÃ³n de conocimientos,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+10191,romaluvi,Rosa Marilu Lucas Vidal,romaluvi2009@hotmail.com,N/A,N/A,1975,f,m,1308639051,ActualizaciÃ³n de conocimientos,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+10214,svramirez,Silvia RamÃ­rez,svramirez@utpl.edu.ec,N/A,N/A,1986,f,hs,0919325266,Me parece contenido valioso adicional a los de la carrera que estoy cursando.,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+12848,MichelRodriguez,Ing. Michel Rodriguez,miferohe@hotmail.com,N/A,N/A,1993,f,a,1900853241,"porque me gustarÃ­a me llaman mucho la atenciÃ³n las materias las veo muy interesantes ,aprender y fortalecer mis conocimientos . ",0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+16558,JoselynTigre,Joselyn Juliana Tigre Rivera,jjtigre@utpl.edu.ec,N/A,N/A,1996,f,hs,0940386832,Me interesa la modalidad en que imparte el conocimiento y el estupendo manejo de las TIC para ello,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+16791,Cristian-Haro,Cristian Santiago Haro Ceron,cristian-haro@hotmail.com,N/A,N/A,1988,m,hs,0603819798,Por que es una forma Nueva de Aprender,0.27,0,1,0,0,0,0,0.166666667,0,0,honor,N/A,N,N,N/A
+18559,GabrielaVerdezoto,Gabriela Belen Verdezoto Moina,gabriela.verdezoto.m@gmail.com,N/A,N/A,1987,f,a,0105291876,por que me interesa aprender mas,0.38,1,1,0,0,0,0,0.333333333,0,0,honor,N/A,N,N,N/A
+21173,KoraimaReyesP,Koraima Reyes ,koraimareyespesantez1717@gmail.com,N/A,N/A,2000,f,b,0929077154,PORQUUE QUIERO APRENDER MAS ,0.95,1,1,0.8,0.9,0.833333333,1,0.922222222,1,1,honor,N/A,Y,Y,honor
+21288,Nattyalejandra,Nathaly Alejandra Grefa Rivadeneyra,gnathyag@gmail.com,N/A,N/A,2001,f,hs,1725038168,"Por los cursos que estÃ¡n brindando , ya que con ello podrÃ­a reforzar mucho mÃ¡s mi mÃ©todo de aprendizaje y fortalecerlo mÃ¡s ",0.21,1,0.9,0,0,0,0,0.316666667,0,0,honor,N/A,N,N,N/A
+21895,DenisseNy_10,Carrillo Herrera Denisse Nayzeth,deniscarrillo200010@gmail.com,N/A,N/A,2000,f,a,0804222016,porque quiero capacitarme mÃ¡s en la alimentaciÃ³n y haci poder ayudar a los demÃ¡s,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+22436,EC1980,Edith ChalparizÃ¡n,edith8028@gmail.com,N/A,N/A,1980,f,hs,1714849476,"Saludos, estoy interezada en ampliar mis conocimientos, en lo es costos  de producciÃ³n, estoy segura que me ayudara mucho en mi carrera que estoy siguiendo que es contabilidad auditoria.
+saludos cordiales
+Edith ChalparizÃ¡n.
+",0.97,1,1,1,1,1,1,1,1,1,honor,N/A,Y,Y,honor
+23076,Joseegas_,JosÃ© Egas,egasenrique9@gmail.com,N/A,N/A,2001,m,b,2350378242,Para poder capacitarse de varios temas ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+24568,Georgeg,Jorge Bladimir Guato Ponluiza,georgeblad@gmail.com,N/A,N/A,1988,m,a,1804500971,Por que quiero adquirir conocimientos para dirigirme con conocimiento a los estudiantes ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+24766,adnogales1,Anderson David Nogales Itaz,andy_erik@hotmail.es,N/A,N/A,1994,m,jhs,1723215602,Brinda nuevas oportunidades,0.22,0,0,0,1,1,0,0.333333333,0,0,honor,N/A,N,N,N/A
+28742,mamoreira,MarÃ­a Alexandra Moreira Vera,mamoreira@utpl.edu.ec,N/A,N/A,1989,f,hs,1311477267,N/A,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+28946,KarinaCalva,Karina Calva,kacalva@utpl.edu.ec,N/A,N/A,1991,f,hs,1104601917,N/A,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+29927,Frank_23,Frank Celi,fgceli@utpl.edu.ec,N/A,N/A,2001,m,hs,1105917791,Para reforzar y aprender nuevos conocimientos ,0.95,1,1,1,1,1,1,1,0.875,0.875,honor,N/A,Y,Y,honor
+32339,Jasmine15,Jasmine Ivanova CaÃ±ar Luzuriaga,ivanovaluzu@gmail.com,N/A,N/A,1998,f,hs,1104123326,"Por los cursos que me permite tomar, los mismos que son de ayuda para asignaturas en mi carrera. AdemÃ¡s de los nuevos conocimientos que puedo obtener ",0.59,0.9,0,0,1,1,0.9,0.633333333,1,1,honor,N/A,N,N,N/A
+33260,Naily_Jiron,Naily Gisell JirÃ³n Alvarado,gisellalvarado05@gmail.com,N/A,N/A,1998,f,other,0704436328,"Porque este curso me interesa, me ayudara tener mas conocimiento para  mi carrera, yo  que soy estudiante de Ing en Alimento que aprender  la  fermentaciÃ³n  de las bebidas  alcohÃ³licas eso temas  me ensaÃ±aran en un futuro de mi carrrera.",0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+33300,AdrianaFlores,Adriana Elizabeth Flores Aneloa,adriana.-flores@hotmail.com,N/A,N/A,1982,f,b,1716651102,N/A,0.69,1,1,1,1,0,0.8,0.8,0,0,honor,N/A,N,N,N/A
+33791,AngyMaldonado,AngÃ©lica Andrea Criollo Maldonado,angymaldonado@outlook.com,N/A,N/A,1990,f,m,1803731668,Por la gran variedad de cursos que brindan al pÃºblico ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+34713,Alexisomartinez,Alexis Martinez,alexisomartinez@gmail.com,N/A,N/A,1982,m,m,0603124454,Ampliar conocimientos ,0.81,1,1,1,0,1,1,0.833333333,1,1,honor,N/A,Y,Y,honor
+36118,luis86,LUIS ALFREDO GAVILANEZ LARA,luchitogl@hotmail.es,N/A,N/A,1986,m,a,0201554185,para seguir adquiriendo conocimientos ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+38131,Valquiria_cevallos,Marian Valquiria Cevallos Yucta ,cevallosyuctav@gmail.com,N/A,N/A,1997,f,hs,0605528470,Oportunidad de aprender,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+40149,gemaalava04,Gema Patricia Alava Pin ,gemaalava04@gmail.com,N/A,N/A,1997,f,b,13152089324,Porqe me parece una gran oportunidad para poder adquirir conocimientos y ampliar mis oportunidades laborales. ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+40396,PattyBarberan,Patricia Barberan,pattybarberan@gmail.com,N/A,N/A,1986,f,m,1714044714,CapacitaciÃ³n ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+40447,Blncita123,Andrea BelÃ©n TulcÃ¡n Ruiz,andybeldom@hotmail.com,N/A,N/A,1988,f,other,1003225388,Es una manera de superarse profesionalmente,0.43,1,1,1,1,0,0,0.666666667,0,0,honor,N/A,N,N,N/A
+40634,AlissonRizzo,Alisson Michelle Rizzo Aguilar,alissonrizzo.98@gmail.com,N/A,N/A,1998,f,hs,0953465341,"Hola, estoy interesada porque muy pronto empezare mis estudios y el curso sera de gran ayuda.",0.1,0.9,0,0,0,0,0,0.15,0,0,honor,N/A,N,N,N/A
+40965,VeronicaErazo,Katherine Veronica Erazo Guevara ,katiuka_8@hotmail.com,N/A,N/A,1992,f,a,1715528087,Quiero aprender mas,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+41866,Danilo77,Hugo Danilo VÃ¡squez GordÃ³n,hugodani77@outlook.es,N/A,N/A,1989,m,other,1717856460,"Es una aplicaciÃ³n web interesante, me permitiria ampliar, reforzar y mejorar mis conocimientos. ",0.11,0,1,0,0,0,0,0.166666667,0,0,honor,N/A,N,N,N/A
+43316,TatianaElizalde,TATIANA LISBETH ELIZALDE RODRIGUEZ,taliseli_30@hotmail.com,N/A,N/A,1992,f,other,0706020443,Para poder alimentar mis conocimientos ,0.75,1,1,0.6,0.8,1,0.6,0.833333333,1,1,honor,N/A,Y,Y,honor
+44081,DanielitaAlejandra,Daniela Alejandra Contreras Piana ,cuca1990.dcp@gmail.com,N/A,N/A,1990,f,hs,1714165105,Porque me gusta la fotografÃ­a y sigo un curso adicional de marketing digital ,0.38,1,1,0,0,0,0,0.333333333,0,0,honor,N/A,N,N,N/A
+44828,Carlangas10,Carlos Salgado VÃ©lez ,carlos_salgado_2006@yahoo.com,N/A,N/A,1985,m,b,1717594095,Por que mi trabajo tenemos diariamente manejar crisis y conflictos,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+45046,Mayri012129,Mayra Silva Chica,mayrasilva1989@hotmail.com,N/A,N/A,1989,f,b,1722311030,Adquirir conocimientos adicionales y por crecimiento personal ,0.22,1,1,0,0,0,0,0.333333333,0,0,honor,N/A,N,N,N/A
+45098,PaulinaLomas,Tania Paulina Lomas Goveo,paulinalomas80@gmail.com,N/A,N/A,1994,f,hs,1003583604,Soy docente en un colegio y me gusta actualizar mis conocimientos ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+45646,MargaMeza,Margarita Meza,mmf8801@gmail.com,N/A,N/A,1988,f,b,1804311221,Aprender mas,0.82,1,1,1,1,1,1,1,0,0,honor,N/A,Y,Y,honor
+45800,KaterineAcurio,Khaterine Acurio,18kacurio@gmail.com,N/A,N/A,1990,f,a,1803523149,N/A,0.11,1,0,0,0,0,0,0.166666667,0,0,honor,N/A,N,N,N/A
+46746,Jerlly-Guaman95,Jerlly Paulina GuamÃ¡n Arias,jerllypma@gmail.com,N/A,N/A,1995,f,other,1805213335,Porque la carrera universitaria que estoy seguiendo estÃ¡ relacionada con el curso ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+47911,Gordita1976,PAULINA DEL PILAR NÃšÃ‘EZ SANTOS,paulinadelpilar-17@hotmail.com,N/A,N/A,1976,f,hs,1802786739,POR ADQUIRIR CONOCIMIENTO Y OBTENER CERTIFICACION,0.8,1,1,0.9,1,1,0.9,0.966666667,0,0,honor,N/A,Y,Y,honor
+48244,StevnDavid,Steeven David Chauca GarcÃ­a,stevn.david9698@gmail.com,N/A,N/A,1998,m,b,0401934146,Aprendizaje ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+48467,TatianaAvellaneda,Genoveva Tatiana Avellaneda Cordovilla,gtactati199@hotmail.com,N/A,N/A,1978,f,m,1715036115,Tengo excelentes referencias de la UTPL y quiero actualizar mis  conocimientos,0.8,1,1,1,0.7,1,1,0.95,1,1,honor,N/A,Y,Y,honor
+48510,Genesiscopete,GÃ©nesis Jisleny Copete Litardo,catta_2003@outlook.com,N/A,N/A,1995,f,b,1206775429,Porque me importa saber mas de la carrera y me gusta mucho ,0.86,1,1,1,0,1,1,0.833333333,0.958333333,0.958333333,honor,N/A,Y,Y,honor
+49200,Gabrielavelasco,Gabriela Fernanda Velasco CalvopiÃ±a ,fernandacv1990@hotmail.com,N/A,N/A,1990,f,other,0503023418,CapacitaciÃ³n ,0.84,1,1,1,1,1,1,1,0.166666667,0.166666667,honor,N/A,Y,Y,honor
+53540,JulietteMero,Juliette Steania Mero Delgado,juliettemeroo@gmail.com,N/A,N/A,2000,f,hs,1313745950,Para aprender,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+53641,Solbermello,Karen Solange Bermello Vera,solangevera30@gmail.com,N/A,N/A,1998,f,hs,0928410216,soy estudiante de BiologÃ­a y me interesa el curso porque tuve en cuarto curso la materia de microbiologia en la universidad ,0.77,0,1,1,1,0.833333333,0.9,0.788888889,0.5,0.5,honor,N/A,Y,Y,honor
+53971,Daniberme,Daniela Mishelle,danielabermello01@gmail.com,N/A,N/A,2001,f,hs,0928276542,Me interesÃ³ el tema y quiero saber mÃ¡s del tema,0.7,0.9,1,1,0,1,1,0.816666667,0,0,honor,N/A,N,N,N/A
+54564,Gissabella,Gissella Isabel SimbaÃ±a Quientero,gissabel40@gmail.com,N/A,N/A,1989,f,other,0803183623,Aprender nuevos conocimientos,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+55269,AlexandraLascano,Alexandra Virginia Lascano Sumbana,av.lascano@uta.edu.ec,N/A,N/A,1986,f,m,1803338175,porque es gratuito,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+55589,artur8520,ARTURO GONZALO ROMERO CEDEÃ‘O,arturoromero36@hotmail.com,N/A,N/A,1985,m,b,1803974102,POR LA EXCELENCIA ACADÃ‰MICA UTPL ,0.22,0,0,1,1,0,0,0.333333333,0,0,honor,N/A,N,N,N/A
+56171,ErikaEstefaniia,Erika Andagoya Franco,eeandagoya@utpl.edu.ec,N/A,N/A,1997,f,hs,1207744945,Conocimientos,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+56466,KarenEnriquez,Karen Elizabeth Enriquez Reyes,karenenriquez843@gmail.com,N/A,N/A,1996,f,hs,1724928161,Es una buena oportunidad para tener bases de la carrera que quiero seguir ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+56715,evelyncal6,Jaque Calderon Evelyn Coraima ,ecjc0506@gmail.com,N/A,N/A,2000,f,hs,1315358471,Me interesa aprender mÃ¡s acerca de microbiologÃ­a ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+57956,allison_orecar,Allison Lisbeth Orellana CarreÃ±o,allisonorellana0218@gmail.com,N/A,N/A,2001,f,other,0706240470,Me interesa aprender.,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+58217,AndreaDavalos,Sharon Andrea Davalos Escobar,andreadavalosescobar@gmail.com,N/A,N/A,1997,f,hs,1801853589,N/A,0.22,1,1,0,0,0,0,0.333333333,0,0,honor,N/A,N,N,N/A
+59397,AntoOrtega,Antonella Katherine Ortega Moreno,antoortmor@gmail.com,N/A,N/A,1995,f,b,0604318816,Por los cursos sobre salud ,0.98,1,1,1,1,1,1,1,0.875,0.875,honor,N/A,Y,Y,honor
+59718,Pablogf,Pablo Francisco GutiÃ©rrez FeijoÃ³ ,pablo.gutierrezfeijoo@gmail.com,N/A,N/A,1996,m,b,1105732794,Para enriquecer los estudios de mi carrera en InformÃ¡tica Educativa ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+60334,Leslye12,Leslye Stefania Defaz Gallardo ,leslyedefaz@yahoo.es,N/A,N/A,1988,f,m,0503103491,Ofrecen temÃ¡ticas acordes a mi labor profesional ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+60556,Katherinemenendez,katherine adriana MenÃ©ndez baren ,kathleenmenendez@hotmail.es,N/A,N/A,1994,f,b,1206398487,Cursos online ,1,1,1,1,1,1,1,1,1,1,honor,N/A,Y,Y,honor
+65042,BryanDario,Bryan Dario Unaucho,bryanldu10@hotmail.com,N/A,N/A,1993,m,b,172268151-5 ,Adquirir mÃ¡s conocimientos en mi carrera de AdministraciÃ³n de la UTPL ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+65924,Estherpluas,Esther Maritza Pluas MacÃ­as,estherpluas18@gmail.com,N/A,N/A,1988,f,a,1206112896,Por quÃ© ay muchos cursos muy variable k me pueden servir para seguir alcanzado mÃ¡s conocimientos..,0.21,0,0,1,0.9,0,0,0.316666667,0,0,honor,N/A,N,N,N/A
+67898,IndiraRendon,Indira Romina Rendon Palacios ,pelusa_irrp@hotmail.com,N/A,N/A,1996,f,b,0706015211,Me parece muy interesante aprender,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+68024,Diana_Ulloa1996,Diana Karolina Ulloa Menta,diana.karolina.ulloa@gmail.com,N/A,N/A,1996,f,a,0202133013,Por los cursos gratuitos que ofrecen.,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+70006,AndreaGomezArmijos,Andrea Stefania GÃ³mez Armijos,andreagomezarmijos@hotmail.com,N/A,N/A,1994,f,other,0707067922,Por que me parece una manera facil de capacitarse y poder aprender mas desde la comidad de casa,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+71887,ArlethAlarcon,Pamela Arleth AlarcÃ³n Quintanilla,arletzita_@hotmail.com,N/A,N/A,1998,f,hs,2100631361,"Open Campus tiene muchos cursos educativos de gran interÃ©s, por lo que requiero ser parte y aprender lo que me sea posible",0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+72798,Vic_Rodriguez,VÃ­ctor RodrÃ­guez,vxrc@outlook.com,N/A,N/A,1987,m,m,1804287504,La capacitaciÃ³n es un proceso continuo y siempre es bueno tener conocimiento en varios ramas de la ciencia. ,0.98,1,1,1,1,1,1,1,0.875,0.875,honor,N/A,Y,Y,honor
+73769,ZzaydaHerrera,Zayda Vanessa Herrera Cuadrado,zayda-95@hotmail.com,N/A,N/A,1995,f,hs,060515654-6,Estoy interesada porque me considero una persona que siempre estÃ¡ aprendiendo e investigando mÃ¡s y mÃ¡s. ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+74669,LissethOrdoniez,Sandra Lisseth OrdÃ³Ã±ez OÃ±ate,orsalit_flaca@hotmail.com,N/A,N/A,1987,f,b,0503161671,Mejorar mis conocimientos,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+74916,Rosalia_1995,RosalÃ­a Mercedes VelÃ¡squez Morocho,rosalia.velasquez1995@gmail.com,N/A,N/A,1995,f,a,0106210909,Estoy interesada ya que necesito ampliar mis conocimiento acerca de estos temas y por el tiempo que ahora tengo para trabajar en ello y obviamente por la oportunidad que brindan en estos tiempo difÃ­ciles.,0.76,1,1,0,0,1,1,0.666666667,0.875,0.875,honor,N/A,Y,Y,honor
+76042,Belen-perez,Nadia BelÃ©n PÃ©rez GarzÃ³n,naddinemc@gmail.com,N/A,N/A,1994,f,b,1600804163,Por quÃ© mÃ¡s que todo lo que me apasiona de la BiologÃ­a es la evoluciÃ³n y orÃ­genes de la vida. Al vivir en un lugar Como GalÃ¡pagos el cuÃ¡l es un vivo ejemplo de evoluciÃ³n y laboratorio natural ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+76837,Leslie-Guevara,Leslie Mishel Guevara Reinoso,Lesliem.smile1723@gmail.com,N/A,N/A,2000,f,b,1004755920,Porque me interesa aprender cosas nuevas y ahora que dispongo de mucho tiempo me parece un gran momento para hacerlo,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+77420,JESSICA_PONCE,JESSICA ZOILA PONCE RODRIGUEZ,j.ponce.3@hotmail.com,N/A,N/A,1984,f,b,1311359150,N/A,0.82,1,1,1,1,1,1,1,0.958333333,0.958333333,honor,N/A,Y,Y,honor
+77824,JOBRI_101122,Joan Lopez,stiven_joanny@hotmail.com,N/A,N/A,1991,f,b,0926097197,Para saber sobre como actuar con la conducta de un niÃ±o,0.71,1,1,1,1,0,1,0.833333333,0,0,honor,N/A,N,N,N/A
+78318,Samantha_Sosapanta,Samantha Sosapanta,samisosapanta@gmail.com,N/A,N/A,2001,f,jhs,1720671203,N/A,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+78890,Edison2099,Edison Marcelo CuatÃ­n Meneses,marcelo-20-1999@hotmail.com,N/A,N/A,1999,m,b,0450004924,El temas es interesante ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+81214,Estuardo,Javier Estuardo chachalo chachalo ,applejachecuador@gmail.com,N/A,N/A,1976,m,hs,1713901104,Buena universidad ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+81339,andresaguilarv,AndrÃ©s Aguilar,andresaguilarv@gmail.com,N/A,N/A,1978,m,m,1712339066,Porque son interesantes y gratuitos los cursos,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+82414,frankcfeijoo,Franklin Mauricio Campos Feijoo,franklinmauricioc@gmail.com,N/A,N/A,1996,m,m,0750084782,Es de mi interÃ©s debido que me permite aumentar mi formaciÃ³n acadÃ©mica ya que un profesional actual necesita tener una base de conocimientos muy amplia.,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+83021,Ceciliasalazar,maria cecilia salazar jimenez,cecysalazar2706@gmail.com,N/A,N/A,1986,f,m,1721588554,mi interÃ©s es adquirir nuevos conocimientos y afianzar los ya obtenidos,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+83706,Edison_Ramos,Edison Geovanny Ramos Mera,edison_ramos1998@outlook.com,N/A,N/A,1998,m,b,2300472202,"Porque sus cursos me llaman la atenciÃ³n y se ven muy interesantes, ademas de que estoy interesado en aprender cosas nuevas.",0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+84712,Andrea5840_,ANDREA ISABEL PRECIADO SANCHEZ,andreitta.ps@gmail.com,N/A,N/A,1986,f,hs,0924907850,"Actualmente trabajo en el Ã¡rea desarrollo infantil del MIES, me interesa para adquirir conocimientos que me ayuden a desempeÃ±ar mejor mi trabajo",0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+86596,Luis_Anchico,Luis Carlos Anchico Casanova,luis.anchico@educacion.gob.ec,N/A,N/A,1974,m,m,0800759540,"Para aprender sobre sus cursos, ya que estoy muy interesado en aprender mÃ¡s.",0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+87138,Bexyzambrano,Bexy Patricia Loor Zambrano,zambranoloor1998@gmail.com,N/A,N/A,1998,f,hs,135077203-2,Me gustarÃ­a aprender mÃ¡s y poner en prÃ¡ctica todos los conocimientos arquiridos,0.33,1,1,1,0,0,0,0.5,0,0,honor,N/A,N,N,N/A
+89232,Steven_Caiche,Kevin Caiche,kevin.caichedominguez@upse.edu.ec,N/A,N/A,1998,m,m,0922583604,interesado,0.96,1,1,1,1,1,1,1,0.75,0.75,honor,N/A,Y,Y,honor
+89374,Bobvera67,Roberto Vera,rverav@yahoo.com,N/A,N/A,1967,m,b,1304887993,Aprender ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+89407,StefanyCadena,Lisseth Stefany Cadena SÃ¡nchez ,tefy_cs@hotmail.com,N/A,N/A,1990,f,b,0705943306,N/A,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+89410,Jenyffercoello,Jenyffer Coello Panchana ,stephaniecoellojc@gmail.com,N/A,N/A,1998,f,b,0955290390,Adquirir conocimientos ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+89926,ValeriaSolorzano,ValeriaMarleneSolorzanoVera,bachi1992s@gmail.com,N/A,N/A,1992,f,a,0928698075,Me gusta la motivaciÃ³n que dan a travÃ©s de los curso haciendo a uno participe para alcanzar mayor conocimiento,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+90120,maria_yunga,maria yunga,mariaryr91@gmail.com,N/A,N/A,1991,f,hs,0105588255,porque open campus da interensantes cursos de aprendizaje,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+90498,LuisBarzola,Luis Alberto Barzola Diaz,luisbarzola428@gmail.com,N/A,N/A,1987,m,m,1205864794,Para adquirir mÃ¡s conocimientos que aporten a mi vida profesional,0.98,1,1,1,1,1,1,1,0.958333333,0.958333333,honor,N/A,Y,Y,honor
+90872,CarlaValencia,Carla Valencia,carlavalencia0727@gmail.com,N/A,N/A,1985,f,m,1717590101,Actualizar conocimientos ,0.11,1,0,0,0,0,0,0.166666667,0,0,honor,N/A,N,N,N/A
+91888,Diana-Icaza9,Diana Noemi Icaza Lascano,dianinoemi@gmail.com,N/A,N/A,1990,f,other,1206710186,Me interesa por que soy Nutricionista y me gusta todo lo relacionado con soberanÃ­a alimentaria y todo lo relacionado con huertos. Tambien por que soy Docente de BiologÃ­a en un colegio Agropecuario.,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+92431,AndreaCortez,Andrea cortez zambrano,andreacortezz03@hotmail.com,N/A,N/A,1993,f,hs,0804339547,Para aprender y aumentar mi conocimienti,0.41,1,1,1,0,0,0,0.5,0,0,honor,N/A,N,N,N/A
+92987,YeseniaRios,Yesenia Rios,yesenia.rios.ea1992@gmail.com,N/A,N/A,1992,f,a,1600640377,Ofrece temas de interÃ©s ,0.3,0.9,0.9,1,0,0,0,0.466666667,0,0,honor,N/A,N,N,N/A
+93597,ValeriaReyes,Valeria Reyes,vale.r11@hotmail.com,N/A,N/A,1996,f,m,0105428171,por los cursos que ofertan y pos el tiempo en los que se realiza ,0.17,0,0.9,0.7,0,0,0,0.266666667,0,0,honor,N/A,N,N,N/A
+94435,Jcruzc3,Jennifer Katherine Cruz Castro,Jenny_flaquis@hotmail.com,N/A,N/A,1995,f,other,0706500931,N/A,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+96849,JenniferPF_02,Jennifer Stefania Palma Figueroa,teffyjenny@gmail.com,N/A,N/A,1994,f,b,1316368099,Me interesa ampliar y actualizar mis conocimientos en base a mi TÃ­tulo Profesional,1,1,1,1,1,1,1,1,1,1,honor,N/A,Y,Y,honor
+97536,Jmendoza07,Jhonny Javier Mendoza CedeÃ±o ,jhonnymendozadj@hotmail.com,N/A,N/A,1986,m,m,1312194283,Estoy interesado en elaborar vinos,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+97805,pablito6126,Pablo Segundo Segarra Pacheco,pablito6126@gmail.com,N/A,N/A,1985,m,m,0104652078,Es muy importante,0.95,1,1,1,1,1,1,1,0.875,0.875,honor,N/A,Y,Y,honor
+98960,MarlonGuevara,Marlon Leandro Guevara Ortiz,leandro_gitano@yahoo.com,N/A,N/A,1986,m,m,0503078792,Es una oportunidad para estudiar temÃ¡ticas interesantes avaladas por una Universidad de Prestigio en el Ecuador.,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+102485,PaulaHernandez,Paula Danely HernÃ¡ndez Carrera,pauladh97@gmail.com,N/A,N/A,1997,f,hs,0802400192,"Al estar cursando la carrera de psicologÃ­a, pretendo adquirir mÃ¡s conocimientos sobre la misma",0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+103965,paoliita_zaracaba,PAOLA ANDREINA ZARACABA BRITO,paoliita.zaracaba.03@gmail.com,N/A,N/A,1998,f,hs,155960163,Quiero ampliar mis conocimientos con los cursos que ofrecen. ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+104196,Jennifer_96,Jennifer Tatiana Alvia Chica,jenniferchica2019@hotmail.com,N/A,N/A,1996,f,b,1311649048,"Si me interesa, quiero aprender sistema ... tengo problema auditiva.",1,1,1,1,1,1,1,1,1,1,honor,N/A,Y,Y,honor
+105284,LILIANG,Margarita Lilian Guanoluisa Avila ,limaguavi@hotmail.com,N/A,N/A,1971,f,hs,1712027448,Para ayudar y guiar a otras personas ,0.22,1,1,0,0,0,0,0.333333333,0,0,honor,N/A,N,N,N/A
+106027,deix12,David Esteban Collaguazo LoachamÃ­n,deix12@hotmail.es,N/A,N/A,1991,m,b,1719302729,Seguir aprendiendo,0.97,1,1,1,1,1,1,1,1,1,honor,N/A,Y,Y,honor
+106114,CrissSantyQE28,CRISTIAN SANTIAGO QUEZADA ESPINOZA,k_santy@hotmail.es,N/A,N/A,1993,m,hs,1723566459,Por quÃ© quiero fortalecer mis conocimientos,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+107050,Cristina_Naula,Margarita Cristina Naula Espinoza,espinozanaula@hotmail.com,N/A,N/A,1999,f,hs,0107199150,"Debido a la situaciÃ³n que estamos enfrentando, he buscado opciones para adquirir nuevos conocimientos y Open Campus me ha parecido la mejor opciÃ³n.",0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+107536,Iris_Casierra_Cavada,IRIS ANDREA CASIERRA CAVADA,irisandreacc@hotmail.com,N/A,N/A,1980,f,m,0802332940,Por adquirir conocimientos a nivel profesional.,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+112481,ValeriaPunina,Valeria Mishell Punina Chulde,valeria.puninachulde@gmail.com,N/A,N/A,1999,f,hs,1753064912,Quiero aprender los temas que estÃ¡n brindando,0.11,1,0,0,0,0,0,0.166666667,0,0,honor,N/A,N,N,N/A
+112999,GladysVallejo94,Gladys Elisa Vallejo MuÃ±oz,gladysvall94@gmail.com,N/A,N/A,1994,f,other,0928102037,Por ampliar mi nivel academico y tener conocimiento de nuevas cosas,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+113145,Naye,Nayelly EspaÃ±a,nayespa2000@gmail.com,N/A,N/A,2000,f,hs,0401992672,Para adquirir mejores conocimientos ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+116821,AnaBelen94,Ana Belen Gaybor MuÃ±oz,abgaybor@utpl.edu.ec,N/A,N/A,1994,f,hs,1723299259,N/A,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+118421,HernanDavilaM,HERNÃN ELIAS DÃVILA MOLINA,hernan_doma@hotmail.com,N/A,N/A,1988,m,other,1715492003,Cursos excelentes,0.11,1,0,0,0,0,0,0.166666667,0,0,honor,N/A,N,N,N/A
+120520,peestrella2,Pablo Esteban Estrella Zambrano,peestrella2@utpl.edu.ec,N/A,N/A,1992,m,b,1724532393,Interesado para seguir aprobando las materias ,0.63,1,1,1,1,0,0.8,0.8,0,0,honor,N/A,N,N,N/A
+121240,MajitoCamino,MARÃA JOSÃ‰ CAMINO HERRERA,mariajosecamino@hotmail.es,N/A,N/A,1998,f,b,0550244644,N/A,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+121356,Irmipat,Irma Patricia Moreno Villalba,patriciamoreno10@gmail.com,N/A,N/A,1985,f,a,0503143349,Cursos gratuitos online ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+122292,ezapatato25,ESTEBAN ALEXÃNDER ZAPATA TOBÃ“N,ezapatato25@gmail.com,N/A,N/A,2001,m,hs,1000641176,Porque manifiesto un gran interÃ©s por cualificar mis habilidades.,0.11,1,0,0,0,0,0,0.166666667,0,0,honor,N/A,N,N,N/A
+122861,Josue10,Josue Chiquito Vera,josue-1013@outlook.com,N/A,N/A,2000,m,b,0955689492,En cursos relacionados con quimica y biologia,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+123423,Mariadelgado,Maria Delgado,mariadelgado2003@hotmail.com,N/A,N/A,2003,f,hs,0951655166,Me gustarÃ­a saber mas sobre ustedes y los cursos,0.07,0,0,0.6,0,0,0,0.1,0,0,honor,N/A,N,N,N/A
+124677,Lorena0107,Lorena Gabriela BolaÃ±os Vallejo,lgbolanos@utpl.edu.ec,N/A,N/A,1994,f,hs,0401768700,N/A,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+125127,Gibelly_vera,Gibelly Alexandra Vera Cruz ,veracgibellya31con@hotmail.com,N/A,N/A,1995,f,hs,0922350293,Son muy buenos,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+125638,MariaJoseAlvarez,MarÃ­a JosÃ© Alvarez,maria.alvarez1995@hotmail.com,N/A,N/A,1995,f,b,1750955138,Para generar mayor conocimiento sobre los distintos temas,0.89,0,1,1,1,1,1,0.833333333,1,1,honor,N/A,Y,Y,honor
+126687,Eliperez,VerÃ³nica Elizabeth PÃ©rez Medina,hewillagain1844@gmail.com,N/A,N/A,1981,f,b,1717214488,por que estudiaba antes en la utpl  ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+127670,Julepxipaz_22,Julepxi Marisol pazmiÃ±o conforme ,jmpc.1998@gmail.com,N/A,N/A,1998,f,hs,0942290396,Porque me gustarÃ­a aprender mÃ¡s de otras materias ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+128151,Stevenjcs,Steven Josue Carlos Silva ,silvasteven097@gmail.com,N/A,N/A,2001,m,hs,0929829333,Estoy por seguir al segundo semestre de mi carrera en la universidad y me ayudarÃ­a mucho tener mÃ¡s conocimientos acerca del tema,0.43,1,0,1,1,1,0,0.666666667,0,0,honor,N/A,N,N,N/A
+128152,CAICEDO,DORA  ,ycniakic2m@gmail.com,N/A,N/A,1982,f,other,1310928591,Conocimientos informÃ¡ticos ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+128825,klebertigrero,kleber Manuel Tigrero Gonzalez,klebertigrero_1989@hotmail.com,N/A,N/A,1989,m,hs,2400092132,APRENDE MAS ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+129497,RoxanaBruzual,Roxana Gabriela Bruzual Rengifo,roxanagabibruzual@gmail.com,N/A,N/A,1996,f,hs,094543739,Actualmente soy estudiante de PsicologÃ­a en la UTPL y quisiera reforzar mis conocimientos en algunas Ã¡reas. ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+129847,GenesisBenavides,Genesis Adriana Benavides Bozada,gnsis_benavides14@hotmail.com,N/A,N/A,1994,f,hs,1207759117,Porque son cursos cortos,0.11,1,0,0,0,0,0,0.166666667,0,0,honor,N/A,N,N,N/A
+130691,Laleshka_Luna97,Laleska Dayana Luna De JesÃ¹s,tonylalu2016dejesus@gmail.com,N/A,N/A,1997,f,b,1207083971,Me gusta aprender mÃ¡s y mÃ¡s cada dÃ­a ,0.72,1,1,0,1,1,1,0.833333333,1,1,honor,N/A,N,N,N/A
+131777,Namedina8,Nohely Alexandra Medina Cobos ,nahomi_56@hotmail.es,N/A,N/A,1993,f,other,2400245052,Para adquirir conocimientos ,0.71,1,1,1,1,1,0,0.833333333,0,0,honor,N/A,N,N,N/A
+133795,CarlosVerdezotoMorejon,Carlos Marcelo Verdezoto Morejon,verdezotomorejoncarlos@gmail.com,N/A,N/A,2000,m,hs,1205936238,N/A,1,1,1,1,1,1,1,1,1,1,honor,N/A,Y,Y,honor
+133910,cindyfloreano,Cindy Floreano Pezo ,cindyfloreano19@gmail.com,N/A,N/A,1998,f,hs,2450528191, me gusta porque es en el Ã¡mbitos que tiene que ver con los niÃ±os y me llama mucho la atenciÃ³n ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+134534,carlosrami,CARLOS GABRIEL RAMIREZ VERA,ramirezcar1990@hotmail.com,N/A,N/A,1990,m,a,0927426080,s/n,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+135026,Thalia_Perez,Tania Thalia Perez Carpio,thaliatany@hotmail.com,N/A,N/A,2000,f,hs,0605047547,porque ofrecen cursos de gran interÃ©s para los jÃ³venes que nos gusta prepararnos ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+135981,AngeloFranco,Angelo Geovanny Franco OcaÃ±a,afrancoo@unemi.edu.ec,N/A,N/A,1998,m,hs,0942112764,Estoy siguiendo psicologÃ­a el cual me ayudarÃ­a adquirir mas conocimiento y asÃ­ llegar hacer un gran profesional,0.11,1,0,0,0,0,0,0.166666667,0,0,honor,N/A,N,N,N/A
+137397,AngelaCarvajal,Angela Marlene Carvajal Souza,marlenecarvajal-2014@hotmail.com,N/A,N/A,1997,f,other,1207774934,Por obtener nuevos conocimientos,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+137757,GenesisGuerrero15,Genesis Paola Guerrero TriviÃ±o ,genepaola15@hotmail.com,N/A,N/A,1991,f,hs,0928307214,N/A,0.22,1,1,0,0,0,0,0.333333333,0,0,honor,N/A,N,N,N/A
+138683,Jesse_04,JÃ©ssica Mariana RÃ­os PÃ©rez ,Jessyrios200304@gmail.com,N/A,N/A,2003,f,hs,0983548278,Porque deseo aprender sobre algunos aspectos que desconozco y aumentar conocimientos,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+139628,nicolrodriguez,Irma Elizabeth Bohorquez Mite,bohorquezirma05@gmail.com,N/A,N/A,1990,f,hs,0922253174,para aprender me gustarÃ­a aprender mÃ¡s,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+140493,Alexandra_condoy,Olga Alexandra,melapa29@outlook.com,N/A,N/A,1981,f,hs,0704099605,"Me gustarÃ­a aprender , es muy importante y aplicarlo en la vida diaria",0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+140494,AlexandraR,ABG. JEANNETTE ALEXANDRA RODRIGUEZ ROMERO,janethrodriguez_1989@hotmail.com,N/A,N/A,1989,f,m,0705367183,Adquirir mÃ¡s conocimiento sobre la materia.,0.18,0.8,0.9,0,0,0,0,0.283333333,0,0,honor,N/A,N,N,N/A
+140496,PatricioCam,Ivan Patricio Campoverde Guarango,ivancampoverde.86@hotmail.com,N/A,N/A,1986,m,b,0704618776,Me gustarÃ­a adquirir mÃ¡s conocimientos ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+140501,Alexanda_Mantilla,Alexandra Mercedes Mantilla Limones,alexandra_mantilla2014@hotmail.com,N/A,N/A,1985,f,m,0704910769,Por superacion,0.88,1,1,0,1,1,1,0.833333333,1,1,honor,N/A,Y,Y,honor
+140507,sandra_medranda13,sandra medranda olguin,sandra_medranda@hotmail.com,N/A,N/A,1989,f,other,0703580886,porque me gusta estar siempre capacitandome y adquirir nuevos conocimientos,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+140513,Fanny_Marlene_Mera,Fanny Marlene Mera,fannymarlenemera63@gmail.com,N/A,N/A,1963,f,hs,0702002221,Porque quiero obtener mayor conocimiento en el Ã¡rea  de manipulaciÃ³n de alimentos.,1,1,1,1,1,1,1,1,1,1,honor,N/A,Y,Y,honor
+140517,EvaPareja,Eva BelÃ©n Pareja Estrella ,evapareja28@outlook.com,N/A,N/A,1986,f,hs,0924997547 ,Para seguir capacitÃ¡ndome y avanzar en mi educaciÃ³n ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+140521,Lylygar,Liliana Narcisa GarcÃ­a Romero,lylygar@hotmail.com,N/A,N/A,1960,f,m,0701451601,Aprender,0.88,1,1,1,1,1,0,0.833333333,0.958333333,0.958333333,honor,N/A,Y,Y,honor
+140523,CeciliaLimones,Lorgia Cecilia Limones Caiza,4an.limonescecilia@gmail.com,N/A,N/A,1960,f,m,0701407603,ActualizaciÃ³n de Conocimientos ,0.88,1,1,0,1,1,1,0.833333333,1,1,honor,N/A,Y,Y,honor
+140530,FannyRom,Fanny Janeth Romero Benitez,fanny_romero.68@hotmail.com,N/A,N/A,1968,f,hs,0702375072,Seguir adelante,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+140547,Giszambrano,Gisela Maria Zambrano Romero,gis_gis-08@hotmail.com,N/A,N/A,1990,f,b,0705408516,Curso,0.22,1,1,0,0,0,0,0.333333333,0,0,honor,N/A,N,N,N/A
+140552,RositaMachado,Zoila Rosa Machado Chafla,genialbl15@gmail.com,N/A,N/A,1951,f,m,0600236848,PrÃ¡ctica correcta de higiene y manipulaciÃ³n de alimentos ,0.77,0,1,1,0,1,1,0.666666667,0.958333333,0.958333333,honor,N/A,Y,Y,honor
+140562,Taniamolina,Tania Elizabeth ,taniamolina78@hotmail.com,N/A,N/A,1976,f,m,0703247320,Para seguir aprendiendo mas,0.65,0.9,0.8,0.9,1,0,0.9,0.75,0,0,honor,N/A,N,N,N/A
+140565,Marlene382,Maria Marlene Pachar Cuzco,mariamarlenepachar@gmail.com,N/A,N/A,1973,f,hs,0703381467,Me gustarÃ­a ingresar al curso para brindar un mejor servicio la la comunidad.,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+140639,Martha_Limones,Martha Azucena Limones Caiza,mazulim1610@gmail.com,N/A,N/A,1955,f,m,0700968811,Para seguir instruyÃ©ndome,0.99,1,1,1,1,1,1,1,1,1,honor,N/A,Y,Y,honor
+140648,Priscila1990,Priscila Yazmin Campoverde Guarango,priscijaz_07@hotmail.com,N/A,N/A,1990,f,a,0705204501,Para obtener mÃ¡s informaciÃ³n ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+140758,Carolina87,Reyes luzuriaga Sheyva Carolina ,sheyva_cr27@hotmail.com,N/A,N/A,1987,f,hs,1721513255,CapacitaciÃ³n ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+140782,Carmen_Torres,Carmen Raquel Torres Vintimilla,carmmita75@gmail.com,N/A,N/A,1975,f,hs,"0301406757
+
+
+
+
+
+
+0301406757
+",Porque trabajo en esa area,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+140844,Belen20,BelÃ©n Guadalupe Moreira Mendoza,belenmendoza1985@gmail.com,N/A,N/A,1985,f,a,1312071101,N/A,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+140864,Maritzaec,Maritza Del Rocio Enriquez CedeÃ±o,maritzae690@gmail.com,N/A,N/A,1980,f,b,1309911384,ManipulaciÃ³n de alimentos ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+140868,kalofade,Karen Lourdes FarfÃ¡n Delgado,kalofade@hotmail.com,N/A,N/A,1976,f,b,1308399201,Por los cursos interesantes que sirven para el conocimiento de las buenas prÃ¡cticas en los alimentos,1,1,1,1,1,1,1,1,1,1,honor,N/A,Y,Y,honor
+140910,VIVIcalde09,Viviana Patricia CalderÃ³n Ramos,calderon29@hotmail.com,N/A,N/A,1987,f,other,1104350366,Me gusta tener nuevos conocimientos,0.98,1,1,1,1,1,1,1,0.875,0.875,honor,N/A,Y,Y,honor
+140944,MaribelEscobar,Daxy Maribel Escobar Salvatierra ,melimieles9@gmail.com,N/A,N/A,1979,f,a,1309691960,Me interesa aprender,0.98,0.9,1,1,1,1,1,0.983333333,1,1,honor,N/A,Y,Y,honor
+141205,Luzmijara2020,Luzmila Esthela Jara Cobos,luzmilajarcob@gmail.com,N/A,N/A,1974,f,hs,0103273413,Para seguir un curso,1,1,1,1,1,1,1,1,1,1,honor,N/A,Y,Y,honor
+141306,normanilema,Norma Elizabeth Anilema,elizani_777@hotmail.com,N/A,N/A,1987,f,b,0604397869,Conocer de mejor manera como manipular alimentos,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+141415,ZoniaJaramillo,Zonia Jaramillo RÃ­os ,zoniadelrociojaramillo@gmail.com,N/A,N/A,1969,f,hs,1102941190,Para aprender mÃ¡s ,0.33,1,0,0,0,1,1,0.5,0,0,honor,N/A,N,N,N/A
+141550,JuniorCariamanga,Junior JimÃ©nez ,juniorjimenez9102@gmail.com,N/A,N/A,1991,m,other,11058568666,Para obtener mÃ¡s conocimientos ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+141585,VeronicaSigcho,VerÃ³nica Alexandra Sigcho RamÃ­rez ,Sigchoveronica40@gmail.com,N/A,N/A,1977,f,jhs,0703710616 ,Aprender sobre los cursos ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+142142,DaphneOrtiz,Daphne Polette Ortiz Tandazo,daphnepolette17@gmail.com,N/A,N/A,1995,f,a,0930858485,Me encantÃ³ el curso que van a estar realizando y es una gran forma de poder progresar en mi trabajo,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+142779,Amandabastidas68,Amanda Mariela Bastidas MartÃ­nez ,amandamariela@hotmail.com,N/A,N/A,1968,f,m,0501639678,Obtener mejores conocimientos para dar un servicio de calidad en la alimentaciÃ³n. ,0.99,1,1,1,1,1,1,1,0.958333333,0.958333333,honor,N/A,Y,Y,honor
+142838,Manobanda,OMAYRA FERNANDA MANOBANDA PORRO,manobandao_24@hotmail.com,N/A,N/A,1992,f,other,1724280316,APRENDER SOBRE EL CORRECTO CONSUMO Y MANIPULACION DE LOS ALIMENTOS,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+142865,Jenny_2017,Jenny Patricia RamÃ³n Capelo,patriciaramon2017@gmail.com,N/A,N/A,1976,f,hs,0703394544,Capacitarme,0.11,1,0,0,0,0,0,0.166666667,0,0,honor,N/A,N,N,N/A
+142903,CeciliaPerez,Cecilia Perez,cecilia_perez2014@hotmail.com,N/A,N/A,1970,f,hs,1802447258,N/A,0.43,1,1,0,0,1,1,0.666666667,0,0,honor,N/A,N,N,N/A
+142922,FranklinRomo,Franklin Romo,franklinromo4262@hotmail.com,N/A,N/A,1962,m,a,1801816941,N/A,0.22,1,1,0,0,0,0,0.333333333,0,0,honor,N/A,N,N,N/A
+142935,ERIKANORIEGA,Erika Leonor Noriega Ortega,el.noriegao@gmail.com,N/A,N/A,1992,f,b,0604105361,Para  capacitarme y seguir aprendiendo mas de profesionale ,0.93,1,0.9,0.9,1,0.833333333,1,0.938888889,0.875,0.875,honor,N/A,Y,Y,honor
+143173,PameHermosa,Pamela Elizabeth Hermosa DÃ­az,pame1214eliza@hotmail.com,N/A,N/A,1993,f,hs,1719351817,ampliar mis conocimientos,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+144349,caleb_sanchez,Patricio Palacios PÃ©rez,pp0675438@gmail.com,N/A,N/A,2002,m,hs,1729275584,para progresar  y avanzar en el conocimiento,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+144565,AugustaMera,MarÃ­a Augusta Mera Barrera ,marymera74@hotmail.com,N/A,N/A,1974,f,a,0101521375,Para aprender mÃ¡s ,0.89,1,1,1,0,1,1,0.833333333,1,1,honor,N/A,Y,Y,honor
+145517,Rbarcia,JAIME RICARDO BARCIA VALLEJO,rbarcia1976jrbv.jrbv@gmail.com,N/A,N/A,1976,m,a,1308290673,Por adquirir nuevos conocimientos principalmente de una Unversidad prestigiosa,1,1,1,1,1,1,1,1,1,1,honor,N/A,Y,Y,honor
+145634,carmenjumbojumbo,CARMEN ISABEL JUMBO JUMBO,carmenisabeljumbo@gmail.com,N/A,N/A,1991,f,b,1105111692,Brindan cursos que estÃ¡n a la par de mi carrera porfesional.,0.22,1,1,0,0,0,0,0.333333333,0,0,honor,N/A,N,N,N/A
+145637,cecibeljumbojumbo,CECIBEL DEL CISNE JUMBO JUMBO,cecibeljumbojumbo@gmail.com,N/A,N/A,1997,f,b,1106004581,Los cursos estÃ¡n acordes a los desafÃ­os de la sociedad actual. ,0.33,1,1,1,0,0,0,0.5,0,0,honor,N/A,N,N,N/A
+146026,SandyCordova,Sandy Patricia Cordova Romero ,sandycordova94@hotmail.es,N/A,N/A,1994,f,b,2101046221,Porque oferta cursos gratuitos que dan un gran aporte a la sociedad y me permiten complementar mis conocimientos ,0.61,0,0,1,1,1,1,0.666666667,1,1,honor,N/A,N,N,N/A
+146278,solito81,Jhonny Bladimir SuÃ¡rez Jara ,jhonny4you@hotmail.com,N/A,N/A,1981,m,hs,1718469370,Nunca estÃ¡ demÃ¡s capacitarce,0.81,1,1,1,1,1,1,1,0.875,0.875,honor,N/A,Y,Y,honor
+146282,Augusta-suarez,Augusta GermanÃ­a SuÃ¡rez RodrÃ­guez ,augustasuarezr@hotmail.com,N/A,N/A,1976,f,hs,1400402101,Porque trabajo en el Ã¡rea de alimentos y deseo capacitarme ,0.81,1,1,1,1,1,1,1,0.875,0.875,honor,N/A,Y,Y,honor
+146579,Jhon_Gonzalez,JHON HENRY GONZÃLEZ GUEVARA,john-hen@hotmail.com,N/A,N/A,1993,m,m,0706513496,Aumentar conocimientos,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+146980,Gabriel_Villamar,Jose Gabriel Ortega Villamar ,gabrielvillamar89@gmail.com,N/A,N/A,1989,m,a,1207230374,Es una herramienta necesaria para obtener nuevos conocimientos. ,0.59,1,1,0,1,0,1,0.666666667,0,0,honor,N/A,N,N,N/A
+148979,Kelvin2404,Kelvin Misael GonzÃ¡lez Ponce ,kelvinmisael.29@hotmail.com,N/A,N/A,2000,m,hs,0928451350,Porque quiero generar conocimientos sobre estas Ã¡reas ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+149792,Mar_Al5,Jenniffer Marcela AlbÃ¡n Robalino ,marcelaalbanrobalino@gmail.com,N/A,N/A,2003,f,hs,1250612148,Obtener nuevos conocimientos ,0.11,1,0,0,0,0,0,0.166666667,0,0,honor,N/A,N,N,N/A
+151064,Lily_Trujillo,Liliana Trujillo,sagitarius_86@live.com,N/A,N/A,1986,f,hs,0925794844,Interesante,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+152527,econa1,Evelyn OÃ±a ,carolisnena@hotmail.com,N/A,N/A,1991,f,hs,1722948245,SEGUIR AVANZANDO EN MIS ESTUDIOS,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+153714,Dayanallerena,Dayana Estefania Llerena Ortiz,dayollerena83@gmail.com,N/A,N/A,1999,f,hs,0955272299,"Por los cursos que nos brinda, y asÃ­ adquirir nuevos conocimientos ",0.11,1,0,0,0,0,0,0.166666667,0,0,honor,N/A,N,N,N/A
+154253,CamilaVillacis,Camila Nicole VillacÃ­s Puchaicela,camilavillacis.p@gmail.com,N/A,N/A,1999,f,a,1150595310,"Por la oportunidad que dan a la ciudadania de poder adquirir conocimientos , abiertamentr",0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+154388,Kerly_1984,Kerly Alexandra San Lucas Espinoza,kerlysanlucas06@gmail.com,N/A,N/A,1984,f,hs,0924180789,Para recibir los cursos dictado por la UTPL,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+154499,claudia_tocto,CLAUDIA DEL CARMEN TOCTO QUITUIZACA,carmita-tqm@hotmail.com,N/A,N/A,1992,f,m,1105224214,POR LOS CURSOS ,0.73,1,1,1,0,1,1,0.833333333,0.166666667,0.166666667,honor,N/A,N,N,N/A
+156516,KarinaCalis,Karina Karolina Calis Tumbaco,kari-karoct@outlook.es,N/A,N/A,1997,f,b,1726671553,Porque ofrece un aprendizaje factible de realizar desde casa,0.63,0.8,0.9,0.8,0.9,0,0.8,0.7,0,0,honor,N/A,N,N,N/A
+156554,Moniduga_,MÃ³nica DueÃ±as GuzmÃ¡n,moniduga@hotmail.com,N/A,N/A,1994,f,b,No tengo,Por sus cursos.,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+157549,Sara1994,Sara Guerrero,elizasara748@gmail.com,N/A,N/A,1994,f,hs,0940019300,Porque su propuesta es buena para seguir kon la educaciÃ³n ,0.54,1,1,1,0,1,1,0.833333333,0,0,honor,N/A,N,N,N/A
+157568,KerlyRa,Kerly MarÃ­a Ruiz Aguilar ,kerlyruiz1510@gmail.com,N/A,N/A,1999,N/A,hs,0940477862,Me gusta la forma de aprender online ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+158417,Jennyhurtado,Jenniffer  Alexandra Hurtado Bueno ,jenniffer_200613@hotmail.com,N/A,N/A,2001,f,other,0958479990,Quiero aprender mÃ¡s sobre el curso escogido ya que es una rama que me llama la atenciÃ³n ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+159403,WashingtonPanchana,WASHINGTÃ“N VIRGILIO PANCHANA GONZÃLEZ,panchanagonwv@gmail.com,N/A,N/A,1999,m,hs,2450041872,N/A,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+159448,MonicaFranco,MÃ³nica Franco Garcia,dulcita521@hotmail.com,N/A,N/A,1990,f,other,0922793948,Quiero seguirme preparando ,0.99,0.9,1,1,1,1,1,0.983333333,1,1,honor,N/A,Y,Y,honor
+160118,Danny1717,Danny Alexander Salgado VÃ©lez,01demarzo.casv@gmail.com,N/A,N/A,1993,m,a,1721110235,En aprender y crecer mis conocimientos ,0.22,1,1,0,0,0,0,0.333333333,0,0,honor,N/A,N,N,N/A
+160279,JhonSimba,Jhon David Simba Moran,jsimbamoran@gmail.com,N/A,N/A,1997,m,m,1206398354,Para poder aprender mas y tener mas oportunidades laborales,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+160634,paoxsosa78,PAOLA XIMENA SOSA DELGADO,paoxsosa78@gmail.com,N/A,N/A,1978,f,b,1002163093,ADQUIRIR Y REFORZAR CONOCIMIENTOS,0.22,1,0,0,0,0,1,0.333333333,0,0,honor,N/A,N,N,N/A
+161086,JonathanTroya1991,Jonathan Danilo Troya Luje,jhon.22.91.tkd@gmail.com,N/A,N/A,1991,m,a,1721476321,Porque es bueno aprender y estar actualizado en temas como la realidad nacional. ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+161379,olga15,Olga Mercedes OÃ±ate Haro,onate_olga@outlook.es,N/A,N/A,1994,f,m,0604336974,Me gustarÃ­a adquirir nuevos conocimientos y reforzar los antes aprendidos,0.88,1,1,1,0,1,1,0.833333333,1,1,honor,N/A,Y,Y,honor
+161884,EmilynSalvatierra,Emilyn Yolanda Salvatierra Vera ,emilynsalvatierra@gmail.com,N/A,N/A,1997,f,m,1315701068,Son interesantes los diversos cursos que ofrecen y aportan al comonimiento tanto de estudiantes como a profesionales ,0.82,1,1,1,1,1,1,1,0,0,honor,N/A,Y,Y,honor
+162767,Jenniffergutierrez,Jenniffer Jazmin Gutierrez Soledispa,jeny.jgs_4@hotmail.com,N/A,N/A,1992,f,hs,0803880301,Por que me gustarÃ­a aprender cosas nuevas ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+163599,chinga,Cristhian javier CedeÃ±o Chinga,ccedenochinga@gmail.com,N/A,N/A,2001,m,b,131463973-1 ,por que veo como una opurtinidad para tener experiencia ,0.11,1,0,0,0,0,0,0.166666667,0,0,honor,N/A,N,N,N/A
+164132,Rosaramirez,Rosa Guadalupe RamÃ­rez San AndrÃ©s,rgramirez68@gmail.com,N/A,N/A,1968,f,hs,0912055019,Para aprender mÃ¡s sobre las prÃ¡cticas y manipulaciÃ³n de los alimentos,0.98,1,1,1,1,1,1,1,0.875,0.875,honor,N/A,Y,Y,honor
+164227,Maritzachiriboga,Maritza Chiriboga ,maritza.chiriboga@gmail.com,N/A,N/A,1979,f,a,1715990600,SuperaciÃ³n ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+164843,SANTIAGO_CHIGUANO_ZAPATA,SANTIAGO DAVID CHIGUANO ZAPATA,santy_david@hotmail.com,N/A,N/A,1995,m,b,1750984112,N/A,0.11,1,0,0,0,0,0,0.166666667,0,0,honor,N/A,N,N,N/A
+165091,DayanaraMontesdeoca,Victoria Dayanara Montesdeoca Ochoa ,dayanaramontesdeoca9@gmail.com,N/A,N/A,1999,f,b,0706883220,Veo estos cursos como una oportunidad para continuar creciendo en conocimientos y de esta manera brindar mi servicio de forma mÃ¡s excelente.,0.33,1,0,0,1,0,1,0.5,0,0,honor,N/A,N,N,N/A
+165617,Eimy-27,Eimy Carlita LeÃ³n Vera,eimyleon027@gmail.com,N/A,N/A,2003,f,hs,1752227981,Porque me gustarÃ­a aprender y conocer nuevos temas de suma interÃ©s.,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+166006,Lunaza,ANA LUCIA ZAVALA GUERRA,analuciazavala.23@gmail.com,N/A,N/A,1990,f,hs,1723732911,porque quiero superarme ,0.99,1,1,1,1,1,1,1,1,1,honor,N/A,Y,Y,honor
+166357,Sol-calero,Mayra Soledad Calero Fauta,mayra_calero94@hotmail.com,N/A,N/A,1994,f,b,0504103128,Seguirme preparando ,0.43,1,1,1,1,0,0,0.666666667,0,0,honor,N/A,N,N,N/A
+167221,Israel-Campoverde1,Israel Sebastian Campoverde Polo,iscampoverde1@utpl.edu.ec,N/A,N/A,1998,m,other,1105800575,Tengo pensado realizar un emprendimiento,0.82,1,1,1,1,1,1,1,0,0,honor,N/A,Y,Y,honor
+167291,Ricardobastidas64,HECTOR  RICARDO BASTIDAS MARTINEZ,riquihbastidas@gmail.com,N/A,N/A,1964,m,hs,0501338719,Es una excelente universidad y no ayudan mucho con su capacitaciÃ³n a enriquecer nuestros conocimientos ,0.99,1,1,1,1,1,1,1,0.958333333,0.958333333,honor,N/A,Y,Y,honor
+167460,jennyzambrano77,JENNY LOURDES ZAMBRANO BRAVO,jennyzb7@gmail.com,N/A,N/A,1977,f,a,1714445374,es una universidad de prestigio con sus cursos nos ayudan a enriquecer nuestros conocimientos ,0.99,1,1,1,1,1,1,1,0.958333333,0.958333333,honor,N/A,Y,Y,honor
+167464,Dianeinschamorro,Diana Anabel Chamorro Chafla ,dianeins_ch@hotmail.com,N/A,N/A,1978,f,other,1716324106,Seguir aprendido ,0.33,1,1,1,0,0,0,0.5,0,0,honor,N/A,N,N,N/A
+167465,EstefyRosero,Gabriela EstefanÃ­a Rosero Guerrero ,manuelasaenz90@hotmail.com,N/A,N/A,1990,f,hs,172403889-6,para capacitarme y actualizar conocimientos,0.82,1,1,1,1,1,1,1,0,0,honor,N/A,Y,Y,honor
+167541,MaferNeto,MarÃ­a Fernanda Neto PelÃ¡ez,fernanda_neto_pelaez@hotmail.com,N/A,N/A,1995,f,hs,1721305991,Es muy util seguir cursos ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+168700,carlosrivadeneirah,CARLOS ALBERTO RIVADENEIRA HIDROVO,elinformativo.r@gmail.com,N/A,N/A,1971,m,b,1307050318,capacitaciÃ³n permanente,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+169485,YomiraVeliz,Yomira Del Carmen VÃ©liz Loor,yomi_v11@hotmail.com,N/A,N/A,1995,f,a,1207671742,Adquirir nuevos conocimientos para el desempeÃ±o profesional.,0.97,1,1,1,1,1,0.9,0.983333333,0.875,0.875,honor,N/A,Y,Y,honor
+169934,jaquelinezapata,Judith Zapata Vela,judith.zapata@iniap.gob.ec,N/A,N/A,1971,f,m,0501973119,En lo personal es de mucha importancia ya que trabajo en esa Ã¡rea,0.98,1,1,1,1,1,0.9,0.983333333,1,1,honor,N/A,Y,Y,honor
+170011,Rubenrod,Ruben Alexander Rodriguez Romero,jeannetterodrom@gmail.com,N/A,N/A,1991,f,m,0706246022,Conocimientos,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+170076,Daniela_Erazo,Daniela Cecilia Erazo AvendaÃ±o,danielaerazo.99@gmail.com,N/A,N/A,1999,f,b,0951602077,Me interesan los cursos que ofertan.,0.99,1,1,1,1,1,1,1,0.958333333,0.958333333,honor,N/A,Y,Y,honor
+170595,Dayanara19Brusil,Gissela Dayanara Brusil CupuerÃ¡n  ,gisselabrusil19@gmail.com,N/A,N/A,2001,f,a,1005249899,me interesa aprender y obtener mÃ¡s conocimiento ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+170609,WebsterA,Webster Arteaga Bermeo,webster_arteaga@hotmail.com,N/A,N/A,1969,m,a,0913266516,Deseo aprender y aprovechar la oportunidad de cursos gratuitos que ofrecen uds.,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+170615,JessicaZ,Jessica Zapatier Viera,orangecompany.info@gmail.com,N/A,N/A,1971,f,b,0905144549,Deseo aprovechar la oportunidad que ofrecen de cursos gratuitos en esta Ã©poca dificil para todos,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+170917,CamilaOAndrea,Andrea Camila Ortega NoroÃ±a,camila1117ortega@gmail.com,N/A,N/A,2003,f,hs,1728626472,Porque tiene contenido que ayuda a nuestra manera de vida y es una manera de adquirir nuevos conocimientos.,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+171069,AlejandraOtuna,Alejandra Guadalupe Otuna Torres,lupeotuna1985torres@gmail.com,N/A,N/A,1985,f,hs,1722089586,estoy interesado en obtener algÃºn certificado para mi curriculum,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+171313,GabrielaR,Maria Gabriela Ramirez Toral,gabsdeespinoza@gmail.com,N/A,N/A,1980,f,a,0918061839,Actualmente administro bares escolares a nivel fiscal y particular y siempre estoy buscando actualizar los conocimientos.,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+171322,VeroGallegos,VerÃ³nica Tatiana Gallegos Olaya,veronicagallegos1988@gmail.com,N/A,N/A,1988,f,b,0705208452,Por los cursos que ofrecen ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+171338,MaryRazo,Mary Teresa Razo Fiallos ,maryrazo74@hotmail.com,N/A,N/A,1974,f,b,1600330813,Para brindar una exelente manipulaciÃ³n de alimentos. ,0.76,1,1,1,1,0.833333333,0.9,0.955555556,0,0,honor,N/A,Y,Y,honor
+171351,Vivipalaciost,Viviana Palacios,vivipalaciost@gmail.com,N/A,N/A,1990,f,hs,0105378657,Me ibteresa los cursos ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+171440,Alexis_Alcivar,ANGEL ALEXIS ALCIVAR TELLO,alex.alcitello1@gmail.com,N/A,N/A,1997,m,b,1208006823,N/A,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+171511,Melany_Juez,Melany Meriam Juez PazmiÃ±o,melijuezp@gmail.com,N/A,N/A,2003,f,b,1725018640,"Soy estudiante de ingenierÃ­a, y quiero prepararme profesionalmente y estoy interesada",0.43,1,1,1,1,0,0,0.666666667,0,0,honor,N/A,N,N,N/A
+171588,Sunilda,Sunilda Dioconda CedeÃ±o Zambrano,sunnycedeno@gmail.com,N/A,N/A,1988,f,el,1312000043,tener conocimientos,0.48,1,0.8,0.9,0,0,0.2,0.483333333,0,0,honor,N/A,N,N,N/A
+171661,irischanalata,Iris Chanalata Saula ,iriscristiana7@gmail.com,N/A,N/A,1984,f,hs,16000532848,Porque es importante para la gente que desee acceder a un curso,0.82,1,1,1,1,1,1,1,0,0,honor,N/A,Y,Y,honor
+171890,ChristianVerdezoto1,CHRISTIAN VERDEZOTO,christiangatochef@gmail.com,N/A,N/A,1982,m,b,1718032624,Ampliar mis conocimientos ,0.88,1,1,0.9,1,0.666666667,0.7,0.877777778,0.75,0.75,honor,N/A,Y,Y,honor
+172518,LuciaRoman,Lucia Elizabeth RomÃ¡n Rosero  ,luciorosero3@gmail.com,N/A,N/A,1987,f,hs,1003735774,Me interesa el curso ,0.94,1,1,1,1,1,1,1,1,1,honor,N/A,Y,Y,honor
+172815,Clara1982,Clara Muquinche ,cmuquinche@gmail.com,N/A,N/A,1982,f,jhs,1803614674,Para adquirir mÃ¡s informaciÃ³n ,0.65,1,1,1,1,1,1,1,0,0,honor,N/A,N,N,N/A
+174138,MercedesChV,Gloria Mercedes Chafla Vega ,mercedeschaflavega@gmail.com,N/A,N/A,1958,f,other,1705209508,Crecer mis conocimientos ,0.11,1,0,0,0,0,0,0.166666667,0,0,honor,N/A,N,N,N/A
+174140,NormanChamorro,Norman VÃ­ctor Chamorro Bravo ,chamorrobravonorman@gmail.com,N/A,N/A,1949,m,other,1703226710,Capacitarme y actualizar mis conocimientos ,0.11,1,0,0,0,0,0,0.166666667,0,0,honor,N/A,N,N,N/A
+174236,andreasolano,Andrea Carolina Solano Solano,andrea_8507@hotmail.com,N/A,N/A,1985,f,m,0704717933,N/A,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+174761,KerlyTSarango,Kerly Tatiana Sarango Morillo,kerllysarango@gmail.com,N/A,N/A,2000,f,b,1752121531,N/A,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+175066,jimena3434,Jimena del Pilar Quishpe Amuguimba ,jimenaquishpe60@gmail.com,N/A,N/A,1989,f,none,1724538267,Porque las capacitaciÃ³n ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+175076,Santiago52,Felix Santiago Paucar Vega ,santiagopaucar152@gmail.com,N/A,N/A,1988,m,b,1721851507,Por las capacitaciones ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+175375,KarytoIC77,Karina IbÃ¡Ã±ez Castillo,karyto_ic.77@hotmail.com,N/A,N/A,1977,f,a,0502343304,Cursos muy interesantes,0.43,1,1,1,1,0,0,0.666666667,0,0,honor,N/A,N,N,N/A
+176280,NATALYJESSICA,JÃ‰SSICA NATALY CALDERÃ“N CALDERÃ“N,calderon.jn94@gmail.com,N/A,N/A,1994,f,hs,2300427222,PARA CAPACITARME ,0.76,1,0,1,1,1,1,0.833333333,0.75,0.75,honor,N/A,Y,Y,honor
+176897,Steffytabares,Jannela Tabares,steffytabaresro@gmail.com,N/A,N/A,1986,f,other,1205764242,ManipulaciÃ³n de Alimentos,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+177072,Catalina-23,Catalina Isabel Vera BeltrÃ¡n,kattyvera023@gmail.com,N/A,N/A,1982,f,m,1716944077,Porque me pareciÃ³ una pagina interesante con cursos muy buenos que fortalecerÃ¡n mi conocimientos ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+178189,Mmiguel,Miguel Ãngel MacÃ­as Sotomayor ,cleytonmacias@gmail.com,N/A,N/A,2002,m,b,1206593814,Por los cursos que son gratis ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+178566,Elihidalg,Liliana Elizabeth Hidalgo Rosero ,elisa_dm92@hotmail.com,N/A,N/A,1992,f,b,0605843028,Me gusta auto educarme ,0.5,1,0,1,0,1,0,0.5,0.958333333,0.958333333,honor,N/A,N,N,N/A
+178663,johana007,Johanna  Estefania Veliz Diaz,joestedi1996@gmail.com,N/A,N/A,1996,f,a,1207136480,para obtener mas conocimiento,0.22,1,1,0,0,0,0,0.333333333,0,0,honor,N/A,N,N,N/A
+178690,Xaviergo1980,XAVIER GONZALO BENALCAZAR KABIEDES ,xavi_bk@yahoo.com,N/A,N/A,1980,m,hs,1715940076,Adquirir mÃ¡s conocimientos para poder competir en el Ã¡mbito laboral ,0.11,1,0,0,0,0,0,0.166666667,0,0,honor,N/A,N,N,N/A
+178691,Jorgeyanez74,JORGE XAVIER YANEZ LEDESMA ,romivalfastfood@gmail.com,N/A,N/A,1974,m,m,0201386802 ,Adquirir conocimientos en mi rama laboral ,0.22,1,1,0,0,0,0,0.333333333,0,0,honor,N/A,N,N,N/A
+179164,2100510540,Alexander Vicente Leon Moreta,alexanderleonm@hotmail.com,N/A,N/A,1988,m,other,2100510540,Por adquirir nuevos conocimientos ,0.57,1,1,1,0,1,1,0.833333333,0.166666667,0.166666667,honor,N/A,N,N,N/A
+179968,Renny_Poma,POMA MEDINA MEDINA RENNY STEVEN,rspoma@utpl.edu.ec,N/A,N/A,1999,m,hs,1105208258,Por el curso de emprendimiento,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+180576,Fatima_,Fatima Ramos Saldarriaga,narcy_pin23@hotmail.com,N/A,N/A,1988,f,hs,1206000083,para tener mas conocimiento,0.99,1,1,1,1,1,1,1,1,1,honor,N/A,Y,Y,honor
+180765,CleDemera,Clenia Demera M,ccdemera@utpl.edu.ec,N/A,N/A,1998,f,b,1314862978,Soy estudiante de la UTPL Y me gusta estar en constante aprendizaje de temas nuevos,0.51,0,0,0,1,1,1,0.5,1,1,honor,N/A,N,N,N/A
+181138,dcguanoluiza,damaris cristina guanoluiza jimenez,dcguanoluiza@gmail.com,N/A,N/A,1998,f,hs,1208114940,N/A,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+181213,Jeanpa98,Jean Paul Panamito Rueda,jppanamito@utpl.edu.ec,N/A,N/A,1998,m,hs,11016047523,Aprender,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+181397,SoledadRomo,MarÃ­a Soledad Romo PÃ©rez,soledadromo2015@hotmail.com,N/A,N/A,2000,f,hs,1850273275,Me gusta capacitarme,0.22,1,1,0,0,0,0,0.333333333,0,0,honor,N/A,N,N,N/A
+181811,RuthCondor,Ruth Condor,ruthcondorz@hotmail.com,N/A,N/A,1970,f,m,1500390966,ampliar conocimientos,0.62,1,1,1,0,1,1,0.833333333,0.416666667,0.416666667,honor,N/A,N,N,N/A
+181937,GabrielLegarda,Evelio Gabriel Legarda Morillo,gabriellegarda@hotmail.es,N/A,N/A,1991,m,hs,1722037122,Para capacitarme y brindar un mejor servicio,0.89,1,0,1,1,1,1,0.833333333,1,1,honor,N/A,Y,Y,honor
+181938,KarinaVilla,Karina EstefanÃ­a Villa CalderÃ³n,karito_villa2010@hotmail.es,N/A,N/A,1989,f,m,1722239801,Para capacitarme y tener mÃ¡s conocimientos sobre el tema de alimentaciÃ³n.,0.98,1,1,1,1,1,1,1,0.875,0.875,honor,N/A,Y,Y,honor
+181948,Fernanda_Castaneda,Fernanda castaÃ±eda,bachitacastaneda@gmail.com,N/A,N/A,1995,f,b,2300422082,deseo aprender de manipulaciÃ³n de alimentos,0.11,1,0,0,0,0,0,0.166666667,0,0,honor,N/A,N,N,N/A
+181968,leistherlaica,LEISTHER LAICA,lrlaica@utpl.edu.ec,N/A,N/A,1995,m,b,1500955925,ESTUDIANTE UTPL,0.11,0,0,1,0,0,0,0.166666667,0,0,honor,N/A,N,N,N/A
+181981,GABRIELAMATUTE,GABRIELA KARINA MATUTE BASTIDAS,calderon.94mj@gmail.com,N/A,N/A,1995,f,jhs,2300326713,PARA PODER ADQUIRIR CONOCIMIENTOS Y PODER CAPACITARME ,0.72,1,0,1,1,1,1,0.833333333,1,1,honor,N/A,N,N,N/A
+181982,MARIBELMORILLO,ANDREA MARIBEL MORILLO ARAGÃ“N,kjamileth9@gmail.com,N/A,N/A,1991,f,hs,1724968274,DESEO CAPACITARME PARA PODER BRINDAR UN MEJOR SERVICIO,0.71,1,1,1,1,0,1,0.833333333,0,0,honor,N/A,N,N,N/A
+181985,Rafael_2003,Leonardo Rafael Bone Morillo ,boneleonardo500@gmail.com,N/A,N/A,2003,m,hs,2350987885,Tiene cursos interesantes que a uno como persona le sirven bastantes en la vida laboral y personal ,1,1,1,1,1,1,1,1,1,1,honor,N/A,Y,Y,honor
+182513,nachito86,AGUANZACA CÃRDENAS LUZ NARCISA,nachoycuy@gmail.com,N/A,N/A,1986,f,b,0923903272,ADQUIRIR CONOCIMIENTOS,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+182964,Samuel1717,ElÃ­as   Samuel Palacios PÃ©rez,eliperez1716@gmail.com,N/A,N/A,2006,m,hs,1728867290,Para Superarme,0.11,0,1,0,0,0,0,0.166666667,0,0,honor,N/A,N,N,N/A
+183007,Karla_Pico,Karla Patricia Pico Poma,karlitapico53@gmail.com,N/A,N/A,1995,f,b,1600843245,"Estoy muy interesada por esto curso, ya que son de gran aporte para mi crecimiento profecional ",0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+183079,1725018871,Quintero Marcillo Anderson Brayan,merly_murillo@yahoo.com,N/A,N/A,1995,m,el,1725018871,Ampliar mis conocimientos ,0.33,1,1,1,0,0,0,0.5,0,0,honor,N/A,N,N,N/A
+183080,1500717861,Marjuri Margarita Murillo CÃ³ndor ,merlymurillocondor@gmail.com,N/A,N/A,1988,f,m,1500717861,Ampliar mis conocimientos ,0.72,1,1,1,0,1,1,0.833333333,1,1,honor,N/A,N,N,N/A
+183081,2100938543,Cerda Calapucha Erika Estrella,mmarjuri_murillo@yahoo.com,N/A,N/A,1990,f,b,2100938543,Aprender mÃ¡s ,0.68,1,1,1,0,1,1,0.833333333,0.75,0.75,honor,N/A,N,N,N/A
+183124,Glory52,Gloria Maria Paucar  Vega,gracepaucar1@hotmail.com,N/A,N/A,1992,f,b,1721851499,Cursos,0.43,1,1,1,0,1,0,0.666666667,0,0,honor,N/A,N,N,N/A
+183180,Fernanda-dominguez,Fernanda Lucas,Fernandalucas65@yahoo.com,N/A,N/A,1977,f,other,1714846134,para aprender mucho mas,0.11,1,0,0,0,0,0,0.166666667,0,0,honor,N/A,N,N,N/A
+183219,ESTHERMORILLO,NANCY ESTHER MORILLO CELIN,eglegardam@pucesd.edu.ec,N/A,N/A,1965,f,b,1709523953,capacitarme,1,1,1,1,1,1,1,1,1,1,honor,N/A,Y,Y,honor
+183474,MelaniEivar,Melanie EstefanÃ­a Eivar Toscano,melanieeivar@gmail.com,N/A,N/A,2000,f,b,1804422713,N/A,0.85,1,1,1,1,1,1,1,0.166666667,0.166666667,honor,N/A,Y,Y,honor
+183850,JohelyRomero,Johely Valentina Romero Neira,valentinaromeroneira22@gmail.com,N/A,N/A,1998,f,hs,2100768080,Para poder obtener un mayor conocimiento en los temas impartidos,0.99,1,1,1,1,1,1,1,0.958333333,0.958333333,honor,N/A,Y,Y,honor
+183856,Fannypiedadcordova,Fanny cordova,cordovafanny1980@gmail.com,N/A,N/A,1980,f,hs,1103941884,Por una capacitaciÃ³n de trabajo,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+183861,12Alexandra-y,ALEXANDRA DEL ROCIO ORDOÃ‘EZ GUANUCHE ,dm1487181@gmail.com,N/A,N/A,1980,f,jhs,0703768004,Para aprender mas ,0.71,1,1,1,1,1,0,0.833333333,0,0,honor,N/A,N,N,N/A
+183880,estefitateran86,ESTEFANIA TERAN AVILES,estefitateran@hotmail.com,N/A,N/A,1986,f,m,1719446278,PARA TENER MAYORES CONOCIMIENTO REALCIONADO A MANIPULACION DE ALIMENTOS,0.83,1,1,0.8,1,1,0.9,0.95,1,1,honor,N/A,Y,Y,honor
+183887,Brigittebasurto,Brigitte Elizabeth Basurto Lucas,brigittebasurto80@gmail.com,N/A,N/A,2005,f,hs,2350871667,Porque quiero aprender ,0.56,1,0,1,0.9,0.666666667,0,0.594444444,0,0,honor,N/A,N,N,N/A
+183888,Franciscalucas,Francisca Elizabeth Lucas Santana ,Lucaselizabeth56@gmail.com,N/A,N/A,1995,f,hs,1311386435,Porque quiero aprender,0.67,1,0.9,0.9,1,0.833333333,0,0.772222222,0,0,honor,N/A,N,N,N/A
+184058,LuisAMurilloR,Luis Alberto Murillo Ramirez,luis1007murillo@gmail.com,N/A,N/A,2001,m,hs,0927522045,aprender y obtener certificados ,0.98,1,1,1,1,1,1,1,0.875,0.875,honor,N/A,Y,Y,honor
+184119,Davidmartinezgarcia,Henry David MartÃ­nez garcia,henrymartinez434@gmail.com,N/A,N/A,1990,m,jhs,1802988269,Me gusta,0.38,1,1,0,0,0,0,0.333333333,0,0,honor,N/A,N,N,N/A
+184120,Silvanagaibor,Silvana estefania gaibor monar,silviestefa24@yahoo.es,N/A,N/A,1986,f,jhs,0201579141 ,Muy interesante la informaciÃ³n ,0.51,1,1,0,0,0,0,0.333333333,0.75,0.75,honor,N/A,N,N,N/A
+184121,Majoraga,MARYA JosÃ© RAMOS GARCIA ,maryajoseramosgarcia@gmail.com,N/A,N/A,1982,f,b,0201566056,Me interesan los cursos que ustedes ofertan,0.95,1,1,1,1,1,1,1,0.75,0.75,honor,N/A,Y,Y,honor
+184198,MaylinCargua,Maylin Cargua ,carguaanayeli@gmail.com,N/A,N/A,2002,f,hs,1600925109,Porque quiero capacitarme mas,0.99,1,1,1,1,1,1,1,1,1,honor,N/A,Y,Y,honor
+184231,LadyTorresC,Lady Katherine Torres Carrion,ladytorresc8@gmail.com,N/A,N/A,1995,f,b,1721953717,Por cursos ,0.8,1,1,1,1,0.833333333,0.9,0.955555556,1,1,honor,N/A,Y,Y,honor
+184321,Bianka-Galarza,Bianka Lisbeth Galarza Buenaventura,biankagb@outlook.es,N/A,N/A,1999,o,hs,1313412528,N/A,0.26,0,0.9,0,0,0,0,0.15,0,0,honor,N/A,N,N,N/A
+184379,yetopi,Yaritza Estefania Toala Pin,yaritza-toala@hotmail.com,N/A,N/A,2000,f,b,1317713632,Porque me gusta aprender ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+184475,JoelGranda16,Joel Antonio Granda Bravo,jagranda24@utpl.edu.ec,N/A,N/A,1998,m,a,1105884488,Me gustaria reforzar mi historial para la vida laboral,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+184557,Mary1966_-,Mary Enriqueta Limones Caiza,14marylim@gmail.com,N/A,N/A,1966,f,a,0702211434,aprender para emprendimiento,0.97,1,1,1,1,1,1,1,0.875,0.875,honor,N/A,Y,Y,honor
+184606,YURIMEJILLON,YURI LISBETH MEJILLON GONZALEZ,yuri_lis17@hotmail.com,N/A,N/A,1994,f,b,2450134230,N/A,0.72,1,0,1,1,1,1,0.833333333,1,1,honor,N/A,N,N,N/A
+184641,Joss1993day,Josselyn Dayana Silva Chinchay,dayischinchay@gmail.com,N/A,N/A,2002,f,hs,0503109746,Fines acadÃ©micos,1,1,1,1,1,1,1,1,1,1,honor,N/A,Y,Y,honor
+184708,MaxAguirre17,Max Steeven Aguirre Vacacela,maxstev17@hotmail.com,N/A,N/A,2002,m,hs,0750199960,Para mejorar mis conocimientos y aprender acerca de temas de interÃ©s ,0.11,0,0,0,1,0,0,0.166666667,0,0,honor,N/A,N,N,N/A
+184952,Maria_Iniguez,MarÃ­a JosÃ© IÃ±iguez RodrÃ­guez,mjiniguez7@utpl.edu.ec,N/A,N/A,2004,f,hs,1105713729,Me interesan muchos los cursos que ofrecen y me gustarÃ­a aprender sobre mas cosas,0.89,0,1,1,1,1,1,0.833333333,1,1,honor,N/A,Y,Y,honor
+185034,IngridPino,Ingrid Pinoargote ,ingridpinoargote88@gmail.com,N/A,N/A,1988,f,hs,0926462607,N/A,0.52,1,1,1,1,0.833333333,0,0.805555556,0,0,honor,N/A,N,N,N/A
+185246,JomairaCuasque,Jomaira Zulema Cuasque Pupiales ,zulema7cm@gmail.com,N/A,N/A,2003,f,other,1004907893,Porque necesito adquirir conocimiento por la carrera que estoy cursando,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+185264,JULISSA_98,JULISSA ELISABETH MAZA CORDERO,julissacordero1031@gmail.com,N/A,N/A,1998,f,b,1150466132,POR AUTOEDUCACION ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+185513,Carmen_75,Carmen Cecilia Luna Moncayo,Clunamoncayo@gmail.com,N/A,N/A,1991,f,hs,1206692475,N/A,0.72,1,1,1,0,1,1,0.833333333,1,1,honor,N/A,N,N,N/A
+185514,Ana_14,Ana Julia Castro Moyano,anacastro20172@gmail.com,N/A,N/A,1987,f,hs,1206315614,N/A,0.97,1,1,1,1,1,1,1,1,1,honor,N/A,Y,Y,honor
+185896,SofiaVireP,Paola Sofia Vire Piedra,psvire@utpl.edu.ec,N/A,N/A,1998,f,hs,1105210775,Cursos,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+186071,PMMJ,paola,ibarrariospaolapmmj@gmail.com,N/A,N/A,1993,f,m,1206790022,MANIPULACION DE ALIMENTOS ,0.11,1,0,0,0,0,0,0.166666667,0,0,honor,N/A,N,N,N/A
+186081,Jessica_Vargas,Jessica Fabiola Vargas Nilve,jessi.vargasnilve@gmail.com,N/A,N/A,1998,f,other,1750188458,Quiero seguir adquiriendo conocimientos en las diferentes Ã¡reas.,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+186528,wjramirez1,WILLIAN JOVANNY RAMIREZ AGURTO,wjramirez1@utpl.edu.ec,N/A,N/A,1984,m,hs,0705200442,porque soy estudiante de la UTPL y quisiera aprender sobre mas cursos,0.43,1,1,1,1,0,0,0.666666667,0,0,honor,N/A,N,N,N/A
+186685,Wylson,WILSON ENRIQUE CARRION TACURI ,wylson355@gmail.com,N/A,N/A,1997,m,jhs,0106805575,N/A,0.85,1,1,1,1,1,1,1,0.166666667,0.166666667,honor,N/A,Y,Y,honor
+186718,Karellys,Adriana Karellys Villacis Alcivar ,karevillacis@gmail.com,N/A,N/A,2000,f,b,1207946763,Redes Sociales,0.88,1,1,1,1,1,1,1,0.791666667,0.791666667,honor,N/A,Y,Y,honor
+186732,GustavoAguaiza,Wilmer Gustavo Aguaiza Analuiza,gus_aguaiza69@hotmail.com,N/A,N/A,1990,m,b,1724366230,Por crecimiento profesional y personal ,0.41,1,0,0.9,1,0,0.9,0.633333333,0,0,honor,N/A,N,N,N/A
+186734,policia,Angela Marivel UsuÃ±o Paula,marivelforever@hotmail.com,N/A,N/A,1988,f,m,1722877493,ADQUIRIR  CONOCIMIENTOS ,0.87,1,1,1,1,1,1,1,0.333333333,0.333333333,honor,N/A,Y,Y,honor
+186737,KATTY_SANCLEMENTE,KATTY MERCEDES SANCLEMENTE MENDOZA,katita.sanclemente@hotmail.com,N/A,N/A,1994,f,other,0929521961,Aprender y por los cursos que imparten para mayor conocimiento.,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+186741,rdbustamante89,Roberto David Bustamante Jacome,rdbustamante@utpl.edu.ec,N/A,N/A,1989,m,hs,1104745565,Ampliar mis conocimientos.,0.98,1,1,0.9,1,1,1,0.983333333,1,1,honor,N/A,Y,Y,honor
+186773,JUSTIN_SVEN,JUSTIN SVEN PINCAY LINO ,justinpincaylinoss@gmail.com,N/A,N/A,2003,m,hs,137825949,adquirir conocimientos,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+186784,EDISONNAZA,EDISON ERNESTO NAZARENO TAPIA,nazarenoedi2024@hotmail.com,N/A,N/A,1995,m,m,0706437597,BAR ESCOLAR,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+186785,maricruz1958,MARIA CRUZ GUARANGO,guarangomari2024@hotmail.com,N/A,N/A,1958,f,other,0704118439,me gusta aprender de todo,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+186955,rositamuzha,ROSA PATRICIA MUZHA JAIME,rositamuzha@hotmail.com,N/A,N/A,1990,f,other,0703997379,privado,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+186995,DavidAv,Patricio David Ãvila LeÃ³n,pdavila4@utpl.edu.ec,N/A,N/A,2003,m,hs,0106756935,"Porque me apasiona el aprender continuamente de diversos temas, ademÃ¡s, siento que eso puede contribuir a mi desarrollo profesional.",0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+187202,Yurami,MAYRA ELIZABETH CHINCHUÃ‘A GUALAVISI,mayraeli199105@gmail.com,N/A,N/A,1991,f,other,1721552576,Mejorar conocimiento autÃ³nomo ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+187309,salb,Steven Alejandro Albuja Aguirre ,albuja.a.steven@gmail.com,N/A,N/A,1997,m,b,1718984188,"Cursos de Desarrollo Profesional.
+Oportunidades de completar formaciÃ³n de cuarto nivel.",0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+187470,PaolaCaizahuanoC,Paola Caizahuano,epcaizahuano@utpl.edu.ec,N/A,N/A,1989,f,other,0503497455,Me interesa mucho los cursos que van a impartir ,0.96,1,1,1,1,1,1,1,0.75,0.75,honor,N/A,Y,Y,honor
+187558,JOSEASIMBAYA,JOSE ALFREDO ASIMBAYA MONTAGUANO,jaasimbaya@utpl.edu.ec,N/A,N/A,1978,m,b,1713313847,Completar cursos de libre configuraciÃ³n,0.78,0,1,1,0,1,1,0.666666667,0.958333333,0.958333333,honor,N/A,Y,Y,honor
+187637,JeniferVanessa,Jenifer Vanessa Escanta Quilca ,escantaj@gmail.com,N/A,N/A,1997,f,hs,1004100093,"Aprendizaje, y retroalimentaciÃ³n. ",0.11,1,0,0,0,0,0,0.166666667,0,0,honor,N/A,N,N,N/A
+187696,pierinamasan,PIERINA STEFANIE MA SAN MONDRAGÃ“N,pierimasan@gmail.com,N/A,N/A,1990,f,m,46489309,Aprender ,0.7,1,1,0.9,0,1,1,0.816666667,0.958333333,0.958333333,honor,N/A,N,N,N/A
+187834,Mexhita,Mercedes Aydee Betancourt ,dannabetancourt38@gmail.com,N/A,N/A,1980,f,b,1103704969,Cursos culinarios y administracion,0.21,0,0,0,0.9,1,0,0.316666667,0,0,honor,N/A,N,N,N/A
+187865,Alba_Leon,Alba del Rocio Leon Ruiz,albadelrocioleon@gmail.com,N/A,N/A,1969,f,other,0913460473,N/A,0.72,1,0,1,1,1,1,0.833333333,1,1,honor,N/A,N,N,N/A
+187893,Henna,MarÃ­a marlene  Guaman CÃ¡rdenas,marlen05_79@hotmail.com,N/A,N/A,1979,f,el,1715703391,Yo vivo en el campo y quiero conocer sobre las plantas mÃ¡s ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+187944,AlexLlanos,Roberto Alexander Llanos Piruch,alexllanos_100@hotmail.com,N/A,N/A,1997,m,b,1900558667,Me interesa obtener conocimiento mediante curson online,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188117,Mariacalderon17,MarÃ­a de los Angeles Calderon ,macalderon17@utpl.edu.ec,N/A,N/A,1990,f,hs,1722277363,ValidaciÃ³n ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188121,DeliaVargas,Delia Vargas,deliama_2209@hotmail.com,N/A,N/A,1999,f,m,1751483627,Quiero mejorar mis capacidades acadÃ©micas ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188123,EduardaBravo,MarÃ­a Eduarda Bravo Zhunio,edumili3108@gmail.com,N/A,N/A,1999,f,b,0107423667,"AdministraciÃ³n 
+MÃ©todos alternativos de resoluciÃ³n de conflictos 
+ProducciÃ³n Audiovisual 
+Desarrollo comunitario 
+Fundamentos informÃ¡ticos 
+Manejo y anÃ¡lisis de bases de datos 
+Conocimiento ancestral de plantas medicinales 
+ EconomÃ­a a tu alcance
+Emprendimiento y generaciÃ³n de ideas
+PsicologÃ­a General
+ Justo a tiempo (mÃ©todo TOYOTA)
+EducaciÃ³n para una alimentaciÃ³n saludable",0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188125,BelenFarinango,DEYSSI BELÃ‰N FARINANGO PILCA ,belenfarinango27@gmail.com,N/A,N/A,2003,f,hs,1728713924,Me gusta estar en constante aprendizaje ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188126,Nahomivl,Nahomi Vargas ,nahomivl2006@gmail.com,N/A,N/A,2006,f,hs,0940998578,He terminado mi bachillerato y me han brindado una oportunidad para ver mis estudios ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188132,Neyariel,Ney Ariel Cedillo abad,neycedillo5@gmail.com,N/A,N/A,2001,m,other,0706034550,Conocimiento ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188141,Dillan_Jacome,Dillan Adolfo JÃ¡come VÃ¡squez,dillanadolfojacomevasquez@gmail.com,N/A,N/A,2002,m,hs,1755156179,Quiero adquirir mÃ¡s conocimiento para mi dÃ­a a dÃ­a por medio de cursos.,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188142,Nadia_Jacome123,Nadia JÃ¡come,nadia.jacome4127@utc.edu.ec,N/A,N/A,1998,f,m,1726504127,AdquisiciÃ³n de conocimientos,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188143,NaomyAngulo,Naomy Gissel Angulo Alvarez ,naomiangulo21@gmail.com,N/A,N/A,2000,f,b,0850804394,Por que ofrece una variedad de cursis dando oportunidad a mejorar en casa area.,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188147,KattyAjila13,Katty Karolina Ajila Carchi,kattyajila18@gmail.com,N/A,N/A,1997,f,b,0931999692,N/A,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188151,BEATRIZAAR,BEATRIZ AMADA ALVARADO ROMERO,bya1911@hotmail.com,N/A,N/A,1991,f,hs,1105061103,PORQUE ME INTERESA CAPACITARME EN DIFERENTES AMBITOS ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188156,Yessica_N,Yessica Gabriela Naula Cobos ,yessica.naula@unl.edu.ec,N/A,N/A,2003,f,other,1104878341,"Estoy interesada en Open Campus, por que deseo adquirir nuevos conocimiento que me ayudaran a reforzar mi carrera universitaria. ",0.09,0,0,0.8,0,0,0,0.133333333,0,0,honor,N/A,N,N,N/A
+188158,LUIS_FERNANDEZ82,LUIS ALBERTO FERNANDEZ CORTEZ,lalfredo2082@gmail.com,N/A,N/A,1982,m,m,1500680986,CapacitaciÃ³n o especializaciÃ³n  para mejor mi profesionalismo y empleabilidad,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188161,Miapilco,Mia karla Pilco GuillÃ©n ,pilcoguillenmiakarla@gmail.com,N/A,N/A,2009,f,other,0950442202,N/A,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188162,ANITA1992,ANA ISABEL ZAMBRANO PONCE,alavachavezmanuel@gmail.com,N/A,N/A,1992,f,hs,1314070739,APRENDER ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188165,MARIELA1995,MODESTA JOSEFINA LITARDO NARANJO ,gcopetel@fcs.utb.edu.ec,N/A,N/A,1971,f,m,1203035660,PORQUE ES UNA GRAN AYUDA,0.86,1,1,1,0,1,1,0.833333333,0.958333333,0.958333333,honor,N/A,Y,Y,honor
+188166,DEYANARA1995,DEYANARA YENOVA COPETE LITARDO ,mora1995anto@gmail.com,N/A,N/A,2003,f,a,1250133244,vvfbfbgf,0.88,1,1,1,0,1,1,0.833333333,0.958333333,0.958333333,honor,N/A,Y,Y,honor
+188167,EDDY1995,EDDY ANTONIO MORA MOREIRA,adaralisman@gmai.com,N/A,N/A,1992,m,hs,1207268465,VDGDG,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188168,Vh3rraz039,David Sebastian Herrera Zapata,vichoherraz34@yahoo.com,N/A,N/A,1993,m,b,0931556724,Quiero continuar con mi formaciÃ³n profesional como Administrador de empresas en el sector turÃ­stico y hotelero. Estoy interesado en potenciar mi perfil en el mercado del comercio electrÃ³nico del Ecuador y a nivel internacional.,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188171,Camila_Chuchuca,Camila Chuchuca,camilanicolechuchucaastudillo@gmail.com,N/A,N/A,2005,f,b,0107062952,PARA PODER APRENDER MAS CURSOS Y DARME MAS INFORMACION SOBRE LOS DISTINTOS CURSOS QUE ME PUEDEN AYUDAR EN MI VIDA YE N MI FUTURO,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188180,May_25,Maybe Jacqueline Espinoza Noquez,maybenoquez@hotmail.com,N/A,N/A,2002,f,b,1720486180,para aprender mas cosas,0.38,1,1,0,0,0,0,0.333333333,0,0,honor,N/A,N,N,N/A
+188183,Brithany01,BRITHANY DENISE VILLACRÃ‰S BARAHONA ,brithany200101@gmail.com,N/A,N/A,2001,f,m,1724605389,Quiero aprender ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188185,Chancu,Luis Hernan Chancusig Chancusig,lh.chancusig@gmail.com,N/A,N/A,1999,m,hs,0503960387,Recomendacion por unos docentes ya que su educacion es muy buena ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188187,Alison_Yepez,Alison Noemi Yepez PeÃ±aherrera ,yepeznoemi783@gmail.com,N/A,N/A,2007,f,hs,0943699819,"Me siento muy motivada para aprender sobre este tema, ya que creo que la alimentaciÃ³n saludable es fundamental para mantener una buena salud y bienestar.
+Me gustarÃ­a aprender sobre los principios bÃ¡sicos de la nutriciÃ³n, cÃ³mo planificar una dieta saludable, y cÃ³mo promover la educaciÃ³n nutricional en mi comunidad.
+Este curso me brindarÃ­a la oportunidad de adquirir conocimientos y habilidades valiosas que podrÃ­an beneficiar no solo mi propia salud, sino tambiÃ©n la de mis seres queridos y mi comunidad. Estoy emocionada de tener la oportunidad de aprender de expertos en el campo y de compartir experiencias con otros participantes.",0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188199,Mattipan,Marco TipÃ¡n,matt.mika11@gmail.com,N/A,N/A,1985,m,hs,1716330640,aprender mas,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188203,Mocast22,Monica Alexandra Castillo PÃ©rez ,alexicastillo2224@gmail.com,N/A,N/A,1990,f,m,0919724526,N/A,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188210,AuraMeraHerrera,Aura Viviana Mera Herrera ,auraviviand@gmail.com,N/A,N/A,1985,f,m,1310887482,Se ve muy interesante los cursos que  se ofertan,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188215,geraldine16,Geraldine Elizabeth Escobar Cevallos,geraluescobar123@gmail.com,N/A,N/A,2002,f,jhs,1004604276,Tengo buenas referencias de sus cursos,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188218,Austin_Ortiz,AUSTIN ORTIZ GUAMÃN ,hostinzkl@gmail.com,N/A,N/A,2003,m,hs,1728735737,Quiero estudiar y aprender mÃ¡s sobre oso temas de la buena alimentaciÃ³n ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188219,widtman,Widtman RenÃ© Carvajal Hurtado,widtman@gmail.com,N/A,N/A,1986,m,m,1715008411,para mejorar conocimientos y actualizar ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188220,valarezoedwinn,Edwin Ivan Valarezo,evalarezo6@utmachala.edu.ec,N/A,N/A,2001,m,b,0705667475,Por los cursos gratuitos,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188226,Andreaperaltag,Andrea Patricia Peralta GarcÃ­a,andreaperaltag@hotmail.com,N/A,N/A,2002,f,m,0952289924,Estoy interesada porque me gusta aprender y adquirir nuevas habilidades,0.22,0,0,0,1,1,0,0.333333333,0,0,honor,N/A,N,N,N/A
+188228,Briggi_Zamora95,Briggitte Zamora Vargas ,xilymary95@hotmail.com,N/A,N/A,1995,f,hs,0931144539,Para la mejor alimentaciÃ³n ,0.1,0.9,0,0,0,0,0,0.15,0,0,honor,N/A,N,N,N/A
+188231,GerardoLozada,Gerardo Patricio Lozada PazmiÃ±o,gerard_lozad@hotmail.com,N/A,N/A,1968,m,jhs,1708464373,por la diversidad de cursos,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188233,RenanCali,Renan,raulcali377@gmail.com,N/A,N/A,2002,m,b,0958662702,N/A,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188234,Daicycajas,Daicy Cajas,cajasdaicy22@gmail.com,N/A,N/A,2001,f,m,0959638727,Porque quiero ampliar conocimientos ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188236,MonicaAlvaro,Alvaro Cojitambo Monica Estefania,nonaestef@hotmail.com,N/A,N/A,1996,f,m,0705564789,Para obtener mas conocimientos y acceder a un certificado,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188239,lintriagom,Luis Intriago Mora,luisintriago593@gmail.com,N/A,N/A,1995,m,m,0932018831,CapacitaciÃ³n continua,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188240,EmilyBermeo_5,Emily Bermeo,bermeoemily5@gmail.com,N/A,N/A,2005,f,hs,0950952929,me gustarÃ­a tomar este curso por experiencia personal sobre hÃ¡bitos inadecuados que e tenido base a mi alimentaciÃ³n y se que este curso me ayudara a mejorar tanto mi fÃ­sico como mi autoestima y salud mental,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188244,luancaru,Luz Angelica Castillo R.,luancaru@gmail.com,N/A,N/A,1989,f,b,1757066392,Acceso a cursos de formaciÃ³n,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188246,csandovalin,Cecilia Sandovalin ,csandovalin@hotmail.com,N/A,N/A,1973,f,b,1712446093,Mejores metros de alimentaciÃ³n para mi familia y futuro negocio ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188248,AidaAlcivar,AIDA ALCIVAR,lissalcivar@outlook.com,N/A,N/A,1996,f,a,0932026776,"Me gustarÃ­a formar parte de este curso porque me interesan mucho las actividades comunitarias. Creo que son una gran oportunidad para contribuir al bienestar de los demÃ¡s y fortalecer el trabajo en equipo. AdemÃ¡s, quiero seguir aprendiendo cada dÃ­a mÃ¡s y adquirir nuevos conocimientos que me ayuden a crecer personal y profesionalmente.",0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188249,SandySan,Sandy SandovalÃ­n,sandysandovalin2504@gmail.com,N/A,N/A,1993,f,m,1724382633,Para obtener cursos de crecimiento personal.,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188250,JarlethAguilar22_,Jarleth Aguilar Martinez,dangieaguilar5@gmail.com,N/A,N/A,2005,f,b,0805241064,quisiera aprender mas,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188252,Mmercedesgv,MarÃ­a Mercedes GonzÃ¡lez ,mercedesgvelasquez@gmail.com,N/A,N/A,1988,f,hs,1757281405,Quiero estudiar,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188254,Roxana-Visuma,Roxana Fernanda Visuma Unkuch,roxana19-93@hotmail.com,N/A,N/A,1993,f,b,1900682905,los cursos son interesantes,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188261,LucyArias,Lucy Jacqueline Arias Montanero,lucyariasm2025@gmail.com,N/A,N/A,1980,f,m,1310009699,Para conocer desde la alimentaciÃ³n la gran posibilidad de mejorar mi  calidad de vida,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188265,Juliana_Cusme,JULIANA MIREXI CUSME CEDEÃ‘O,mirexicusme23@gmail.com,N/A,N/A,2000,f,hs,1250910930,Me parece muy interesante.,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188266,AnabelPacha,Anabel Pacha,anabelpacha09@gmail.com,N/A,N/A,2001,f,a,1754083200,Porque uso la educaciÃ³n online,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188272,ElizabethNepas,Elizabeth Liliana Nepas Guambi,liliana_nepas@hotmail.com,N/A,N/A,1990,f,a,1720077187,"para adquirir conocimientos, habilidades y aptitudes, y adaptarte a los cambios. ",0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188278,ElizabethRangel,Elizabeth Rangel ,elisabethrangel2007@gmail.com,N/A,N/A,2007,f,hs,1351651847,Porque me dieron una beca y es una buena universidad ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188281,Rodrialmagro,RODRIGO JAVIER ALMAGRO SÃNCHEZ ,rodrigojavieralmagro@gmail.com,N/A,N/A,1971,m,b,0601889876,Alimentos ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188283,Rodrigo123,Rodrigo Almagro,02almagrorodrigo@gmail.com,N/A,N/A,2000,m,b,0650119035 ,Por su oferta de cursos ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188293,CINTHIAMARIE,CINTHIAMARIESANCHEZCARRILLO,cinthiadereck@hotmail.com,N/A,N/A,1983,f,m,0704186964,Para obtener experiencia.,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188294,DIDI28,Diana Morales ,dmorales280714@gmail.com,N/A,N/A,1985,f,m,0802881920 ,Es una universidad de alto nivel. ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188298,caangulo1,Carlos Alfredo Angulo BolaÃ±os,caangulo1@utpl.edu.ec,N/A,N/A,1990,m,m,1721541728,Soy alumno UTPL y me interesa obtener conocimientos extras ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188301,Javi_10,Javier Isaias Falcones Andrade ,javierfalcones598@gmail.com,N/A,N/A,2007,m,hs,1350587786,Por la oportunidad que se me estÃ¡ dando en estar en este curso de manera gratuita ,0.95,0.8,1,1,1,0.833333333,0.9,0.922222222,1,1,honor,N/A,Y,Y,honor
+188304,SILVIA-TENELEMA,SILVIA TENELEMA,barcelokis@hotmail.com,N/A,N/A,1979,f,b,1715435028,Por capacitaciones,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188317,Aliria20,Aliria Cecilia Pinta Puchaicela,aliriacecilia@hotmail.com,N/A,N/A,1975,f,p,1103350573,Aprender sobre alimentos ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188318,Bonny01,Bonny Belen Espinoza Pavon ,bonnypavonaz@gmail.com,N/A,N/A,2002,f,hs,1004063200,Por la gran variedad de cursos que ofrece ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188321,Sandra_ramirez,Sandra RamÃ­rez ,rommelbalcazar197005@hotmail.com,N/A,N/A,1974,f,hs,0703148643,Para aprender de los mejores ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188326,Mauss,Mauricio Ron Romero,maury56.6@gmail.com,N/A,N/A,1988,m,jhs,1720807302,Adquirir mÃ¡s conocimiento y actualizarme ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188327,AnaCruzPino,Ana Gabriela Cruz Pino ,ana.cruz@iess.gob.ec,N/A,N/A,1987,f,m,1804355590,ActualizaciÃ³n de conocimientos ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188329,mijael_rp,Mijael Ramos Paredes,mijaelramosparedes@gmail.com,N/A,N/A,1985,m,b,45286373,Porque los cursos brindados son muy buenos y prÃ¡cticos ademÃ¡s de ser autofotmativos,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188336,Anthonychangoluisa,William Anthony Changoluisa Lopez ,anthony.changoluisalopez@gmail.com,N/A,N/A,2001,m,other,1850261221,Para adquirir conocimientos que son fundamentales al ejercer mi profesiÃ³n  ,0.91,1,0.9,0.8,1,1,0.9,0.933333333,0.75,0.75,honor,N/A,Y,Y,honor
+188338,Anita-Tisalema123,Ana Lucia ,ana200tisalema@gmail.com,N/A,N/A,2000,f,other,0504222779,Por el conocimiento que ofrecen ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188339,JorgeRivesanta,Jorge Vladimir Rivera Santana ,jorchrivera.154@gmail.com,N/A,N/A,1990,m,other,0503442402,Porque puedo saber mÃ¡s sobre una alimentaciÃ³n saludable y asÃ­ poder poner en practica en mi trabajo,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188340,NICOLE_CAIZA,DAYANA NICOLE CAIZA MORENO,dcaizamoreno15@gmail.com,N/A,N/A,2001,f,jhs,1804051033,QUIERO CONOCER MAS SOBRE LOS APORTES NUTRICIONALES Y EL BENEFICIO QUE TIENE EN LAS PERSONAS,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188341,Marcia_Artieda16,Marcia Artieda ,marciaartieda@dominio.com,N/A,N/A,2001,f,a,0550128334,Por sus cursos ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188342,GabrielVargas,Gabriel Ignacio Vargas Rodriguez,gaigva20@gmail.com,N/A,N/A,1997,m,a,0503662751,Por quÃ© nos dan la oportunidad de tener cursos y aprendizajes gratuitos para los que no tenemos los recursos necesarios.,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188343,sandy_moreno,SANDRA RAQUEL MORENO BUNGACHO,srakelmoren@hotmail.com,N/A,N/A,1979,f,m,0502205388,soy chef y me interesa pode ampliar mid conocimientos en relacion a mi profesion,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188344,Diana_16,Diana Cadena ,cadenadiana158@gmail.com,N/A,N/A,1998,f,other,0503662447,Deseo tener conocimiento una forma adecuada de alimentaciÃ³n ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188345,Anae,Ana BelÃ©n Espinel Cadena ,ani_espinel@hotmail.com,N/A,N/A,1991,f,other,0503779654,Me interesa este curso porque mi rama es la gastronomÃ­a ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188347,sandymoreno,SANDRA RAQUEL MORENO BUNGACHO,srakelmoreno@hotmail.com,N/A,N/A,1979,f,m,0502205388,quiero ampliar mis conocimientos sobre nutricion para fortalecer mi carrera ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188348,Fercho-97,Angel Fernando Salgado Cardenas ,anfersito@hotmail.com,N/A,N/A,1997,m,other,0503500332,Aprender nuevas cosas ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188349,ASHLEYTIGRERO,ASHLEY ALISSON TIGRERO TOMALA,asht06122005@gmail.com,N/A,N/A,2005,f,hs,2450945437,ME ENCONTRABA BUSCANDO CURSOS CON CERTIFICADOS GRATUITOS Y LA VERDAD ME LLAMO LA ATENCION ALGUNOS DE LOS QUE SE ENCUENTRAN DISPONIBLES ,0.99,1,1,1,1,1,1,1,1,1,honor,N/A,Y,Y,honor
+188350,Joss_Guagchinga,Joselyn Lisbeth Guagchinga Muso ,lismuso159753@gmail.com,N/A,N/A,1999,f,b,0502994353,InterÃ©s personal ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188351,KarenBorja-29,Karen Roxana Borja Padilla ,karenrbp2999@gmail.com,N/A,N/A,1999,f,m,1752871127,Para aprender y poder aplicar en el trabajo ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188352,ErickMena,Erick AndrÃ©s Mena Pacheco,erickmenap@hotmail.com,N/A,N/A,1987,m,m,0502459951,Brinda cursos de interÃ©s profesional,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188353,Karen19,Karen Fernanda Segura Aguirre,segurakaren2002@gmail.com,N/A,N/A,2002,f,m,2150262380,N/A,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188354,Williamchangoluisa,William Anthony Changoluisa Lopez ,William.changoluisabenjaminara@gmail.com,N/A,N/A,2001,m,a,1850261221,Adquirir conocimientos ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188356,KarolOrtega95,Karol Elizabeth Ortega Rojas,karolelizabeth30@gmail.com,N/A,N/A,1995,f,b,1717919516,quiero capacitarme,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188359,robertomas,roberto tomas ramos vasquez,robertomas_ramos@hotmail.com,N/A,N/A,1981,m,other,1713373775,tienen temas muy interesantes para seguir mejorando mis pensamientos de manera mas profesional,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188360,Mishelvelez,Mishel Velez ,mayelivelez4@gmail.com,N/A,N/A,2022,f,m,1721613394,Estoy interesada en el curso porque los temas propuestos son interesantes ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188365,Magalyy,Guilda Magaly Moreno Castillo,mm0927836@gmail.com,N/A,N/A,1979,f,hs,1103910996, Ofrece oportunidades para una educaciÃ³n mÃ¡s inclusiva que va mÃ¡s allÃ¡ de las limitaciones tradicionales permitiendo que mÃ¡s personas tengan acceso a experiencias educativas de calidad esta flexibilidad y accesibilidad son clave para el futuro de la educaciÃ³n especialmente en un mundo cada vez mÃ¡s globalizado y digitalizado.,0.61,1,0.9,1,1,0.833333333,0.9,0.938888889,0,0,honor,N/A,N,N,N/A
+188366,Marilima,Maritza Noemi,naomi18zh@gmil.com,N/A,N/A,2002,f,b,1950067957,por su amplio conocimiento y gran oportunidad para mejorar dia con dia profesionalmente ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188367,IsmaelG,Ismael Guanoluisa,jiguanoluisa777@gmail.com,N/A,N/A,1984,m,m,0502970254,CALIDAD DE CURSOS,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188370,Ashley_Sigcha,Ashley Nathaly Sigcha PastuÃ±a,ashleysigcha772@gmail.com,N/A,N/A,2007,f,hs,0504841255,por su exitosos cursos que imparten,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188371,Alexlis06_campos,Alexandra Campos,alelisbeth06@gmail.com,N/A,N/A,2006,f,hs,2300806201,Tanto por sus carreras y medio de aprendizaje ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188372,CoparaCris,MarÃ­a Cristina Copara Caisaluiza ,criscaisaluiza1999@gmail.com,N/A,N/A,1999,f,other,0504359670,Me gustarÃ­a aprender mÃ¡s sobre el tema ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188381,Mayelivelez,Mayeli Velez,shellmyvelez@gmail.com,N/A,N/A,2002,f,m,1721613394,Los temas a tratar me parecen interesantes,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188385,Pauly-1997,PaulinaAlexandraMopositaRodriguez,paulymoposita197@gmail.com,N/A,N/A,1997,f,m,1804609665,Aprender mas sobre el tema ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188386,Miriampa,Miriam Mercedes Parrales SuÃ¡rez ,mirianparrales1209@gmail.com,N/A,N/A,1969,f,b,0911754703,Estudiar,0.88,1,1,1,1,1,0,0.833333333,0.958333333,0.958333333,honor,N/A,Y,Y,honor
+188389,CARLOSESPINOZA1990,CARLOS MIGUEL ESPINOZA GUERRERO,carlosespinoza.eg1@gmail.com,N/A,N/A,1990,m,hs,0705877819,PORQUE DESEO OBTENER NUEVOS CONOCIMIENTOS Y FORTALECER LOS MISMOS,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188390,GeovannaArmijos,Geovanna Yamileth Armijos Armijos,geovannaarmijosarmijos@gmail.com,N/A,N/A,2007,f,b,0750734741,Quiero aprender mas,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188395,JesicaMoposita,Jesica Moposita,jjesimoposita24@gmail.com,N/A,N/A,2000,f,other,0504606823,"Estoy muy interesada en Open Campus porque deseo aprender mÃ¡s sobre la importancia de una alimentaciÃ³n saludable y cÃ³mo esta influye en nuestro bienestar fÃ­sico y mental. Creo que una buena nutriciÃ³n es la base de una vida plena, y me gustarÃ­a adquirir conocimientos que me permitan mejorar mis propios hÃ¡bitos alimenticios y tambiÃ©n compartir esta informaciÃ³n con quienes me rodean. Mi objetivo es entender cÃ³mo una dieta equilibrada puede prevenir enfermedades y contribuir a un estilo de vida mÃ¡s saludable y sostenible.",0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188396,Katerinequinde,KATERINE NICOLE QUINDE MÃ‰NDEZ,katerinenicoleqn@gmail.com,N/A,N/A,1996,f,a,1725490971,para poder adquirir mas conocimiento,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188399,erikagadvay,Erika Nataly Gadvay Marmol ,erikuss_2204@yahoo.es,N/A,N/A,1993,f,other,0604050534,Necesito tener el conocimiento en el Ã¡rea de la alimentaciÃ³n ,0.72,1,1,1,1,1,0,0.833333333,1,1,honor,N/A,N,N,N/A
+188401,gladysortiz1,Gladys Lucila Ortiz Guerrero,ortizgladys575@gmail.com,N/A,N/A,1952,f,other,0600825780,tener conocimientos actualizados para mi profesiÃ³n ,0.7,1,1,1,1,1,0,0.833333333,0.875,0.875,honor,N/A,N,N,N/A
+188403,Milagritos,Milagros Dayanara LeÃ³n Campos ,milidayita20@gmail.com,N/A,N/A,2006,f,hs,1728740919,Quisera aprender nuevas cosas y me interesa mucho esto ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188405,PedroRivera,Pedro Rivera ,chuchachue@gmail.com,N/A,N/A,1990,m,jhs,12062828206,Me interesa adquirir nuevos conocimientos  para poder gener ingresos,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188410,DenisseUnda,Denisse Katherine Unda Herrera,deniunda@gmail.com,N/A,N/A,1994,f,a,0503997991,Conocimiento ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188411,Esther_Gomez,Esther Elizabeth Gomez Vacacela,goe78181@gmail.com,N/A,N/A,2006,f,hs,0959421520,Quiero aprender y complementar algunas cosas de la carrera universitaria que voy a seguir,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188412,merifati,Meri Fati Suscal Machuca,suscalmeri1970@gmail.com,N/A,N/A,1970,f,hs,0103074787,Posibilidad de aprender y seguir desarrollandome,0.49,1,1,1,0,0,0,0.5,0,0,honor,N/A,N,N,N/A
+188414,Christianvln8,Christian Eduardo Pinos Valencia,odontologiamarvel@gmail.com,N/A,N/A,1997,m,m,0150916120,Me interesa formar parte y poder mejorar con el curso y ayudar a mejorar la alimentaciÃ³n de mi familia y amigos,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188422,asosiacion,alejandra del cisne lalangui robalino ,alejandra.lalangui@gmail.com,N/A,N/A,2002,f,b,1150946752,para conocer mas y aprender ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188423,ROBALINO-LUCIA,NORMA LUCIA ROBALINO AMBULUDI,normaluciarobalino@gmail.com,N/A,N/A,1981,f,hs,1103806111,para aprender mas de los tipos de alimentaciÃ³n ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188428,jadirachavezz,jadira chavez,jadira.chavez@gmail.com,N/A,N/A,2000,f,hs,1207385491,para mejorar la alimentaciÃ³n de mi familia y tener conocimientos de manera profesional ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188430,Paulylara,Paulina Elizabeth Lara Ullaguari,pauli1987s@hotmail.com,N/A,N/A,1987,f,el,1718589433,Crecimiento profesional,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188432,Jhonatan17,Jhonatan David Casa Yanguicela ,jcasa7610@gmail.com,N/A,N/A,2003,m,m,1728697630,Me gustarÃ­a implementar un menÃº mÃ¡s saludable ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188433,DianaVerdezoto666,Diana Lisbeth Verdezoto Bravo,verdezotodiana90@gmail.com,N/A,N/A,1999,f,m,1724833981,Para fortalecer mis conocimientos a travÃ©s de una instituciÃ³n prestigiosa y excelente como lo es esta plataforma.,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188434,YajairaAguirre,yajaira Choto Aguirre,yajairachoto11@gmail.com,N/A,N/A,2006,f,hs,0606011260,Porque ofrecen cursos muy buenos,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188436,SteevenRomero,Steeven Alexander Romero Neira,tiven1418@hotmail.com,N/A,N/A,1996,m,a,0706151842,Porque me permite aprender cosas nuevas,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188442,Gabriela_Vasconez,Gabriela VÃ¡sconez ,gs.vasconez@gmail.com,N/A,N/A,2000,f,a,1206610089,Quiero aprender mÃ¡s ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188443,Keylita_carol,Keyla Carolina Vega Quevedo ,keylitacarol08@gmail.com,N/A,N/A,2001,f,m,1724465057,Aprender mÃ¡s ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188444,JazminGP1999,Jazmin Gallo Perez ,isagperez890@gmail.com,N/A,N/A,1999,f,hs,0954196465,Deseo validar materias ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188445,CarlaPareja,Carla Andrea Pareja Martillo,carlapareja99@gmail.com,N/A,N/A,1999,f,m,0952013639,N/A,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188446,Sam_98Aldas,Samantha AldÃ¡s ,samaldas115@gmail.com,N/A,N/A,1998,f,b,0550223382,Deseo saber sobre la alimentaciÃ³n saludable ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188448,NoemiZhunio,Maritza Noemi,naomi18zh@gmail.com,N/A,N/A,2002,f,other,"1950067957
+","por su exelente servicio
+",0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188458,Salome03,SalomÃ© Diaz,salomediazvera@gmail.com,N/A,N/A,1976,f,hs,1103620140,N/A,0.11,1,0,0,0,0,0,0.166666667,0,0,honor,N/A,N,N,N/A
+188461,Shirley1990,Shirley Genny Espinales Villamar,shirleygenny@gmail.com,N/A,N/A,1990,f,m,0924191869,Me interesa el curso,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188469,mafer_g,MARÃŒA FERNANDA GUSÃ‘AY PEREZ ,mgusnayperez@gmail.com,N/A,N/A,1985,f,m,0915792063,es una aplicaciÃ³n interesan y muy Ãºtil,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188470,NarcizaSolorzano,Narciza Fabiola Bravo SolÃ³rzano,narfaby@hotmail.com,N/A,N/A,1992,f,b,1314511195,nuevos conocimientos ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188483,Adonis,angel arias,aaarias16@utpl.edu.ec,N/A,N/A,1999,m,b,1751201870,Quisiera mejorar y aumentar mi conocimientos en diferentes Ã¡reas.,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188484,karlaPilay,Karla Belen Pilay Merchan ,karlapilay22@gmail.com,N/A,N/A,1998,f,hs,1206866103,Aprender mucho mÃ¡s. Abrir mÃ¡s conocimiento ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188486,Christiny_Perez,Christiny Aileen PÃ©rez Batallas,aileenperezbatallas@outlook.com,N/A,N/A,2001,f,m,0951257187,Adquirir mas conocimientos ,0.5,1,1,1,0,0,0,0.5,0,0,honor,N/A,N,N,N/A
+188487,Carlosbenavides90,CARLOS ALFREDO BENAVIDES,carlosb.uera@hotmail.com,N/A,N/A,1990,m,m,1804191284,porque me gusta seguir creciendo en conocimiento,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188495,ronnyestrella,Ronny Stalyn Estrella Lidioma,ronnyestrellalidioma@gmail.com,N/A,N/A,1994,m,m,1722308069,N/A,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188496,AngelesEspinosa,MarÃ­a de los Angeles Espinosa de los Monteros GarcÃ­a,angeles_emg@hotmail.com,N/A,N/A,1976,f,b,1713845145,Me interesa ampliar mis conocimientos en diferentes Ã¡reas,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188498,mariapizza,Maria JosÃ© Pizza Guerra,pimajito086@gmail.com,N/A,N/A,2008,f,hs,0941099533 ,Quiero afrender mÃ¡s ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188499,Helen_vargas,Helen Nicole Vargas Labanda ,helen26vargas@gmail.com,N/A,N/A,2006,f,other,1150553954,Porque quiero seguir aprendiendo y capacitandome para destacarme profesionalmente .,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188503,Animajasa,Ana Jaramillo ,jaramilloanamaria58@gmail.com,N/A,N/A,2007,f,hs,2350999021,Por quÃ© me puede ayudar a adquirir mayor conocimiento en ciertas Ã¡reas ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188507,KEVIN22,Kevin Lizandro Tipanluisa Males,kevintipanluisa65@gmail.com,N/A,N/A,2002,m,m,1728080530,Quiero una oportunidad de conocer las carreras y experimentar diversos temas,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188508,Kelly22,Kelly Carlota  PeÃ±ahererra Morocho ,kmorochoausay@gmail.com,N/A,N/A,2001,f,m,0503667388,Para aprender mÃ¡s y  tener mayores oportunidades ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188516,Mady-0407,Haidy Madeleine,haidymadeleine0@gmail.com,N/A,N/A,2007,f,hs,1351756091,pq me ofrecieron este curso gratuito y me intereso,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188518,Santo71_cevallos-,Santo cevallos,santocevallos90@gmail.com,N/A,N/A,1971,m,other,1306278068,Porque es una empresa muy prestigiosa,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188530,Julyreaf,July Daniela Rea Flores ,readaniela354@gmail.com,N/A,N/A,1997,f,b,1726265786,Porque quiero generar mÃ¡s conoccimientos ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188534,KarlaAsanza,Karla Nickole Asanza Matute,knam1312842816@gmail.com,N/A,N/A,2001,f,m,1312842816,N/A,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188542,SANDRALLIGUIN,SANDRA VIVIANA LLIGUIN BALAREZO,sandravivianalliguin@gmail.com,N/A,N/A,1996,f,m,0989033921,Ampliar conocimientos e interÃ©s personal en temas varios,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188552,Karina_36,Karina Gabriela Ortega Vargas,gabbyortega1990@gmail.com,N/A,N/A,1990,f,hs,1804167763,aprendizaje,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188553,CisneDiaz,lorena Diaz,lorenadiazpardo@gmail.com,N/A,N/A,1993,f,b,1105631582,Necesito Capacitarme mas y Open Campus tiene los cursos que necesito ,0.11,1,0,0,0,0,0,0.166666667,0,0,honor,N/A,N,N,N/A
+188554,Myrka-12,Myrka Ibeth CobeÃ±a Cordova ,cobenamyrka@gmail.com,N/A,N/A,2005,f,hs,0705621191,tener conocimiento sobre los cursos que otorgan ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188555,ELIDAC,Elida Azucena CantÃ© de la Cruz,elidacante114@gmail.com,N/A,N/A,1971,f,hs,1.60156E+12,para conocer mas de temas importantes ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188557,asociacion,Patricia consuelo pquishpe,pquishpe2379@hotmail.com,N/A,N/A,1979,f,hs,1103566822,para mejorar laboral y personal ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188568,PauliTomala902310,ANA PAULINA TOMALA CIFUENTES,aptomala@utpl.edu.ec,N/A,N/A,1990,f,hs,0923800502,validacion de conocimientos ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188570,KarenReyesB,KAREN TALYA REYES BRITO,karen.reyesb@outlook.com,N/A,N/A,1994,f,b,0941630147,PreparaciÃ³n profesional,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188571,JomayraSalazar,Jomayra Salazar,jomayra_salazar@hotmail.com,N/A,N/A,1986,f,m,0925700742,porque es interesante los temas expuestos que ayudan a lidiar el dia a dia ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188572,AdrianVera,Adrian Vera,jose.veranarea2025@gmail.com,N/A,N/A,2000,m,m,0952482248,Me interesa seguir aprendiendo cada dÃ­a mÃ¡s y adquirir nuevos conocimientos,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188574,Diana_Carolina,Diana Cadena,dianacadena695@gmail.com,N/A,N/A,1998,f,other,0503662447,Tener mÃ¡s conocimiento del curso que van a dictar.,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188575,Diana_Cadena,Diana Cadena,diana.carolina161298@gmail.com,N/A,N/A,1998,f,other,0503662447,Deseo adquirir conocimiento de alimentaciÃ³n saludable ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188577,ANGEL_L,ANGEL LOPEZ,angelito1983@hotmail.com,N/A,N/A,1983,m,a,1717988859,POR CAPACITARME,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188580,MariaCristina94,Maria Cristina Martinez,marycrism94@gmail.com,N/A,N/A,1994,f,m,1720314465,conocimiento,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188600,LeslyLoja,Leslie Tatiana Loja Tigre,lojaleslie@gmail.com,N/A,N/A,2000,f,b,0106146400,Me gustaria aprender muchos temas que e ayudarian en mi vida profesional como docente o mi vida cotidiana ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188602,DOMENIKA-SANDOVAL,DOMENIKA SANDOVAL,domenikasandoval5@gmail.com,N/A,N/A,2003,f,hs,1756311294,Quiero tener mayor conocimientos para el ambito laboral y personal ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188608,EstefannyGomez,Estefanny GÃ³mez,domestefanny@gmail.com,N/A,N/A,2001,f,hs,1805511886,Porque me interesa aprender mÃ¡s y porque esta avalado por una buena universidad,0.2,1,0.8,0,0,0,0,0.3,0,0,honor,N/A,N,N,N/A
+188612,Erickaponce,Ericka Nathaly Ponce del Valle,nathalytati@hotmail.com,N/A,N/A,1990,m,hs,1313250886,Para poder capacitarme  ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188619,MathiasMera,Mathias Gabriel Mera Olvera,matmera20@gmail.com,N/A,N/A,2006,m,hs,0956291397,Me gusta aprender mas,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188620,Zulamita,Ibeth MartÃ­nez,ibethm682@gmail.com,N/A,N/A,2004,f,hs,1753775004,Aprender,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188623,Katherineb23,Katherine Rosario Bravo RomÃ¡n ,katherinebravo655@gmail.com,N/A,N/A,2000,f,hs,0107217648 ,Estoy interesado por que la educaciÃ³n continua es importante para alimentar nuestros conocimientos acadÃ©micos y labores ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188628,KarenAvila,Karen Avila Lopez ,karen.avilopez@gmail.com,N/A,N/A,1996,f,m,0705702652,para reforzar mis conocimientos ,1,1,1,1,1,1,1,1,1,1,honor,N/A,Y,Y,honor
+188637,samia_dumani02,Paola Samia Dumani Romero ,samiaadumani@gmail.com,N/A,N/A,2002,f,jhs,0956768113,N/A,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188639,CarlinaEstefania,Carlina Sicha,carlinaestefanias@gmail.com,N/A,N/A,1993,f,b,0302913124,Salud,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188643,Rebeca23,Rebeca Magdalena Espana Rodriguez,espanaruth4@gmail.com,N/A,N/A,2006,f,hs,0957647134,QUISIERA APRENDER Y OBTENER CONOCIMIENTO PARA PODER EMPRENDER Y NO FRACASAR EN EL INTENTO,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188646,CarolinaG_A,Lisset Carolina Gonzalez Armijos ,lgonzaleza3@unemi.edu.ec,N/A,N/A,1991,f,hs,0706300266,aprender ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188647,Maen,MarÃ­a BelÃ©n Morales Arevalo ,mb98ma@hotmail.com,N/A,N/A,1998,f,a,1600476004,Me interesa adquirir mÃ¡s conocimientos ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188648,Rossana-Ramirez,Rossana Estefania Ramirez Quevedo ,roxy_18.89@hotmail.com,N/A,N/A,1989,f,hs,0705348498,Son temas muy importantes que aportan a nuestra sociedad ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188662,MK2025,MONICA KARINA CHOEZ DAVIÃ‘A,monicachoez@gmail.com,N/A,N/A,1976,f,m,0914799424,Me interesa aprender sobre temas de actualidad.,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188674,Denisse_Fernandez,Denisse Elizabeth FernÃ¡ndez Garrido ,fernandezdenisse512@gmail.com,N/A,N/A,1997,f,b,0706794062,Aprender mÃ¡s acerca de alimentacion,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188677,Jua,Danny Ariel BaÃ±os Marquez ,dannybanos074@gmail.com,N/A,N/A,2000,m,b,1207129618,Interesado ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188678,ANDREA-CABEZAS,ANDREA DANIELA CABEZAS CAZAÃ‘AS,andyd10_@hotmail.com,N/A,N/A,1993,f,m,1718411802,para capacitarme en temas de educaciÃ³n,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188685,Dianerosero,Diane Rosero ,sheiladayan@live.com,N/A,N/A,1997,f,m,1805145891,Estoy interesada por la mejora en mis conocimientos que puedo obtener al seguirme formando ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188692,Karen92,Karen Amanda Bravo NarvÃ¡ez ,narvaezamanda12@gmail.com,N/A,N/A,1992,f,other,220001234-8,Me gusta etiquetar alimentos y quiero aprender mÃ¡s ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188693,Andrealst,Andrea Lissette Santana Torres,lissette1418@gmail.com,N/A,N/A,1991,f,b,0920155520,"Hola, me interesa conocer temas de ventas, marketing digital y emprendimiento",0.39,1,0,0,0.9,0.833333333,0.9,0.605555556,0,0,honor,N/A,N,N,N/A
+188696,Janileysi_Quimi,Janileysi Quimi,janileysi.quimi@gmail.com,N/A,N/A,2000,f,b,2450178344,Para tener una mejor preparaciÃ³n ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188700,alexandravalencia18,Alexandra Soledad Valencia Zambrano,alexandritavalencia42@gmail.com,N/A,N/A,2003,f,hs,1250717962,"Para poder ampliar mis conocimientos tanto en mis Ã¡mbitos acadÃ©micos, laboral y personal",0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188702,GisselaFonseca,Amparo Gissela Fonseca LeÃ³n,gisse812015@hotmail.com,N/A,N/A,1981,f,other,1716963531,Deseo adquirir mas conocimientos,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188710,ShirleyRecillo,SHIRLEY MICHELL RECILLO TRUJILLO,shirley.recillo1@hotmail.com,N/A,N/A,1997,f,m,1805289566,QUISIERA POTENCIAR MI HOJA DE VIDA Y FORMACIÃ“N,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188712,Aline,Aline mateo,valeriamateogonzalez@gmail.com,N/A,N/A,1992,f,a,245002007,Porque tengo todas las ganas d seguir aprendiendo ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188714,Yessy-1802,Yessenia Cruz Astudillo,yicruz@utpl.edu.ec,N/A,N/A,2000,f,hs,1950006153,N/A,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188715,d_mite2,Daniela anahi mite,d.mitequinde2003@gmail.com,N/A,N/A,2003,N/A,a,0942729492,N/A,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188716,Magaly07,Guilda Magaly Moreno Castillo,gabym9541@gmail.com,N/A,N/A,1979,f,jhs,1103910996,Para llegar a tener mas conocimientos  ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188721,Erick_plasencia98,Erick David Plasencia ProaÃ±o,edplasencia@utpl.edu.ec,N/A,N/A,1998,m,hs,1727431338,Deseo cumplir con mas materias para registrar a mi malla en la carrera de pedagogÃ­a de Idiomas en la UTPL,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188731,Lorena_2002,Lorena Anahy Navarrete Tapia,anahynt2002@gmail.com,N/A,N/A,2002,f,m,1005212202,Por que quiero aprender mas sobre temas interesantes acorde a mi profesiÃ³n ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188745,NessaNoboa,Katherine Vanessa Noboa Noboa,vanenoboa@hotmail.com,N/A,N/A,1993,f,b,1723881635,para ampliar mi conocimiento,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188747,Colombiano1970,Luis Enrique Campoverde Romero ,chefluigi@hotmail.com,N/A,N/A,1970,m,hs,0702535147 ,Facilidad en tiempo para el aprendizaje ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188752,Silvani,Silvania Alvarado ,silvaniaalva70@gmail.com,N/A,N/A,1970,f,m,1103074538,Capacitarme mÃ¡s ,0.71,1,1,1,1,0,1,0.833333333,0,0,honor,N/A,N,N,N/A
+188754,IvanaTorres,Ivana Torres Charcopa,ivana26torres@outlook.com,N/A,N/A,1999,f,m,0850014382,"Porque brinda diversos cursos en lÃ­nea gratuitos, para aquellas personas que se encuentran sin empleo y por cuestiones econÃ³micas no pueden certificarse en buenos cursos.",0.1,0,0.9,0,0,0,0,0.15,0,0,honor,N/A,N,N,N/A
+188766,adelinJAR,Adelina Herrera,medicosmisioneroselvi@gmail.com,N/A,N/A,1952,f,a,6.372.252,crecer en conocimientos,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188767,Oscaradrian,Ã“scar AdriÃ¡n ,ueabzamoraosc@gmail.com,N/A,N/A,2001,m,m,1207070598,Porque me lo recomendaron ,0.33,1,1,0,1,0,0,0.5,0,0,honor,N/A,N,N,N/A
+188775,Cinthia_Ortiz,Cinthia,cortizmite@gmail.com,N/A,N/A,1997,f,m,0705577476,Me interesa el tema de la educaciÃ³n en todas sus ramas,1,1,1,1,1,1,1,1,1,1,honor,N/A,Y,Y,honor
+188776,DayanaSanchez12,Dayana Marian SÃ¡nchez Vasquez,dayanamari1209@gmail.com,N/A,N/A,2000,f,b,1725068488,Por los cursos que ofrecen,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188787,ElenaM,Amaris Elena Mite Marquez,elenamitee@gmail.com,N/A,N/A,2007,f,hs,0955337795,N/A,0.89,1,1,1,1,1,1,1,0.875,0.875,honor,N/A,Y,Y,honor
+188788,Yovagnny,Bayron Yovagnny Gonza Gonzalez ,yovago_@hotmail.com,N/A,N/A,1983,m,hs,1104141070,Por que es una buena opcion para que las personas nos podamas instruir ,0.31,1,0.9,0,0,1,0,0.483333333,0,0,honor,N/A,N,N,N/A
+188794,ROBERTINA,JESSICA KATIUSKA SILVA OLAYA ,jessicasilva.o@educacion.gob.ec,N/A,N/A,1978,f,m,0918103359,POR QUE SOY DOCENTE Y ME GUSTA ESTAR EN CONSTANTE  CAPACITACIÃ“N ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188797,mllino,Martha Lino Vallejo,mllino@utpl.edu.ec,N/A,N/A,1971,f,hs,0914268669,completar mis creditos de estudio,0.88,1,1,0,1,1,1,0.833333333,1,1,honor,N/A,Y,Y,honor
+188798,MikaelaValeria,Mikaela Valeria Tsenkush Wachapa,mikaelatsenkush@gmail.com,N/A,N/A,2002,f,hs,1400850911,N/A,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188808,Wendy_g11,Wendy Jennifer GonzÃ¡lez Rengifo ,wendykylie11@gmail.com,N/A,N/A,1992,N/A,other,0704435312,Quisiers aprender mÃ¡s sobre recursos educativos y tambiÃ©n inclusivos ya que tengo una hija autista quiero seguir aprendiendo para poder enseÃ±arle tambiÃ©n en casa ya que asisto con ella como maestra sombra tambiÃ©n me piden como requisito para estar con ella en el aula que asista a capacitaciones o cursos que sean relacionados con educaciÃ³n ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188812,Samantha_Macas97,Samantha Mishel Macas Vera,sam97mv@gmail.com,N/A,N/A,1996,f,m,0706614013,"Me gusta aprender mÃ¡s sobre el tema de alimentaciÃ³n, soy ingeniera en alimentos ",0.11,1,0,0,0,0,0,0.166666667,0,0,honor,N/A,N,N,N/A
+188814,LorenaGo,Lorena Beatriz Gomez Toala,lorenagomezt20@gmail.com,N/A,N/A,1996,f,a,1314609254,quiero ampliar y actualizar mis conocimientos,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188819,Stefanilozano,Darly Herrera Stefania Lozano ,herreradarly46@gmail.com,N/A,N/A,2007,f,b,1729272201,Para aprender mÃ¡s y poder tener mÃ¡s conocimientos en mi carrera a seguir.,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188828,Dayana2003,Carmen Dayana Arellano Jumbo,dayanarellano14@gmail.com,N/A,N/A,2003,f,b,2350236234,"Quiero aprender y conocer mÃ¡s sobre la educaciÃ³n y otros contextos, es interesante y necesario comprender diferentes Ã¡reas de conocimiento mientras este aprendiendo.",0.11,1,0,0,0,0,0,0.166666667,0,0,honor,N/A,N,N,N/A
+188833,Jairocarrion97,Jairo Paul Carrion Pacheco,jairocarrio@gmail.com,N/A,N/A,1997,m,hs,1750294991,Para aumentar conocimiento,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188835,Ashzathir,Ashley BazÃ¡n,domeashley2609@gmail.com,N/A,N/A,2004,f,b,1207708684,Por aprender ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188845,SKMARTINEZ,SUSAN KATHERINE MARTINEZ GRANDA,susankatherine1974@gmail.com,N/A,N/A,1974,f,b,0703122986,CURSOS,1,1,1,1,1,1,1,1,1,1,honor,N/A,Y,Y,honor
+188848,Veroroba23-,VerÃ³nica Robalino Espinosa ,robalinoveronica@gmail.com,N/A,N/A,1977,f,a,1715003206,Para complementar mi trabajo con niÃ±os ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188852,YaneCeci,Yanela Cecibel CaÃ±ar Romero ,yanelacecibel@gmail.com,N/A,N/A,2002,f,hs,1150856498,"Me interesa esta plataforma porque me permite adquirir nuevos conocimientos en distintas Ã¡reas, acceder a experiencias de aprendizaje enriquecedoras y aprovechar la facilidad de estudiar en lÃ­nea a mi propio ritmo. AdemÃ¡s, es una plataforma muy amigable y accesible, lo que hace que el proceso de aprendizaje sea llevadero.",0.83,1,1,1,1,1,1,1,1,1,honor,N/A,Y,Y,honor
+188860,Dayanaloor,Dayana jakeline Loor lucas,dayannaloorlucas123@gmail.com,N/A,N/A,2001,f,other,0931301220,"Conocimiento, me da curiosidad ",0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188867,Andreguer,Andrea Guerrero,andreguer0@gmail.com,N/A,N/A,1995,f,b,1719656884,CapacitaciÃ³n continua gratuita,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188874,JoselynCabas,JoselynCabas,cabascangoquishpej@gmail.com,N/A,N/A,1999,f,b,1004737217,Para aprender mas,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188875,Jopenafiel,Maykel Joel PeÃ±afiel Calapucha,penafielmaykel174@gmail.com,N/A,N/A,2002,m,b,1250773882,Los cursos son de gran ayuda,0.22,1,1,0,0,0,0,0.333333333,0,0,honor,N/A,N,N,N/A
+188876,NeryTorres,Nery Marianela Ramirez Torres ,maritorresrz@gmail.com,N/A,N/A,2006,f,hs,0944024926,"Por las nuevas enseÃ±anzas, conocimientos y oportunidades ",0.75,0.7,0.9,0.9,1,1,0.9,0.9,0,0,honor,N/A,Y,Y,honor
+188884,fernandomejias,Fernando MejÃ­a ,intyshana@gmail.com,N/A,N/A,1988,m,m,1723222707,Es una oportunidad para continuar aprendiendo ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188885,AraiGomez,Arai Gomez,araigomez9@gmail.com,N/A,N/A,2006,f,hs,1729243905,Porque quiero enriquecerme con los cursos motivando mi conciencia,0.95,1,1,0.9,1,0.833333333,0.9,0.938888889,1,1,honor,N/A,Y,Y,honor
+188891,ChrisR,CHRISTIAN GEOVANNY RODRIGUEZ PEREZ ,cristian80359@gmail.com,N/A,N/A,1980,m,m,0916489487 ,MÃS APRENDIZAJE ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188893,Jenn_apl,Jennifer Amada Puente Lopez,jennifer.apul@gmail.com,N/A,N/A,2003,f,hs,0952667772,Para poder aprender y ser una calidad de profesional,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188897,Astevenrm,Anthony Steven Ramia Mantilla,asramia@utpl.edu.ec,N/A,N/A,2001,m,a,1727252544,N/A,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188901,Mafer123-__-,MarÃ­a Macias ,mafer2007ja@gmail.com,N/A,N/A,2007,f,hs,235030663-1 ,Deseo aprender ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188903,Angelavelez00,Angela VÃ©lez ,srangelavelez@gmail.com,N/A,N/A,2000,f,hs,2350329112,"Quiero aprender para mi futuro 
+",0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188904,josselinfajardo,Josselin Vanessa Fajardo Nagua,joicitap.fajardo@gmail.com,N/A,N/A,1999,f,hs,0705713212,Capacitarme para aprender.,0.11,1,0,0,0,0,0,0.166666667,0,0,honor,N/A,N,N,N/A
+188905,PEDROLUIS57,PEDRO LUIS MALDONADO ALAVA ,pelumaal@hotmail.com,N/A,N/A,1957,m,m,0906141098 ,Flexibilidad horaria ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188913,karina_mora_g10,Karina Gisella Mora Gurumendi ,karitri10@hotmail.com,N/A,N/A,1975,f,b,0916758113,Para expandir en conocimiento ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188915,Marisa1987,MarÃ­a Isabel Barcia Basurto,marisabarcia12@gmail.com,N/A,N/A,1987,f,b,1312017054,Quisiera aprender nuevas cosas y ponerlas en prÃ¡ctica ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188924,SandraOrozco,Sandra Margoth Orozco Guerrero,sandrita0524@hotmail.com,N/A,N/A,1989,f,other,0604937623,Para adquirir conocimientos,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188927,Blanca_Arevalo,Blanca Michelle Arevalo Constante ,blanchett18@hotmail.com,N/A,N/A,1997,f,m,1850706100,Me interesan los cursos,0.22,1,1,0,0,0,0,0.333333333,0,0,honor,N/A,N,N,N/A
+188931,DanielaSalazar98,Daniela Maritza Salazar Giler,danielamsalazarg@gmail.com,N/A,N/A,1998,f,b,1717484735,Quiero aumentar mis conocimientos academicos,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188932,Mariacob1979,MARIA COBEÃ‘A,jesusa24810@gmail.com,N/A,N/A,1979,f,b,1308376662,"Deseo actualizar mis conocimiento como Lcda. en PÃ¡rvulo, posteriormente realizar una maestrÃ­a  ",0.22,1,1,0,0,0,0,0.333333333,0,0,honor,N/A,N,N,N/A
+188933,Miguel_Saavedra73,Miguel Angel Nava Saavedra ,navasaavedra@gmail.com,N/A,N/A,1973,m,m,0966331415,Trabajo como cocinero y considero que es necesario estudiar y formarse para realizar con mayor profesionalidad esta delicada y especial labor ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188935,Ambar_Garcia-30,Ãmbar Katherine GarcÃ­a Vargas ,heideggernava@gmail.com,N/A,N/A,1994,f,b,0967826629,Es necesario y importante para mÃ­ el seguir aprendiendo y actualizarme ahora siendo madre,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188938,Kargudob93,Katherine Adriana Argudo BeltrÃ¡n,katherineargudo@outlook.com,N/A,N/A,1993,f,m,0950310375,Capacitarme y aprender mÃ¡s ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188943,LeiberSalazar,Leiber Salazar Rodriguez,leiber.salazar@educacion.gob.ec,N/A,N/A,1985,m,m,0920989217,Seguir actualizando mis conocimientos,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188946,Raissa_Fienco,Raissa Tatiana Fienco Acosta,raissatati@hotmail.com,N/A,N/A,1989,f,b,0928779818,su metodologia,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188948,Pnguerrero,PAMELA NATHALY GUERRERO ROBLES,pnguerrero1@utpl.edu.ec,N/A,N/A,1988,f,hs,0401299789,Por validaciÃ³n de crÃ©ditos pendientes,0.99,1,1,0.9,1,1,1,0.983333333,1,1,honor,N/A,Y,Y,honor
+188949,CynthiaC2001,Cynthia Carolina Olvera Herrera,cynthiacarolina902@gmail.com,N/A,N/A,2001,f,m,1850695618,deseo aprender mas en mis tiempos libres,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188954,VanessaRevelo,Vanessa Katherine Revelo Lopez,kattylvane@gmail.com,N/A,N/A,1992,f,b,1721930053,Me parece una oportunidad de aprender temas importantes de la actualidad,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188965,MariaD,Golfia MarÃ­a DÃ¡vila Cango ,mariadavilac1968@gmail.com,N/A,N/A,1968,f,b,1102766852,Ampliar conocimientos y capacitarme.,0.71,1,1,1,1,0,1,0.833333333,0,0,honor,N/A,N,N,N/A
+188966,DianaMurillo89,Diana Elizabeth Murillo Olvera,diana.murillo@educacion.gob.ec,N/A,N/A,1989,f,b,0926866575,QUISIERA CURSAR ESTE CURSO PARA MEJORAR COMO DOCENTE,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188971,juanpalate,Juan Palate,palatejuan@gmail.com,N/A,N/A,1992,m,b,1804808960,AmpliaciÃ³n de conocimientos,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188982,JuanPizanan,Juan Carlos PizanÃ¡n CalderÃ³n,jcpizananc@hotmail.com,N/A,N/A,1979,m,m,0917045254,N/A,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+188985,Ya_dira,Ponce Guaman Mishel Yadira,mishelponce28@gmail.com,N/A,N/A,2003,f,b,2101126999,me interesa un curso en particular ,0.99,1,1,1,1,1,1,1,1,1,honor,N/A,Y,Y,honor
+188990,JoelBastidas,JOEL AMADO BASTIDAS ASTUDILLO,joel_bastidas@ang.edu.ec,N/A,N/A,1997,m,m,0941326381,"Para poder generar mÃ¡s conocimientos, y mejorar profesionalmente",0.22,1,1,0,0,0,0,0.333333333,0,0,honor,N/A,N,N,N/A
+188999,GLADYS_Toscano,GLADYS ELIZABETH TOSCANO YELA,eliztoscano1977@gmail.com,N/A,N/A,1977,f,hs,1714370770,N/A,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+189006,ana_pazmino,Ana Karina PazmiÃ±o Barrios,akpazmino@pucese.edu.ec,N/A,N/A,2000,f,other,2300321326,N/A,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+189009,Lissettepluas,Lissette Andrea pluas solorzano,Lissetteandreapluassolorzano@gmail.com,N/A,N/A,1999,f,hs,0953492576,ME GUSTA APRENDER,0.22,0,1,1,0,0,0,0.333333333,0,0,honor,N/A,N,N,N/A
+189010,Stephanyrivadeneira,Stephany Rivadeneira,stephanymrl120@gmail.com,N/A,N/A,1994,f,other,1313604108,N/A,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+189011,Tixi,Alicia Yolanda Tixi Rumitaxi,aliciatp_25@hotmail.com,N/A,N/A,1995,f,b,2200270441,Porque deseo cuidar mi cuerpo y recomendar a otras personas.,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+189012,Kerly_Escobar39,Kerly Jahaira Escobar Torres ,escobarkgog@gmail.com,N/A,N/A,1986,f,hs,0923603526,Porque me gustarÃ­a aprender  de cada curso que tienen ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+189016,MILENACALLE,MILENA XIOMARA CALLE MULLA,milenacalle.0908@gmail.com,N/A,N/A,1999,f,m,0750386294,CAPCITACIONES COMPLEMENTARIAS Y COMPLETAS,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+189029,Veronica1993,Veronica Alexandra Aulla Cauja ,veronica.aullacauja@gmail.com,N/A,N/A,1993,f,m,0603795675,N/A,0.38,1,1,0,0,0,0,0.333333333,0,0,honor,N/A,N,N,N/A
+189035,JonathanGuadamud,Jonathan Nolberto Guadamud SÃ¡nchez ,jonathanguadamud98@gmail.com,N/A,N/A,1998,m,m,1351263619,Me gusta seguir aprendiendo ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+189045,Ginger_Guaman,Ginger Guaman,giguaman20@gmail.com,N/A,N/A,2002,f,other,1251229488,Para tener acceso a mÃ¡s informaciÃ³n sobre huertos familiares.,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+189055,Colivoj_9,Stefany Carolina ,tefyolivoj@gmail.com,N/A,N/A,1996,f,m,0550095350,Salud ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+189057,Danielhh08,Daniel Joaquin Herrera Hidalgo,djherrera2000@hotmail.com,N/A,N/A,2000,m,m,1207611029,Deseo ganar mas conocimiento.,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+189058,LeslieAlmeida,lesliealmeida,almeidaalcivarleslie@gmail.com,N/A,N/A,2006,f,hs,1804593638,necesito hacer cursos y me llama la atencion que son gratis ,0.22,1,1,0,0,0,0,0.333333333,0,0,honor,N/A,N,N,N/A
+189062,ROCIOSARANGO,ROCIO DEL CARMEN SARANGO SALAZAR,RocioSarango657@gmail.com,N/A,N/A,1957,f,hs,0701518714,Capacitacion  para bar escolar,0.99,1,1,1,1,1,1,1,1,1,honor,N/A,Y,Y,honor
+189069,Fernandogusnay,Fernando GusÃ±ay ,fernandogl1993.2015@gmail.com,N/A,N/A,1993,m,b,0604337766 ,Por q necesito certificado para mi currÃ­culo y obtener mÃ¡s conocimientos. ,0.4,1,0,0,1,0.833333333,0.9,0.622222222,0,0,honor,N/A,N,N,N/A
+189083,Martha_Miranda,Martha Alexandra Miranda Herrera,martha.miranda.76@gmail.com,N/A,N/A,1979,f,m,0918739087,Para poder autoeducarme,0.48,0.9,0.8,0.9,1,0,0.8,0.733333333,0,0,honor,N/A,N,N,N/A
+189087,FAMACAMPER1974,MarÃ­a FÃ¡tima PÃ©rez CAMPOVERDE ,mafapecam39@gmail.com,N/A,N/A,1974,f,other,0915351787,Curso interesante ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+189092,Mariacorf,Maria Antonieta Cornejo Fuentes ,mariacornejofuentes1@gmail.com,N/A,N/A,1961,f,b,0907617138,Aprender de alimentaciÃ³n y ponerlo en prÃ¡ctica en mi familia para conservar la salud y evitar desarrollo de enfermedades a futuro.,0.72,0,0.8,0.9,1,1,1,0.783333333,1,1,honor,N/A,N,N,N/A
+189095,KatherineMenendezB,Katherine Adriana Menendez Baren ,kathhleenmenendez@hotmail.es,N/A,N/A,1994,f,b,1206398487,porque me gusta aprender ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+189098,Lupe_Gurumendi,Lupe Agripina Gurumendi Murillo ,lupegurumendimurillo@gmail.com,N/A,N/A,1972,f,m,1203322787,N/A,0.53,1,0.9,1,1,0,1,0.816666667,0,0,honor,N/A,N,N,N/A
+189101,Marvin-chimbo,MARVIN ANTONIO CHIMBO GUERRERO ,marvinchimbo1@gmail.com,N/A,N/A,1999,m,b,0954537130,FORTALECER MIS CONOCIMIENTOS ,0.81,1,1,1,1,1,1,1,0,0,honor,N/A,Y,Y,honor
+189102,DomenicaMora_,MORA CEREZO DOMENICA ADRIANA,domenica-528@hotmail.com,N/A,N/A,2000,f,hs,0952496446,Aprender ,0.96,1,1,1,1,1,1,1,0.75,0.75,honor,N/A,Y,Y,honor
+189107,Dignaperalta,Digna Peralta ,digna.peralta@educacion.gob.ec,N/A,N/A,1984,f,b,092411130-5,Por quÃ© enseÃ±a ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+189114,Isabel_Guales,Isabel Guales Dumes,isa1020@gmail.com,N/A,N/A,1968,f,m,0910159953,Para actualizar mis conocimientos,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+189118,EstherFranco,MÃ³nica Esther Franco GarcÃ­a ,monica.franco@educacion.gob.ec,N/A,N/A,1990,f,b,0922793948,Me parece interesante este curso ya que sÃ© que aprenderÃ© mÃ¡s sobre los alimentos ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+189121,Connie_Cornejo,Connie Elizabeth Cornejo Leon ,conniecornejo784@gmail.com,N/A,N/A,1992,f,b,0940855075,El curso me pareciÃ³ interesante. ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+189125,SilvanaValenciaVintimilla,Silvana Belen Valencia Vintimilla ,sbvalencia87@gmail.com,N/A,N/A,1987,f,a,0105123111,Por la facilidad para poder estudiar ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+189128,GissMicolta1995,Gissela Elizabeth Micolta Quintero,gisselamicolta7@gmail.com,N/A,N/A,1995,f,b,1724117096,Adquirir y renovar conocimientos.,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+189145,marvin-chimbo8,MARVIN ANTONIO CHIMBO GUERRERO ,marvinchimbo442@gmail.com,N/A,N/A,1999,m,b,0954537130,FORTALECER MI PERFIL DOCENTE ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+189159,ErikaEstrada,Erika Fernanda Estrada Tigre,erikaestrada883@gmail.com,N/A,N/A,1998,f,hs,0107145138,Porque son los cursos actualizados ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+189164,Sarahi-Sani2001,ALISSON SARAHI SANI GUANOLUIZA ,stalinmartinez78@gmail.com,N/A,N/A,2001,f,a,1727428714,porque aprender mas ,0.27,0.8,0.8,0.9,0,0,0,0.416666667,0,0,honor,N/A,N,N,N/A
+189169,Gladysmarquezb,Gladys Mercedes MÃ¡rquez Burgos,gm-marbur@hotmail.com,N/A,N/A,1988,f,a,0914329073,Para poder superarme profesionalmente,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+189173,SANTIAGORUEDA,SANTIAGO PATRICIO RUEDA ESPINOSA,andy140689@gmail.com,N/A,N/A,1984,m,m,1713225256,estudiar,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+189193,GlendaMora,Glenda Felicita Mora AcuÃ±a,gmora25@yahoo.com,N/A,N/A,1969,f,m,0911327922,N/A,1,1,1,1,1,1,1,1,1,1,honor,N/A,Y,Y,honor
+189194,AngelaCh,Angela Choez ,pattychoez@utpl.edu.ec,N/A,N/A,1983,f,hs,0922935499,Estudiante utpl,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+189213,Cristhoferarambulo,Cristhofer Arambulo ,crisap_7_@hotmail.com,N/A,N/A,1988,m,a,0922124649,Me pareciÃ³ interesante para cubrir mis vacÃ­os ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+189228,julia_siguenza09,julia suguenza,siguenza09.julia@gmail.com,N/A,N/A,1977,f,hs,1900400522,por importamte para el bienestrar  de la salud,0.82,1,1,0.8,0.9,0.833333333,0.9,0.905555556,0.375,0.375,honor,N/A,Y,Y,honor
+189233,katiuskaHG,HERMENEGILDO GONZALEZ KATIUSKA TOMASA,kathigonzales1479@gmail.com,N/A,N/A,1989,f,b,0923843312,ADQUIRIR NUEVOS CONOCIMIENTOS PARA EL DESARROLLO DE MI AMBITO PROFESIONAL,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+189236,Karla_mar,Karla Jessenia Marquez Olaya ,karlamarquezolaya@hotmail.com,N/A,N/A,1992,f,b,0919427955,Me gustarÃ­a aprender como es una correcta alimentaciÃ³n para los infantes .,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+189238,Javier_Herrera1992,Javier Alexander Herrera Barcos ,jaherrerabarcos@gmail.com,N/A,N/A,1995,m,b,1250217096,Adquirir conocimiento gracias a sus cursos ,0.33,1,0,0,0,1,1,0.5,0,0,honor,N/A,N,N,N/A
+189239,Arielo69,Ariel FernÃ¡ndez ,arielfernxndezl@gmail.com,N/A,N/A,2002,m,hs,1727739151,Por sus cursos gratuitos ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+189259,crisollag1,Cristina Evelyn Ollague Arguello,cristina.ollague@educacion.gob.ec,N/A,N/A,1991,f,b,0930793294,N/A,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+189270,douglas_badillo,Douglas Israel Badillo Torres ,douglas.badillo@educacion.gob.ec,N/A,N/A,1980,m,b,0919918045,Porque es gratis ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+189272,KerlyReyes,Kerly Vanessa Reyes Camino ,misskerly2024@gmail.com,N/A,N/A,1982,f,other,0921619508,Para estudiar ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+189277,MariaFernanda_EscantaQuilca,Maria Fernanda Escanta Quilca,maferescantaquilca@outlook.com,N/A,N/A,1991,f,hs,1003583786,Me parece muy importante estos cursos ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+189280,diana_arauz,Diana Pilar Arauz chevez,valediarober@gmail.com,N/A,N/A,1966,f,m,0910610054,Cursos interesantes,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+189291,Ale_jaramillo9603,Daniel Alejandro Jaramillo Santana ,Redragon9603@gmail.com,N/A,N/A,1996,m,hs,0925381098,Encantado en saber mÃ¡s sobre lo culinario y su todo,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+189300,MeryMarina,Mery Pilaguano,merypilaguanos@gmail.com,N/A,N/A,1993,f,b,0503799538,Fortalecimiento de la sabiduria ancestral,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+189317,mayanin_mendoza,MAYANIN MAGALY MENDOZA MUENTES,mayanin.mendoza@educacion.gob.ec,N/A,N/A,1980,f,m,0917432684,formaciÃ³n continua,0.88,0.9,0.9,1,1,0.833333333,0.9,0.922222222,0.625,0.625,honor,N/A,Y,Y,honor
+189318,veronica_caiza,VERONICA ALEXANDRA CAIZA COLA,veronicaa.caiza@educacion.gob.ec,N/A,N/A,1984,f,m,0922320098,formaciÃ³n continua,0.93,0.9,1,1,1,0.833333333,1,0.955555556,0.75,0.75,honor,N/A,Y,Y,honor
+189320,DiegoEliseoPalaciosRosado,Diego Eliseo Palacios Rosado,diegopalaciosrosado@gmail.com,N/A,N/A,1987,m,m,0927163931,N/A,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+189330,Yuri_moran,Yuri Tatiana MorÃ¡n Aroca ,yurimoran69@gmail.com,N/A,N/A,1990,f,m,0922287412,Por quÃ© trabajo con niÃ±os ,0.66,0.9,0,0.5,1,1,1,0.733333333,1,1,honor,N/A,N,N,N/A
+189334,johanna-duque,JOHANNA MARÃA DUQUE MACÃAS,DMjomar-23@gmail.com,N/A,N/A,1979,f,b,1203569643,Porque me estÃ¡ dando la oportunidad de capacitarme y ampliar mis conocimientos,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+189336,JOHANNADUQUE,JOHANNA MARÃA DUQUE MACÃAS,jomar2379@gmail.com,N/A,N/A,1979,f,b,1203569643,Porque me quiero capacitar,0.86,1,1,0.9,1,0.666666667,0.9,0.911111111,0.875,0.875,honor,N/A,Y,Y,honor
+189341,Nube_pulla,NUBE BEATRIZ PULLA RAMOS,niucielo@hotmail.com,N/A,N/A,1966,f,b,1102516026,me gusto el curso,0.97,1,1,1,1,1,1,1,1,1,honor,N/A,Y,Y,honor
+189344,Sonia79,Sonia Esther Tenorio Quintero ,soniatenorioquintero1979@gmail.com,N/A,N/A,1979,f,b,0802441204,N/A,0.35,0,0.2,1,0,1,1,0.533333333,0,0,honor,N/A,N,N,N/A
+189350,Dt1998,Diego Paul Toapanta Chimba ,diiegot.0605@gmail.com,N/A,N/A,1998,m,m,1726624446,Excelente campu,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+189357,Eliz2025,Silvana Elizabeth Carpio JirÃ³n,secarpio@hotmail.com,N/A,N/A,1984,f,jhs,1104258387,Quiero incrementar mis conocimientos y desarrollar habilidades para el adecuado majo de alimentos,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+189367,Maria_Manzaba28,Maria Esther Manzaba Quinto ,mariamanzaba143@gmail.com,N/A,N/A,1997,f,hs,1205469479,Cursos gratuitos ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+189373,dnoriega,Diana Lorena Noriega Sempertegui,dnoriega.5340@gmail.com,N/A,N/A,1982,f,b,0921749404,Me interesa tener mas experiencia en distintas ramas y aprender un poco mas dia a dia ,0.31,1,1,0.9,0,0,0,0.483333333,0,0,honor,N/A,N,N,N/A
+189377,Aracely_Monserrate,Aracely Maria Monserrate Mora,aracelymonserratemora@gmail.com,N/A,N/A,1971,f,b,"1303950008
+",Porque me interesa aprender sobre los cursos ya que es una oportunidad de adquirir nuevos conocimentos,0.92,1,1,1,1,1,1,1,1,1,honor,N/A,Y,Y,honor
+189381,Maritza_Munoz,Maritza Lilibeth MuÃ±oz GarcÃ­a,maritzamunozgarcia0@gmail.com,N/A,N/A,1999,f,b,0929356996,"Me gusta estar en constante aprendizaje para asÃ­ potenciar mis habilidades, actualizar mis conocimientos y superar los diferentes desafÃ­os que traten de limitarme. ",0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+189382,John_Gonza,John Anderson Gonza Celi,gonzajohn2003@gmail.com,N/A,N/A,2003,m,hs,1726418609,Me interesa esta plataforma porque permite a muchas personas obtener informaciÃ³n y educaciÃ³n a travÃ©s de medios virtuales. ,0.3,1,0,0.8,1,0,0,0.466666667,0,0,honor,N/A,N,N,N/A
+189384,PalmaYagos,Freddy Roberto Palma Yagos,freddyr.palma@educacion.gob.ec,N/A,N/A,1988,m,b,0927115543,Cursos,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+189385,Alba1974,Alba Tatiana Mieles Pico,tatianamielespico@hotmail.com,N/A,N/A,1974,f,hs,1307767390,N/A,0.33,1,1,0,1,0,0,0.5,0,0,honor,N/A,N,N,N/A
+189389,Jannelyn_melgarejo,Jannelyn Melgarejo,janelyn-123@outlook.es,N/A,N/A,1996,f,b,0923392955,Capacitacion,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+189390,DayanaAlcivar,Dayana Alcivar,jamilethalcivar56@gmail.com,N/A,N/A,2007,f,hs,1314992163,Aprender conocimiento,0.74,0.8,1,0.9,1,0.833333333,0.8,0.888888889,0,0,honor,N/A,N,N,N/A
+189391,karenmerchan,Karen Vanessa Merchan Manrique,kvmm_17@hotmail.com,N/A,N/A,1988,f,m,0926518325,CapacitaciÃ³n ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+189393,michell-fuentes00,Michell Maryjane Fuentes Romero,maryjanemichell2004@gmail.com,N/A,N/A,2004,f,hs,0250249356,"tener conocimientos ampliados , con calidad",0.28,0.8,0,0.8,1,0,0,0.433333333,0,0,honor,N/A,N,N,N/A
+189394,Andreanicole1998,Andrea Nicole Cevallos RamÃ­rez,nicolecr1@hotmail.com,N/A,N/A,1998,f,other,0958495608,Aprender de manera independiente ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+189395,Henryramirez,Henry Ramirez ,hennelson16@gmail.com,N/A,N/A,2000,m,b,0931539854,Para aprender ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+189400,hectorguevara,HÃ©ctor Jacinto Guevara Anzules,hectorgapsico2012@gmail.com,N/A,N/A,1978,m,m,0918128919,Tiene una excelencia educativa,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+189410,edi_arias,Edison Arias ,edisonalexander196@gmail.com,N/A,N/A,1996,m,hs,0605309236,Porque es una forma de empezar a estudiar NutriciÃ³n ya que me apasiona la cocina y ciencias a fines ademÃ¡s que tiene la ventaja de ser online lo que me permite trabajar y estudiar al mismo tiempo. Y que es gratuito ya que de momento no me puedo permitir costear una universidad,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+189412,vivianajordanmacias,Viviana JordÃ¡n MacÃ­as ,vjordan555@hotmail.com,N/A,N/A,1979,f,m,0918186115,Me parece muy interesante participar con temas actuales e innovadores ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+189419,Kattia_Gonza,Kattia Paulina Gonza Celi,gonzakattia2@gmail.com,N/A,N/A,2005,f,hs,1725145799,Para entender mÃ¡s de la plataforma y aprender. ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+189420,belen1809,Maria Belen Delgado Flores,mdelgadoflores310@gmail.com,N/A,N/A,1989,f,hs,1725013591,deseo capacitarme ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+189429,Leticianzules12-,Virginia Leticia Anzules Castro,letyvirg@yahoo.es,N/A,N/A,1974,f,other,0916384472,Obtener mayor conocimiento,0.88,0.9,1,1,0.9,1,1,0.966666667,0.5,0.5,honor,N/A,Y,Y,honor
+189434,JeimiSanchez,Jeimi Sanchez,veronicasachez.397@gmil.com,N/A,N/A,1982,f,hs,1400600886,Por quiero aprender  mas,0.11,1,0,0,0,0,0,0.166666667,0,0,honor,N/A,N,N,N/A
+189446,Luis_Romero,LUIS FERNANDO ROMERO VERA,luisf.romero@educacion.gob.ec,N/A,N/A,1976,m,m,0915650097,ayudan a mantenerme actualizado,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+189450,Pauchy,Nelly Toala ,olycampus@gmail.com,N/A,N/A,1970,f,hs,1203095920,Por aprender mejor y mÃ¡s ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+189452,Leonoly,Nelly Olinda ,olycampus1@gmail.com,N/A,N/A,1970,f,hs,1203095920,Aprender ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+189458,Lis_Meza7,Lisbeth Meza ,cinthiameza3@gmail.com,N/A,N/A,1999,f,b,0957163132,Me gusta capacitarme constantemente ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+189459,Elizabeth197111,Rosa Elizabeth Zaldumbide Verdesoto,rosa.zaldumbide@educacion.gob.ec,N/A,N/A,1971,f,m,1712018140,Porque los cursos que realizan de forma online hace que los docentes afiancemos nuestros conocimientos para el bienestar de nuestros niÃ±os y niÃ±as.,0.11,1,0,0,0,0,0,0.166666667,0,0,honor,N/A,N,N,N/A
+189474,Alexa1987,Ale Calero,alecalero40@gmail.com,N/A,N/A,1987,f,other,0603468075,Quiero mejorara mi carpeta igual me gusta realizar  cursos en el arÃ©a de Salud,0.33,1,1,1,0,0,0,0.5,0,0,honor,N/A,N,N,N/A
+189477,metenesaca,monica enith tenesaca macas,metenesaca@utpl.edu.ec,N/A,N/A,1995,f,m,1104068018,libros de estudio,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+189489,Pelly-Correa,Pelly Del Rocio Correa Anchundia ,peggycorreaanchundia@gmail.com,N/A,N/A,2000,f,b,0928938992,Me gustarÃ­a aprender mÃ¡s.,0.43,1,1,1,1,0,0,0.666666667,0,0,honor,N/A,N,N,N/A
+189492,RUDYCA94,Ruth Madeline Caputti Melgarejo,ruthcaputti2020@hotmail.com,N/A,N/A,1994,f,a,0952166080,PARA PODER APRENDER MAS Y SER ALGUIEN EN LA  VIDA ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+189494,Joselina,JOSSELYN CECIBEL FLORES AGUIRRE ,joselina201994@hotmail.com,N/A,N/A,1994,f,b,0950658880,CapacitaciÃ³n ,0.11,1,0,0,0,0,0,0.166666667,0,0,honor,N/A,N,N,N/A
+189497,JavierNoriegaO,Javier Noriega,javier3305noriegaortega@gmail.com,N/A,N/A,1984,m,hs,0603363250,Por los cursos,0.86,1,1,1,0,1,0.8,0.8,1,1,honor,N/A,Y,Y,honor
+189498,DAYANAMICHELLE,DAYANA MICHELLE GUADAMUD REYES,alumna-dayanaguadamud@hotmail.com,N/A,N/A,1998,f,other,0954289112,PARA ADQUIRIR CONOCIMIENTO,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+189502,DaysySola,Daysy Corina Sola Granja,dcsola@utpl.edu.ec,N/A,N/A,1997,f,other,1726157108,aprendizaje personal,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+189503,MarcoEras,Marco Augusto,marcoeras29@gmail.com,N/A,N/A,1974,m,a,0702573767,Por sus cursos de alimentacion,0.48,0.9,1,1,0,0,0,0.483333333,0,0,honor,N/A,N,N,N/A
+189514,Belen_Troya,Belen  del pilar Troya Herrera,troyabelen995@gmail.com,N/A,N/A,2006,f,hs,0930031810,por los cursos que ofrecen ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+189526,Adelafa,Adela Zolanda Veloz Paredes,avelpa@yahoo.es,N/A,N/A,1975,f,m,1203129620,Para adquirir nuevos conocimientos,0.82,1,1,1,1,1,1,1,0.958333333,0.958333333,honor,N/A,Y,Y,honor
+189533,JennyNarvaez3,JENNY ALEXANDRA NARVAEZ ROMERO,narvaezmia931@outlook.com,N/A,N/A,1973,f,a,0703055905,ACTUALIZAR MIS CONOCIMENTOS,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+189535,Elena_Reino,MarÃ­a Elena Reino Bermeo ,mereino@una.edu.ec,N/A,N/A,2002,f,b,0107205064,Por mi bienestar ,0.11,1,0,0,0,0,0,0.166666667,0,0,honor,N/A,N,N,N/A
+189539,mjmartinez16,Mariana Judith MartÃ­nez Herrera,mjmartinez@utpl.edu.ec,N/A,N/A,1976,f,other,0603151366,validacion,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+189547,Andrea2025,Andrea Maribel AragÃ³n Morillo ,karlajamileth2023a@gmail.com,N/A,N/A,1991,f,b,1724968274,Obtener mÃ¡s conocimiento en mÃºltiples Ã¡reas ,0.8,1,0.2,0,1,1,1,0.7,1,1,honor,N/A,Y,Y,honor
+189548,BetzyVera,Betzy Gabriela Vera Navarrete,betzyvera0191@gmail.com,N/A,N/A,1992,f,hs,1725069890,El capacitarme me ayuda adquirir diferentes tipos de habilidades y asi poner en practica en la vida diaria ,0.99,1,1,1,1,1,0.9,0.983333333,1,1,honor,N/A,Y,Y,honor
+189553,Enpaco82,ENRIQUE MOYA,enpaco82@hotmail.com,N/A,N/A,1982,m,b,1714381033,Tiene cursos muy interesantes y de mucha utiilidad para el conocimiento de la comunidad,0.38,1,1,0,0,0,0,0.333333333,0,0,honor,N/A,N,N,N/A
+189568,RosaAnastacio,Rosa Anastacio Paladines,relena02@hotmail.es,N/A,N/A,1967,f,m,0911327153,Incentivar a las personas de la importancia que tiene la alimentaciÃ³n en nuestra vida.,0.72,1,0,1,1,1,1,0.833333333,1,1,honor,N/A,N,N,N/A
+189572,Dlore1981,Daisy Lorena Chamorro Chafla ,diana17163241@tsachila.edu.ec,N/A,N/A,1981,f,b,1717106080,Capacitarme,0.11,1,0,0,0,0,0,0.166666667,0,0,honor,N/A,N,N,N/A
+189575,SOLIS,HEREDIA SOLIS WENDY JOHANNA ,paul.exence@educacion.gob.ec,N/A,N/A,1988,f,hs,0940959117,para seguir adelante,0.64,1,1,0.9,1,0.666666667,0.9,0.911111111,0,0,honor,N/A,N,N,N/A
+189576,Etarira,Elvis Tarira,elvistarirav@outlook.com,N/A,N/A,1991,m,other,1206709253,Por los cursos del ministerio de turismo ,0.11,1,0,0,0,0,0,0.166666667,0,0,honor,N/A,N,N,N/A
+189585,0930024096,Bianca Noelia ChÃ¡vez Reto,noechavez0630@gmail.com,N/A,N/A,2006,f,b,0930024096,â€¦â€¦,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+189586,Hellenymatias,Helleny Betzabeth MatÃ­as Anastacio ,hellenybma@outlook.es,N/A,N/A,1999,f,m,2450100785,N/A,0.83,1,1,1,1,1,1,1,1,1,honor,N/A,Y,Y,honor
+189589,Domenica_Men2007,DomÃ©nica Nicol Meneses Bravo,domenicamb1925@gmail.com,N/A,N/A,2007,f,b,0954385100,Para aprender,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+189590,AnthonySandro8,Anthony Sandro Flores Teran,anthonytetere23@gmail.com,N/A,N/A,2001,m,b,0942015827,Aprender ,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A
+189592,Julia_victoria78,JULIA VICTORIA SIGUENZA OCHOA,dayanavesi09@gmail.com,N/A,N/A,1975,f,other,1900400522,N/A,0.21,1,0.9,0,0,0,0,0.316666667,0,0,honor,N/A,N,N,N/A
+189594,0929864254,Manuel Cercado Cantos,manuekcantos@gmail.com,N/A,N/A,2007,m,hs,0929864254,Realizar cursos,0.11,0,1,0,0,0,0,0.166666667,0,0,honor,N/A,N,N,N/A
+189603,Pierage,Pierina Ivanna Gellibert Alvarez ,Piera.gellibert@gmail.com,N/A,N/A,2002,f,hs,2450333741,Tiene cursos muy buenos ,0.82,1,1,1,1,1,1,1,0,0,honor,N/A,Y,Y,honor
+189783,CarlosMC2003,Carlos Morocho,cemorocho5@utpl.edu.ec,N/A,N/A,2003,m,a,1105559098,Por conocer sobre los cursos que se ofrecen.,0,0,0,0,0,0,0,0,0,0,honor,N/A,N,N,N/A

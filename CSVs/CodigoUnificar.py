@@ -1,12 +1,12 @@
 import pandas as pd
 import os
 
+
 # Solamente cambiar las rutas relativas para poder acceder al documento alojado en cada carpeta.
 # Rutas de los archivos CSV
-csv_profile_path = r"CSVs/Unificar Abr-Jun25 Nuevo/UTPL_CREAA2_2025_1_student_profile_info_2025-06-16-0027.csv"
-csv_grade_path = r"CSVs/Unificar Abr-Jun25 Nuevo/UTPL_CREAA2_2025_1_grade_report_2025-06-16-0027.csv"
-csv_niu = r"CSVs/Unificar Abr-Jun25 Nuevo/Reporte CursoAccesActual.csv"
-
+csv_profile_path = r"CSVs/Unificar Abri-Jun25 MultCursos/AlimentacionSaludable/UTPL_EFHE23_2025_1_student_profile_info_2025-07-24-1748.csv"
+csv_grade_path = r"CSVs/Unificar Abri-Jun25 MultCursos/AlimentacionSaludable/UTPL_EFHE23_2025_1_grade_report_2025-07-24-1748.csv"
+csv_niu = r"CSVs/Unificar Abri-Jun25 MultCursos/AlimentacionSaludable/Reporte AlimentacionSaludable.csv"
 
 # Verificar si los archivos existen
 if not os.path.exists(csv_profile_path) or not os.path.exists(csv_grade_path):
