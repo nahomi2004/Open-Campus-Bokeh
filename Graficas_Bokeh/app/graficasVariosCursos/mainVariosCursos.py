@@ -10,25 +10,27 @@ from funciones import *
 
 # desc0 = Div(text=open(join(dirname(__file__), "TituloAlimentacion.html"), encoding="utf-8").read(), sizing_mode="stretch_width")
 # desc0 = Div(text=open(join(dirname(__file__), "TituloDesarrolloComunitario.html"), encoding="utf-8").read(), sizing_mode="stretch_width")
-# desc0 = Div(text=open(join(dirname(__file__), "TituloHuertosFamiliares.html"), encoding="utf-8").read(), sizing_mode="stretch_width")
-desc0 = Div(text=open(join(dirname(__file__), "TituloRecursoSuelo.html"), encoding="utf-8").read(), sizing_mode="stretch_width")
+desc0 = Div(text=open(join(dirname(__file__), "TituloHuertosFamiliares.html"), encoding="utf-8").read(), sizing_mode="stretch_width")
+# desc0 = Div(text=open(join(dirname(__file__), "TituloRecursoSuelo.html"), encoding="utf-8").read(), sizing_mode="stretch_width")
 desc1 = Div(text=open(join(dirname(__file__), "grafica1.html"), encoding="utf-8").read(), sizing_mode="stretch_width")
 desc2 = Div(text=open(join(dirname(__file__), "grafica2.html"), encoding="utf-8").read(), sizing_mode="stretch_width")
 desc3 = Div(text=open(join(dirname(__file__), "grafica3.html"), encoding="utf-8").read(), sizing_mode="stretch_width")
 desc4 = Div(text=open(join(dirname(__file__), "grafica4.html"), encoding="utf-8").read(), sizing_mode="stretch_width")
+desc5 = Div(text=open(join(dirname(__file__), "grafica5.html"), encoding="utf-8").read(), sizing_mode="stretch_width")
+desc6 = Div(text=open(join(dirname(__file__), "grafica6.html"), encoding="utf-8").read(), sizing_mode="stretch_width")
 curdoc().add_root(column(desc0))
 
 # csv_path_ed1 = r"../../../CSVs/Unificar Abri-Jun25 MultCursos/AlimentacionSaludable/Reporte AlimentacionSaludable.csv"
 # csv_path_ed1 = r"../../../CSVs/Unificar Abri-Jun25 MultCursos/DesarrolloComunitario/Reporte DesarrolloComunitario.csv"
-# csv_path_ed1 = r"../../../CSVs/Unificar Abri-Jun25 MultCursos/HuertosFamiliares/Reporte HuertosFamiliares.csv"
-csv_path_ed1 = r"../../../CSVs/Unificar Abri-Jun25 MultCursos/ManejorRecursoSuelo/Reporte RecursoSuelo.csv"
+csv_path_ed1 = r"../../../CSVs/Unificar Abri-Jun25 MultCursos/HuertosFamiliares/Reporte HuertosFamiliares.csv"
+# csv_path_ed1 = r"../../../CSVs/Unificar Abri-Jun25 MultCursos/ManejorRecursoSuelo/Reporte RecursoSuelo.csv"
 
 data_ed1 = pd.read_csv(csv_path_ed1)
 
 # eval_ed1 = ["Test 01", "Test 02", "Test 03", "Test 04", "Test 05", "Test 06", "Reto", "Reto1"] # Alimentación Saludable
 # eval_ed1 = ["tst 01", "tst 02", "tst 03", "tst 04", "tst 05", "tst 06", "rts 01", "rts 02"] # Desarrollo Comunitario
-# eval_ed1 = ["Reto01", "testparcial1", "testparcial2", "testparcial3", "testparcial4", "testparcial5", "Reto2", "testparcial6"] # Huertos Familiares
-eval_ed1 = ["test 01", "test 02", "test 03", "test 04", "test 05", "test 06", "reto1", "reto2"] # Recurso Suelo
+eval_ed1 = ["Reto01", "testparcial1", "testparcial2", "testparcial3", "testparcial4", "testparcial5", "Reto2", "testparcial6"] # Huertos Familiares
+# eval_ed1 = ["test 01", "test 02", "test 03", "test 04", "test 05", "test 06", "reto1", "reto2"] # Recurso Suelo
 
 def generar_figuras_por_edicion(data, titulo_barras, titulo_pastel):
     total_estudiantes = len(data)
@@ -239,10 +241,89 @@ grafica_porcentaje_ed1 = generar_grafica_porcentaje_semanal(
 grafica_porcentaje_ed1_sin_inactivos = generar_grafica_porcentaje_sin_inactivos(
     data_ed1, eval_ed1, "Aprobados y Reprobados (sin Inactivos) por Semana")
 
+'''
+GRAFICA: Promedios por Evaluación Semanal con 0s
+'''
+# Calcular promedios por semana
+promedios_semanales = data_ed1[eval_ed1].mean()
+# Crear DataFrame con los valores
+hist_data = pd.DataFrame({
+    "Semana": eval_ed1,
+    "Promedio": promedios_semanales
+})
 
+# Fuente de datos para Bokeh
+source_hist = ColumnDataSource(hist_data)
 
-# Añadir al docuemtno
+# Figura: Promedio de Notas por Semana
+p_hist = figure(
+    x_range=FactorRange(*hist_data["Semana"].astype(str)),  
+    title="Promedio de Notas por Semana",
+    x_axis_label="Evaluaciones",
+    y_axis_label="Promedio",
+    width=800,
+    height=400
+)
+
+p_hist.vbar(
+    x="Semana", 
+    top="Promedio",  
+    source=source_hist, 
+    width=0.6, 
+    color="dodgerblue"
+)
+
+p_hist.line(
+    x=hist_data["Semana"], 
+    y=hist_data["Promedio"], 
+    line_width=2, 
+    color="red"
+)
+
+p_hist.add_tools(HoverTool(tooltips=[("Promedio:", "@Promedio")], show_arrow=False, point_policy='follow_mouse'))
+
+'''
+GRAFICA: Promedios por Evaluación Semanal sin 0s
+'''
+filtered_data = data_ed1[(data_ed1[eval_ed1] != 0).any(axis=1)]
+promedios_filtrados = filtered_data[eval_ed1].mean()
+
+hist_data_filtrada = pd.DataFrame({
+    "Semana": eval_ed1,
+    "Promedio": promedios_filtrados
+})
+
+source_hist_filtrada = ColumnDataSource(hist_data_filtrada)
+
+p_hist_filtrada = figure(
+    x_range=FactorRange(*hist_data_filtrada["Semana"].astype(str)),  
+    title="Promedio de Notas por Semana (Excluyendo Estudiantes con Solo 0s)",
+    x_axis_label="Evaluaciones",
+    y_axis_label="Promedio",
+    width=800,
+    height=400
+)
+
+p_hist_filtrada.vbar(
+    x="Semana", 
+    top="Promedio",  
+    source=source_hist_filtrada, 
+    width=0.6, 
+    color="orange"
+)
+
+p_hist_filtrada.line(
+    x=hist_data_filtrada["Semana"], 
+    y=hist_data_filtrada["Promedio"], 
+    line_width=2, 
+    color="red"
+)
+
+p_hist_filtrada.add_tools(HoverTool(tooltips=[("Promedio:", "@Promedio")], show_arrow=False, point_policy='follow_mouse'))
+
 curdoc().add_root(column(desc1,row(bar1)))
 curdoc().add_root(column(desc2,row(pie1)))
 curdoc().add_root(column(desc3,row(grafica_porcentaje_ed1)))
 curdoc().add_root(column(desc4,row(grafica_porcentaje_ed1_sin_inactivos)))
+curdoc().add_root(column(desc5, row(p_hist)))
+curdoc().add_root(column(desc6, row(p_hist_filtrada)))
